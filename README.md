@@ -38,7 +38,7 @@ Substantive meaning of variables <code>vote_events:motion:title</code>, <code>vo
 
 ## Author
 
-Created by <a href = "https://twitter.com/kamilgregor"><strong>Kamil Gregor</strong></a> (with <a href = "http://kohovolit.eu/en/"><strong>KohoVolit.eu</strong></a> and <a href = "http://www.muni.cz/"><strong>Masaryk University</strong></a>) in the <em>Otevírání výsledků hlasování na obecních zastupitelstvech</em> (<em>Opening up voting results in municipal assemblies</em>) project supported by the <a href = "http://www.osf.cz"><strong>Open Society Fund Prague</strong></a>. 
+Created by <a href = "https://twitter.com/kamilgregor"><strong>Kamil Gregor</strong></a> (with <a href = "http://kohovolit.eu/en/"><strong>KohoVolit.eu</strong></a> and <a href = "http://www.muni.cz/"><strong>Masaryk University</strong></a>) in the <em>Otevírání výsledků hlasování na obecních zastupitelstvech</em> (Opening up voting results in municipal assemblies) project supported by the <a href = "http://www.osf.cz"><strong>Open Society Fund Prague</strong></a>. 
 
 ## License
 

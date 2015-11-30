@@ -14,6 +14,8 @@ Most municipalities included here have started to record and/or publish roll cal
 
 Data on each municipality are split into folders by electoral terms. Each term contains CSV files on party groups, vote events, votes in a given term. If more information than just voters' names is available, it also contains a CSV file on voters. Types of information available in each municipality vary. See an overview of variables in the CSV files and examples of their values.
 
+### voters
+
 ## Data updates
 
 In case of several larger municipalities that publish roll call results in the HTML format, there are live scrapers of the official municipal websites that run every Monday. In other cases, the data is recorded manually based on minutes from the plenary sessions. This data is updated irregularly.

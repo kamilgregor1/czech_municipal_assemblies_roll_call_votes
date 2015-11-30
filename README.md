@@ -12,9 +12,14 @@ Most municipalities included here have started to record and/or publish roll cal
 
 ## Data specification
 
-Data on each municipality are split into folders by electoral terms. Each term contains CSV files on party groups, vote events, votes in a given term. If more information than just voters' names is available, it also contains a CSV file on voters. Types of information available in each municipality vary. See an overview of variables in the CSV files and examples of their values.
+Data on each municipality are split into folders by electoral terms. Each term contains CSV files on party groups, vote events, votes in a given term. If more information than just voters' names is available, it also contains a CSV file on voters. The following variables are included in the files:
 
-### voters
+### groups
+
+<code>id</code>                   a unique identifier of a party group, usually its abbreviation
+<code>legislative_session:id</em>
+
+Types of information available in each municipality vary. See an overview of variables in the CSV files and examples of their values.
 
 ## Data updates
 

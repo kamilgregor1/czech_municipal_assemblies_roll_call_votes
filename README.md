@@ -34,7 +34,7 @@ The quorum is almost always calculated out of all voters in the assembly (not ju
 
 In some municipalities, voters are organized in formal party groups (<em>zastupitelský klub</em>). In most cases, however, voters' affiliations to political parties are not formally reflected in the assembly. A variable <code>group:id</code> usually indicates a political party that proposed a given voter as a candidate in municipal elections (<em>navrhující strana</em>). This is not identical to a name of a candidate list.
 
-Substantive meaning of variables <code>vote_events:motion:title</code>, <code>vote_events:motion:number</code> and <code>vote_events:title</code> varies among municipalities depending on how information on voting is published In some cases, one <code>motion</code> corresponds to a single item of the session agenda. In other, it corresponds to one proposal (project / dossier). In both cases, there could be multiple vote events about the same <code>motion</code>. In all municipalities, the variable <code>vote_events:title</code> is only used if it always refers to information that is unique to individual vote events.
+Substantive meaning of variables <code>vote_events:motion:title</code>, <code>vote_events:motion:number</code> and <code>vote_events:title</code> varies among municipalities depending on how information on voting is published. In some cases, one motion corresponds to a single item of the session agenda. In other, it corresponds to one proposal (project / dossier). In both cases, there could be multiple vote events about the same motion. In all municipalities, the variable <code>vote_events:title</code> is only used if it always refers to information that is unique to individual vote events.
 
 ## Author
 

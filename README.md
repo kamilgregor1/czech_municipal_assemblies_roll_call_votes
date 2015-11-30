@@ -17,6 +17,7 @@ Data on each municipality are split into folders by electoral terms. Each term c
 ### groups
 
 <code>id</code>                       a unique identifier of a party group, usually its abbreviation
+
 <code>legislative_session:id</code>
 
 Types of information available in each municipality vary. See an overview of variables in the CSV files and examples of their values.

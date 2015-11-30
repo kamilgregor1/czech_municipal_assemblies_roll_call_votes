@@ -16,7 +16,7 @@ Data on each municipality is split into subdirectories by electoral terms. Each 
 
 ## Data updates
 
-In case of several larger municipalities that publish roll call results in the HTML format, there are live scrapers of the official municipal websites that run every Monday. In other cases, the data is recorded manually based on minutes from the plenary sessions. This data is updated irregularly.
+In case of several larger municipalities that publish roll call results in the HTML format, there are live scrapers of the official municipal websites that run every Monday. In other cases, the data is manually copied from minutes from the plenary sessions. This data is updated irregularly.
 
 ## Miscellaneous information
 

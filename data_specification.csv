@@ -14,7 +14,7 @@ vote_events:motion:number,,,"1","1",
 vote_events:number,"1","1","1","1",
 vote_events:result,"Přijato","SCHVÁLENO","pass",,
 vote_events:start_date,"2015-12-1","2015-12-1","30.11.2010","2015-12-1","2015-12-1"
-vote_events:start_time,"11:10:36","11:10:36",,"11:10:36"
+vote_events:start_time,"11:10:36","11:10:36",,"11:10:36","11:10:36"
 votes:group:id,"ČSSD","ČSSD","ČSSD","ČSSD","ČSSD"
 votes:option,"Ano","Pro","yes","yes","PRO"
 votes:vote_event:id,"zmb-z7-01/20141125-1-30758","24zmh_2010/h001","29445","8-1","4518"

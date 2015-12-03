@@ -14,7 +14,7 @@ Most municipalities included here have started to record and/or publish roll cal
 
 The <a href = "http://popoloproject.com/"><strong>Popolo</strong></a> data standard is used. Data on each municipality is split into subdirectories by electoral terms. Each term contains CSV files on party groups, vote events and votes in a given term. If more information than just voters' names is available, it also contains a CSV file on voters. Types of information available in each municipality vary. See an <a href = "https://github.com/kamilgregor1/czech_municipal_assemblies_roll_call_votes/blob/master/data_specification.csv"><strong>overview</strong></a> of variables in the CSV files and examples of their values.
 
-In most municipalities, there are some vote events that are included in the <code>vote_events</code> dataset but not in the <code>votes</code> dataset or vice versa. This is due to error, missing data or changes in HTML structure on the official websites of the municipalities. This usually does not amount to more than 5 % of all vote events.
+In most municipalities, there are some vote events that are included in the <code>vote_events</code> dataset but not in the <code>votes</code> dataset or vice versa due to errors, missing data or changes in HTML structure on the official websites of the municipalities. This usually does not amount to more than 5 % of all vote events.
 
 ## Data updates
 

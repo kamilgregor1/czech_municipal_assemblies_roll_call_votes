@@ -14,6 +14,8 @@ Most municipalities included here have started to record and/or publish roll cal
 
 The <a href = "http://popoloproject.com/"><strong>Popolo</strong></a> data standard is used. Data on each municipality is split into subdirectories by electoral terms. Each term contains CSV files on party groups, vote events and votes in a given term. If more information than just voters' names is available, it also contains a CSV file on voters. Types of information available in each municipality vary. See an <a href = "https://github.com/kamilgregor1/czech_municipal_assemblies_roll_call_votes/blob/master/data_specification.csv"><strong>overview</strong></a> of variables in the CSV files and examples of their values.
 
+In most cases, several vote events and/or votes are missing due to errors or missing data on the official municipal websites.
+
 ## Data updates
 
 In case of several larger municipalities that publish roll call results in the HTML format, there are live scrapers of the official municipal websites that run every Monday. In other cases, the data is manually copied from minutes from the plenary sessions. This data is updated irregularly.

@@ -2,7 +2,7 @@ variable,brno_CZ0642_582786,havirov_CZ0803_555088
 groups:classification,"Navrhující strana","Navrhující strana"
 groups:id,"ČSSD","ČSSD"
 vote_events:id,"zmb-z7-01/20141125-1-30758","24zmh_2010/h001"
-vote_events:legislative_session:id,"2862"
+vote_events:legislative_session:id,"2862",
 vote_events:legislative_session:number,"1","1"
 vote_events:motion:title,"Body č. 37 - 40 - opakované hlasování","11. Dohoda o revizní komisi - havířovský hokej"
 vote_events:number,"1","1",

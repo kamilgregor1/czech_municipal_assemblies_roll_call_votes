@@ -1,6 +1,6 @@
 ﻿variable,brno_CZ0642_582786,havirov_CZ0803_555088,praha_CZ0100_554782,marianske_lazne_CZ0411_554642,frydek_mistek_CZ0802_598003
-groups:classification,"Navrhující strana","Navrhující strana",,"Navrhující strana"
-groups:id,"ČSSD","ČSSD",,"ČSSD"
+groups:classification,"Navrhující strana","Navrhující strana",,"Navrhující strana","Navrhující strana"
+groups:id,"ČSSD","ČSSD",,"ČSSD","ČSSD"
 vote:events:counts:option:abstain,,,"5",,
 vote:events:counts:option:no,,,"12",,
 vote:events:counts:option:number_of_people,,,"63",,

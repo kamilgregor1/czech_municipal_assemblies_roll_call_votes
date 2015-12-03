@@ -6,7 +6,7 @@ GREGOR, Kamil (2015). "Roll call results of vote events during plenary sessions 
 
 ## Data availability
 
-Municipalities are included depending on <a href = "http://blog.openingparliament.org/post/108553329888/surveying-parliamentary-data-openness-in-6300"><strong>data availability</strong></a>. Data from the Municipal Assembly of Prague (<em>Zastupitelstvo hlavního města Prahy</em>) are scraped by <a href = "https://github.com/michalskop/datapackages"><strong>Michal Škop</strong></a> and updated irregularly.
+Municipalities are included depending on <a href = "http://blog.openingparliament.org/post/108553329888/surveying-parliamentary-data-openness-in-6300"><strong>data availability</strong></a>. Data from the Municipal Assembly of Prague (<em>Zastupitelstvo hlavního města Prahy</em>) were scraped by <a href = "https://github.com/michalskop/datapackages"><strong>Michal Škop</strong></a> and are updated irregularly.
 
 Most municipalities included here have started to record and/or publish roll call results of plenary vote events only recently. If roll call results are available, it usually means that results of all or almost all vote events are recorded by names of individual voters. In almost all municipalities, votes of all voters are recorded (not just those that were present during voting).
 

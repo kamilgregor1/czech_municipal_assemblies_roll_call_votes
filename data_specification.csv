@@ -1,24 +1,30 @@
-﻿variable,brno_CZ0642_582786,havirov_CZ0803_555088,praha_CZ0100_554782
-groups:classification,"Navrhující strana","Navrhující strana",
-groups:id,"ČSSD","ČSSD",
-vote:events:counts:option:abstain,,,"5"
-vote:events:counts:option:no,,,"12"
-vote:events:counts:option:number_of_people,,,"63"
-vote:events:counts:option:present,,,"57"
-vote:events:counts:option:yes,,,"10"
-vote_events:id,"zmb-z7-01/20141125-1-30758","24zmh_2010/h001","29445"
-vote_events:legislative_session:id,"2862","25","37"
-vote_events:legislative_session:number,"1","1",
-vote_events:motion:title,"Body č. 37 - 40 - opakované hlasování","11. Dohoda o revizní komisi - havířovský hokej","zřízení výborů ZHMP (usnesení)"
-vote_events:motion:number,,,"1"
-vote_events:number,"1","1",
-vote_events:result,"Přijato","SCHVÁLENO","pass"
-vote_events:start_date,"2015-12-1","2015-12-1","30.11.2010"
-vote_events:start_time,"11:10:36","11:10:36",
-votes:group:id,"ČSSD","ČSSD","ČSSD"
-votes:option,"Ano","Pro","yes"
-votes:vote_event:id,"zmb-z7-01/20141125-1-30758","24zmh_2010/h001","29445"
-votes:voter:id,"Lubora Bednaříková","Ing. Jaroslav Gongol CSc.","3492"
-voters:id,,,"3492"
-voters:name,,,"Jan Slezák"
-voters:group:id,,,"ČSSD"
+﻿variable,brno_CZ0642_582786,havirov_CZ0803_555088,praha_CZ0100_554782,marianske_lazne_CZ0411_554642
+groups:classification,"Navrhující strana","Navrhující strana",,
+groups:id,"ČSSD","ČSSD",,
+vote:events:counts:option:abstain,,,"5",
+vote:events:counts:option:no,,,"12",
+vote:events:counts:option:number_of_people,,,"63",
+vote:events:counts:option:present,,,"57",
+vote:events:counts:option:yes,,,"10",
+vote_events:id,"zmb-z7-01/20141125-1-30758","24zmh_2010/h001","29445","8-1"
+vote_events:legislative_session:id,"2862","25","37",
+vote_events:legislative_session:number,"1","1",,"1"
+vote_events:motion:title,"Body č. 37 - 40 - opakované hlasování","11. Dohoda o revizní komisi - havířovský hokej","zřízení výborů ZHMP (usnesení)","Organiza
+č
+ní opat
+ř
+ení 8. ZM"
+vote_events:motion:number,,,"1","1"
+vote_events:number,"1","1","1"
+vote_events:result,"Přijato","SCHVÁLENO","pass",
+vote_events:start_date,"2015-12-1","2015-12-1","30.11.2010","2015-12-1"
+vote_events:start_time,"11:10:36","11:10:36",,
+votes:group:id,"ČSSD","ČSSD","ČSSD","ČSSD"
+votes:option,"Ano","Pro","yes","yes"
+votes:vote_event:id,"zmb-z7-01/20141125-1-30758","24zmh_2010/h001","29445","8-1"
+votes:voter:id,"Lubora Bednaříková","Ing. Jaroslav Gongol CSc.","3492","Borka, Zdeněk"
+voters:id,,,"3492","Borka, Zdeněk"
+voters:family_name,,,,"Borek"
+voters:given_name,,,,"Zdeněk"
+voters:name,,,"Jan Slezák",
+voters:group:id,,,"ČSSD","ČSSD"

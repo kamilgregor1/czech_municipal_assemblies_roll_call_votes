@@ -8,7 +8,7 @@ vote_events:motion:title,"Body č. 37 - 40 - opakované hlasování","11. Dohoda
 vote_events:number,"1","1",
 vote_events:result,"Přijato","SCHVÁLENO"
 vote_events:start_date,"2015-12-1","2015-12-1"
-vote_events:start_time,"11:10:36",11:10:36"
+vote_events:start_time,"11:10:36","11:10:36"
 votes:group:id,"ČSSD","ČSSD"
 votes:option,"Ano","Pro"
 votes:vote_event:id,"zmb-z7-01/20141125-1-30758","24zmh_2010/h001"

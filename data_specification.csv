@@ -11,7 +11,7 @@ vote_events:legislative_session:id,"2862","25","37",
 vote_events:legislative_session:number,"1","1",,"1"
 vote_events:motion:title,"Body č. 37 - 40 - opakované hlasování","11. Dohoda o revizní komisi - havířovský hokej","zřízení výborů ZHMP (usnesení)","Organizační opatření 8. ZM"
 vote_events:motion:number,,,"1","1"
-vote_events:number,"1","1","1"
+vote_events:number,"1","1","1","1"
 vote_events:result,"Přijato","SCHVÁLENO","pass",
 vote_events:start_date,"2015-12-1","2015-12-1","30.11.2010","2015-12-1"
 vote_events:start_time,"11:10:36","11:10:36",,

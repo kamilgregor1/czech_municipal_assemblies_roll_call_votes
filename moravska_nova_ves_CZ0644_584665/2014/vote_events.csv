@@ -1,402 +1,134 @@
 ﻿id,legislative_session:number,start_date,item:title,item:number,motion:title,
-1001,1,2014-11-06,"Zahájení, program ustavujícího zasedání zastupitelstva městyse",1,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo, že volba starosty,
-místostarosty a členů rady proběhne veřejným hlasováním.",
-1002,1,2014-11-06,"Zahájení, program ustavujícího zasedání zastupitelstva městyse",1,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo zapisovatelku zápisu p. 
-Martinu Janulíkovou.,
+1001,1,2014-11-06,"Zahájení, program ustavujícího zasedání zastupitelstva městyse",1,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo, že volba starosty,místostarosty a členů rady proběhne veřejným hlasováním.",
+1002,1,2014-11-06,"Zahájení, program ustavujícího zasedání zastupitelstva městyse",1,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo zapisovatelku zápisu p. Martinu Janulíkovou.,
 1003,1,2014-11-06,"Zahájení, program ustavujícího zasedání zastupitelstva městyse",1,Zastupitelstvo Městyse Moravská Nová Ves schválilo ověřovatele zápisu p. Mgr. Jiřího Filu.,
 1004,1,2014-11-06,"Zahájení, program ustavujícího zasedání zastupitelstva městyse",1,Zastupitelstvo Městyse Moravská Nová Ves schválilo ověřovatele zápisu p. Jaroslava Glose.,
-1005,1,2014-11-06,"Zahájení, program ustavujícího zasedání zastupitelstva městyse",1,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo program ustavujícího
-zasedání.,
-1006,1,2014-11-06,Volba starosty a místostarosty,1,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo počet místostarostů na
-jednoho místostarostu.,
-1007,1,2014-11-06,Volba starosty a místostarosty,1,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo, že jako dlouhodobě
-uvolnění budou funkci vykonávat starosta a místostarosta.",
-1008,1,2014-11-06,Volba starosty a místostarosty,1,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že funkci starosty Městyse Moravská 
-Nová Ves bude vykonávat pan Mgr. Marek Košut.",
-1009,1,2014-11-06,Volba starosty a místostarosty,1,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že funkci místostarosty Městyse 
-Moravská Nová Ves bude vykonávat pan Ing. Igor Antal.",
-1010,1,2014-11-06,Volba členů rady městyse,2,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo, že funkci členů rady
-budou mimo starosty a místostarosty vykonávat další tři členové zastupitelstva.",
-1011,1,2014-11-06,Volba členů rady městyse,2,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že funkci člena Rady Městyse
-Moravská Nová Ves bude vykonávat paní Eva Gréeová.",
-1012,1,2014-11-06,Volba členů rady městyse,2,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že funkci člena Rady Městyse 
-Moravská Nová Ves bude vykonávat p. Mgr. Soňa Petrjanošová.",
-1013,1,2014-11-06,Volba členů rady městyse,2,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že funkci člena Rady městyse 
-Moravská Nová Ves bude vykonávat p. JUDr. Rostislav Silný.",
-1014,1,2014-11-06,Zřízení finančního a kontrolního výboru,3,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo počet členů Finančního
-výboru Zastupitelstva Městyse Moravská Nová Ves na pět členů.,
-1015,1,2014-11-06,Zřízení finančního a kontrolního výboru,3,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo počet členů Kontrolního
-výboru Zastupitelstva Městyse Moravská Nová Ves na tři členy.,
-1016,1,2014-11-06,Zřízení finančního a kontrolního výboru,3,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že funkci předsedy Finančního výboru 
-Zastupitelstva Městyse Moravská Nová Ves bude vykonávat p. JUDr. Rostislav Silný.",
-1017,1,2014-11-06,Zřízení finančního a kontrolního výboru,3,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že funkci člena Finančního výboru
-Zastupitelstva Městyse Moravská Nová Ves bude vykonávat pan Ing. Michal Košut.",
-1018,1,2014-11-06,Zřízení finančního a kontrolního výboru,3,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že funkci člena Finančního výboru
-Zastupitelstva Městyse Moravská Nová Ves bude vykonávat p. Ing. Radek Vaněk.",
-1019,1,2014-11-06,Zřízení finančního a kontrolního výboru,3,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že funkci člena Finančního výboru
-Zastupitelstva Městyse Moravská Nová Ves bude vykonávat p. Pavel Časný.",
-1020,1,2014-11-06,Zřízení finančního a kontrolního výboru,3,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že funkci člena Finančního výboru 
-Zastupitelstva Městyse Moravská Nová Ves bude vykonávat p. Lenka Schwartzová.",
-1021,1,2014-11-06,Zřízení finančního a kontrolního výboru,3,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že funkci předsedy Kontrolního
-výboru Zastupitelstva Městyse Moravská Nová Ves bude vykonávat p. Bohumír Bezchleba.",
-1022,1,2014-11-06,Zřízení finančního a kontrolního výboru,3,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo, že funkci člena 
-Kontrolního výboru Zastupitelstva Městyse Moravská Nová Ves bude vykonávat p. Marcel 
-Seibert.",
-1023,1,2014-11-06,Zřízení finančního a kontrolního výboru,3,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že funkci člena Kontrolního výboru
-Zastupitelstva Městyse Moravská Nová Ves bude vykonávat p. Ing. Josef Tuček.",
-1024,1,2014-11-06,Rozhodnutí o odměnách za výkon funkcí neuvolněných členů zastupitelstva.,4,"Zastupitelstvo městyse Moravská Nová Ves schválilo odměnu za výkon funkce člena 
-Zastupitelstva Městyse Moravská Nová Ves ve výši 360,- Kč měsíčně ode dne schválení.",
-1025,1,2014-11-06,Rozhodnutí o odměnách za výkon funkcí neuvolněných členů zastupitelstva.,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo odměnu za výkon funkce člena Rady
-Městyse Moravská Nová Ves ve výši 1 300,- Kč měsíčně ode dne schválení.",
-1026,1,2014-11-06,Rozhodnutí o odměnách za výkon funkcí neuvolněných členů zastupitelstva.,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo odměnu za výkon funkce předsedy 
-Kontrolního a Finančního výboru Zastupitelstva Městyse Moravská Nová Ves ve výši 1 120,-
-Kč měsíčně ode dne schválení.",
-1027,1,2014-11-06,Rozhodnutí o odměnách za výkon funkcí neuvolněných členů zastupitelstva.,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo odměnu za výkon funkce člena
-Kontrolního a Finančního výboru Zastupitelstva Městyse Moravská Nová Ves ve výši 880,-
-Kč měsíčně ode dne schválení.",
-1028,1,2014-11-06,Volba statutárních zástupců městyse,5,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že práva akcionáře na jednáních
-orgánů společnosti Hantály a.s., se sídlem Tovární 22, Velké Pavlovice, IČ 42324068 bude 
-vykonávat starosta městyse p. Mgr. Marek Košut.",
-1029,1,2014-11-06,Volba statutárních zástupců městyse,5,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že zastupovat při výkonu práv
-akcionáře na jednáních orgánů společnosti Hantály a.s., se sídlem Tovární 22, Velké 
-Pavlovice, IČ 42324068 bude pan Ing. Igor Antal.",
-1030,1,2014-11-06,Volba statutárních zástupců městyse,5,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že práva akcionáře na jednáních
-orgánů společnosti Vodovody a kanalizace Hodonín, se sídlem Purkyňova 2933/2, Hodonín, 
-IČ 49454544 bude vykonávat pan Ing. Igor Antal.",
-1031,1,2014-11-06,Volba statutárních zástupců městyse,5,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo, že zastupovat při výkonu
-práv akcionáře na jednáních orgánů společnosti Vodovody a kanalizace Hodonín, se sídlem 
-Purkyňova 2933/2, Hodonín, IČ 49454544 bude pan Mgr. Marek Košut.",
-1032,1,2014-11-06,Volba statutárních zástupců městyse,5,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo, že zastupovat při výkonu
-práv člena na jednáních orgánů Honebního společenstva Moravská nová Ves, se sídlem U 
-Trati 921, IČ 46215981 bude p. Mgr. Marek Košut.",
-1033,1,2014-11-06,Volba statutárních zástupců městyse,5,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že pověřen k přijímání prohlášení o
-uzavření manželství bude pan Mgr. Marek Košut.",
-1034,1,2014-11-06,Volba statutárních zástupců městyse,5,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že pověřen k přijímání prohlášení o 
-uzavření manželství bude pan Ing. Igor Antal.",
-1035,1,2014-11-06,Volba statutárních zástupců městyse,5,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že pověřena k přijímání prohlášení o
-uzavření manželství bude paní Eva Gréeová.",
+1005,1,2014-11-06,"Zahájení, program ustavujícího zasedání zastupitelstva městyse",1,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo program ustavujícíhozasedání.,
+1006,1,2014-11-06,Volba starosty a místostarosty,1,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo počet místostarostů najednoho místostarostu.,
+1007,1,2014-11-06,Volba starosty a místostarosty,1,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo, že jako dlouhodoběuvolnění budou funkci vykonávat starosta a místostarosta.",
+1008,1,2014-11-06,Volba starosty a místostarosty,1,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že funkci starosty Městyse Moravská Nová Ves bude vykonávat pan Mgr. Marek Košut.",
+1009,1,2014-11-06,Volba starosty a místostarosty,1,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že funkci místostarosty Městyse Moravská Nová Ves bude vykonávat pan Ing. Igor Antal.",
+1010,1,2014-11-06,Volba členů rady městyse,2,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo, že funkci členů radybudou mimo starosty a místostarosty vykonávat další tři členové zastupitelstva.",
+1011,1,2014-11-06,Volba členů rady městyse,2,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že funkci člena Rady MěstyseMoravská Nová Ves bude vykonávat paní Eva Gréeová.",
+1012,1,2014-11-06,Volba členů rady městyse,2,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že funkci člena Rady Městyse Moravská Nová Ves bude vykonávat p. Mgr. Soňa Petrjanošová.",
+1013,1,2014-11-06,Volba členů rady městyse,2,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že funkci člena Rady městyse Moravská Nová Ves bude vykonávat p. JUDr. Rostislav Silný.",
+1014,1,2014-11-06,Zřízení finančního a kontrolního výboru,3,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo počet členů Finančníhovýboru Zastupitelstva Městyse Moravská Nová Ves na pět členů.,
+1015,1,2014-11-06,Zřízení finančního a kontrolního výboru,3,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo počet členů Kontrolníhovýboru Zastupitelstva Městyse Moravská Nová Ves na tři členy.,
+1016,1,2014-11-06,Zřízení finančního a kontrolního výboru,3,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že funkci předsedy Finančního výboru Zastupitelstva Městyse Moravská Nová Ves bude vykonávat p. JUDr. Rostislav Silný.",
+1017,1,2014-11-06,Zřízení finančního a kontrolního výboru,3,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že funkci člena Finančního výboruZastupitelstva Městyse Moravská Nová Ves bude vykonávat pan Ing. Michal Košut.",
+1018,1,2014-11-06,Zřízení finančního a kontrolního výboru,3,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že funkci člena Finančního výboruZastupitelstva Městyse Moravská Nová Ves bude vykonávat p. Ing. Radek Vaněk.",
+1019,1,2014-11-06,Zřízení finančního a kontrolního výboru,3,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že funkci člena Finančního výboruZastupitelstva Městyse Moravská Nová Ves bude vykonávat p. Pavel Časný.",
+1020,1,2014-11-06,Zřízení finančního a kontrolního výboru,3,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že funkci člena Finančního výboru Zastupitelstva Městyse Moravská Nová Ves bude vykonávat p. Lenka Schwartzová.",
+1021,1,2014-11-06,Zřízení finančního a kontrolního výboru,3,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že funkci předsedy Kontrolníhovýboru Zastupitelstva Městyse Moravská Nová Ves bude vykonávat p. Bohumír Bezchleba.",
+1022,1,2014-11-06,Zřízení finančního a kontrolního výboru,3,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo, že funkci člena Kontrolního výboru Zastupitelstva Městyse Moravská Nová Ves bude vykonávat p. Marcel Seibert.",
+1023,1,2014-11-06,Zřízení finančního a kontrolního výboru,3,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že funkci člena Kontrolního výboruZastupitelstva Městyse Moravská Nová Ves bude vykonávat p. Ing. Josef Tuček.",
+1024,1,2014-11-06,Rozhodnutí o odměnách za výkon funkcí neuvolněných členů zastupitelstva.,4,"Zastupitelstvo městyse Moravská Nová Ves schválilo odměnu za výkon funkce člena Zastupitelstva Městyse Moravská Nová Ves ve výši 360,- Kč měsíčně ode dne schválení.",
+1025,1,2014-11-06,Rozhodnutí o odměnách za výkon funkcí neuvolněných členů zastupitelstva.,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo odměnu za výkon funkce člena RadyMěstyse Moravská Nová Ves ve výši 1 300,- Kč měsíčně ode dne schválení.",
+1026,1,2014-11-06,Rozhodnutí o odměnách za výkon funkcí neuvolněných členů zastupitelstva.,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo odměnu za výkon funkce předsedy Kontrolního a Finančního výboru Zastupitelstva Městyse Moravská Nová Ves ve výši 1 120,-Kč měsíčně ode dne schválení.",
+1027,1,2014-11-06,Rozhodnutí o odměnách za výkon funkcí neuvolněných členů zastupitelstva.,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo odměnu za výkon funkce členaKontrolního a Finančního výboru Zastupitelstva Městyse Moravská Nová Ves ve výši 880,-Kč měsíčně ode dne schválení.",
+1028,1,2014-11-06,Volba statutárních zástupců městyse,5,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že práva akcionáře na jednáníchorgánů společnosti Hantály a.s., se sídlem Tovární 22, Velké Pavlovice, IČ 42324068 bude vykonávat starosta městyse p. Mgr. Marek Košut.",
+1029,1,2014-11-06,Volba statutárních zástupců městyse,5,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že zastupovat při výkonu právakcionáře na jednáních orgánů společnosti Hantály a.s., se sídlem Tovární 22, Velké Pavlovice, IČ 42324068 bude pan Ing. Igor Antal.",
+1030,1,2014-11-06,Volba statutárních zástupců městyse,5,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že práva akcionáře na jednáníchorgánů společnosti Vodovody a kanalizace Hodonín, se sídlem Purkyňova 2933/2, Hodonín, IČ 49454544 bude vykonávat pan Ing. Igor Antal.",
+1031,1,2014-11-06,Volba statutárních zástupců městyse,5,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo, že zastupovat při výkonupráv akcionáře na jednáních orgánů společnosti Vodovody a kanalizace Hodonín, se sídlem Purkyňova 2933/2, Hodonín, IČ 49454544 bude pan Mgr. Marek Košut.",
+1032,1,2014-11-06,Volba statutárních zástupců městyse,5,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo, že zastupovat při výkonupráv člena na jednáních orgánů Honebního společenstva Moravská nová Ves, se sídlem U Trati 921, IČ 46215981 bude p. Mgr. Marek Košut.",
+1033,1,2014-11-06,Volba statutárních zástupců městyse,5,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že pověřen k přijímání prohlášení ouzavření manželství bude pan Mgr. Marek Košut.",
+1034,1,2014-11-06,Volba statutárních zástupců městyse,5,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že pověřen k přijímání prohlášení o uzavření manželství bude pan Ing. Igor Antal.",
+1035,1,2014-11-06,Volba statutárních zástupců městyse,5,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že pověřena k přijímání prohlášení ouzavření manželství bude paní Eva Gréeová.",
 2001,2,2014-12-18,"Zahájení, program 2. veřejného zasedání zastupitelstva městyse.",1,Zastupitelstvo městyse neschválilo odstranění bodu „Pravomoci rady městyse“ z programu.,
-2002,2,2014-12-18,"Zahájení, program 2. veřejného zasedání zastupitelstva městyse.",1,Zastupitelstvo Městyse Moravská Nová Ves schválilo program 2. veřejného zasedání
-zastupitelstva.,
-2003,2,2014-12-18,"Zahájení, program 2. veřejného zasedání zastupitelstva městyse.",1,Zastupitelstvo Městyse Moravská Nová Ves schválilo zapisovatelku zápisu 2. veřejného
-zasedání zastupitelstva Bc. Petru Frýdkovou.,
-2004,2,2014-12-18,"Zahájení, program 2. veřejného zasedání zastupitelstva městyse.",1,Zastupitelstvo Městyse Moravská Nová Ves schválilo ověřovatele zápisu 2. veřejného
-zasedání zastupitelstva pana Mgr. Jiřího Filu.,
-2005,2,2014-12-18,"Zahájení, program 2. veřejného zasedání zastupitelstva městyse.",1,Zastupitelstvo Městyse Moravská Nová Ves schválilo ověřovatele zápisu 2. veřejného
-zasedání zastupitelstva Ing. Josefa Tučka.,
-2006,2,2014-12-18,"Zahájení, program 2. veřejného zasedání zastupitelstva městyse.",1,"Zastupitelstvo Městyse Moravská Nová Ves vzalo na vědomí zápis z ustavujícího zasedání 
-zastupitelstva městyse, konaného dne 6.11.2014.",
-2007,2,2014-12-18,Zpráva o činnosti rady městyse,2,Zastupitelstvo Městyse Moravská Nová Ves vzalo na vědomí zprávu o činnosti Rady 
-městyse Moravská Nová Ves ze zasedání č. 1-2.,
-2008,2,2014-12-18,Zpráva Finančního výboru zastupitelstva,3,Zastupitelstvo Městyse Moravská Nová Ves vzalo na vědomí zápis Finančního výboru 
-zastupitelstva městyse.,
-2009,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/109
-v obci a k.ú. Moravská Nová Ves za 294 400,- Kč, kdy náklady s převodem pozemku nese 
-kupující.",
-2010,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/110 a
-parc.č. 1717/111 v obci a k.ú. Moravská Nová Ves, za 248 600,- Kč, kdy náklady 
-s převodem pozemku nese kupující.",
-2011,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/38 a
-parc.č. 1717/114 v obci a k.ú. Moravská Nová Ves, za 102 400,- Kč, kdy náklady s převodem 
-pozemku nese kupující.",
-2012,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/40, parc. 
-č. 1717/41, parc.č. 1717/116 a parc.č. 1717/117 v obci a k.ú. Moravská Nová Ves v obci a
-k.ú. Moravská Nová Ves, za 206 800,- Kč, kdy náklady s převodem pozemku nese kupující.",
-2013,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/42 a 
-parc.č. 1717/118 v obci a k.ú. Moravská Nová Ves, za 188 800,- Kč, kdy náklady s převodem 
-pozemku nese kupující.",
-2014,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/120, parc. 
-č. 1717/121, parc.č. 1717/132 v obci a k.ú. Moravská Nová Ves, za 506 200,- Kč, kdy 
-náklady s převodem pozemku nese kupující.",
-2015,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/122 a
-parc.č. 1717/133 v obci a k.ú. Moravská Nová Ves, za 483 800,- Kč, kdy náklady s převodem 
-pozemku nese kupující.",
-2016,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/124 
-v obci a k.ú. Moravská Nová Ves, za 255 000,- Kč, kdy náklady s převodem pozemku nese 
-kupující.",
-2017,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/126
-v obci a k.ú. Moravská Nová Ves, za 234 800,- Kč, kdy náklady s převodem pozemku nese 
-kupující.",
-2018,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/129
-v obci a k.ú. Moravská Nová Ves, za 125 600,- Kč, kdy náklady s převodem pozemku nese 
-kupující.",
-2019,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/130
-v obci a k.ú. Moravská Nová Ves, za 234 200,- Kč, kdy náklady s převodem pozemku nese 
-kupující.",
-2020,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/131
-v obci a k.ú. Moravská Nová Ves, za 240 000,- Kč, kdy náklady s převodem pozemku nese 
-kupující.",
-2021,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/134
-v obci a k.ú. Moravská Nová Ves, za 224 800,- Kč, kdy náklady s převodem pozemku nese 
-kupující.",
-2022,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/103 a
-parc.č. 1482/143 v obci a k.ú. Moravská Nová Ves, za 68 000,- Kč, kdy náklady s převodem 
-pozemku a daň z nabití nemovitostí nese kupující.",
-2023,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/125 
-v obci a k.ú. Moravská Nová Ves, za 251 600,- Kč, kdy náklady s převodem pozemku nese 
-kupující.",
-2024,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/108 
-v obci a k.ú. Moravská Nová Ves, za 246 000,- Kč, kdy náklady s převodem pozemku nese
-kupující.",
-2025,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/36 a 
-parc.č. 1717/113 v obci a k.ú. Moravská Nová Ves, za 190 400,- Kč, kdy náklady s převodem 
-pozemku nese kupující.",
-2026,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo směnu pozemku parc.č. 1717/39 o
-výměře 590 m2 a 1717/43 o výměře 23m2, vše v obci a k.ú. Moravská Nová Ves a dále 
-pozemky parc.č. 1717/115 o výměře 364 m2, parc.č. 1717/127 o výměře 629 m2, parc.č. 
-1717/128 o výměře 717m2, parc.č. 1717/119 v obci a k.ú. Moravská Nová Ves o výměře 
-1000 m2, kdy tyto pozemky vlastní společnost Agromoravia, a.s., za pozemky parc.č. 3890/90 
-o výměře 21 501 m2
-, a parc.č. 4078/233 o výměře 1123 m2, které jsou ve vlastnictví městyse,
-kdy náklady s převodem pozemku nese městys. ",
-2027,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 526 v obci a
-k.ú. Moravská Nová Ves, za 190 000,- Kč, kdy náklady s převodem pozemku nese kupující.",
-2028,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemků parc.č. 4047/5, 
-4060/48, 3230/22, 3227/8, 3229/1, 3227/7, 3232/7, 218/4, vše v obci a k.ú. Prušánky, za
-226 050,- Kč, kdy náklady s převodem pozemku nese kupující.",
-2029,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo prodej pozemku parc.č. 1065/30 o
-výměře 2m2 v obci a k.ú. Moravská Nová Ves za 600,- Kč, panu Janu Studničkovi, bytem Na 
-Řádku 890, Moravská Nová Ves, kdy náklady s převodem pozemku nese kupující.",
-2030,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo prodej pozemku parc.č. 1065/31 o
-výměře 2m2 v obci a k.ú. Moravská Nová Ves za 600,- Kč, manželům Josefu a Heleně
-Hluchým, bytem Na Řádku 890, Moravská Nová Ves, kdy náklady s převodem pozemku nese 
-kupující.",
-2031,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo prodej pozemku parc.č. 1065/33 o
-výměře 2m2 v obci a k.ú. Moravská Nová Ves za 600,- Kč, panu Miloslavu Kolajovi, bytem 
-Na Řádku 890, Moravská Nová Ves, kdy náklady s převodem pozemku nese kupující.",
-2032,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo prodej pozemku parc.č. 1065/38 o
-výměře 24m2, parc.č. 1065/39 o výměře 2m2, parc.č. 1065/40 o výměře 9m2, vše v obci a 
-k.ú. Moravská Nová Ves, za 10 500,- Kč, paní Heleně Salajkové, bytem Na Řádku 889, 
-Moravská Nová Ves, kdy náklady s převodem pozemku nese kupující.",
-2033,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo prodej pozemku parc.č. 1157 o výměře
-74m2, parc.č. 1159/2 o výměře 35m2, vše v obci a k.ú. Moravská Nová Ves za 32 700,- Kč, 
-panu Petru Staňkovi, U Sokolovny 911, Moravská Nová Ves, kdy náklady s převodem 
-pozemku nese kupující.",
-2034,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo směnu pozemku parc.č. 1771/1 o
-výměře 50m2 v obci a k.ú. Moravská Nová Ves, který je ve vlastnictví městyse, za pozemek 
-parc.č. 2710 o výměře 23m2, který je v majetku pana Mojmíra Valihracha, bytem U Školky 
-860/4, Rohatec a pana Milana Valihracha, bytem Polní 1001, Moravská Nová Ves, kdy rozdíl 
-v cenách ve výši 8 100,-Kč bude uhrazen městysi nabyvatelem pozemku panem Mojmírem 
-Valihrachem, a kdy náklady s převodem pozemku nese pan Mojmír Valihrach.",
-2035,2,2014-12-18,Převody majetku,4,Zastupitelstvo Městyse Moravská Nová Ves schválilo zrušení usnesení ZM č. 13/26/2014 ze
-dne 27.6.2014.,
-2036,2,2014-12-18,Obecně závazná vyhláška o místním poplatku za svoz odpadu,5,"Zastupitelstvo Městyse Moravská Nová Ves schválilo Obecně závaznou vyhlášku č. 5/2014 o
-místním poplatku za provoz systému shromažďování, sběru, přepravy, třídění, využívání a 
-odstraňování komunálních odpadů.",
-2037,2,2014-12-18,Návrh rozpočtu na rok 2015,6,"Zastupitelstvo Městyse Moravská Nová Ves schválilo rozpočet Městyse Moravská Nová Ves
-na rok 2015. Na straně příjmů 33 390 300,- Kč. Na straně výdajů 33 390 300,- Kč, kdy 
-závaznými ukazateli rozpočtu jsou rozpočtové paragrafy. Rozpočet je vyrovnaný.",
-2038,2,2014-12-18,Návrh rozpočtu na rok 2015,6,"Zastupitelstvo Městyse Moravská Nová Ves schválilo následující výši příspěvků na provoz
-jím zřizovaných příspěvkových organizacím: příspěvek ve výši 1 796 000,- Kč Mateřské 
-škole Moravská Nová Ves, příspěvek ve výši 2 280 000,- Kč Základní škole Moravská Nová 
-Ves, příspěvek ve výši 5 065 300,- Kč příspěvkové organizaci Služby Moravská Nová Ves, 
-kdy závaznými ukazateli rozpočtu jsou celkové částky příspěvků.",
-2039,2,2014-12-18,Návrh rozpočtu na rok 2015,6,Zastupitelstvo Městyse Moravská Nová Ves schválilo rozpočtový výhled městyse Moravská
-Nová Ves na roky 2016-2018.,
-2040,2,2014-12-18,Různé,7,"Zastupitelstvo Městyse Moravská Nová Ves deleguje pro účast na všechna jednání členské 
-schůze dobrovolného svazku obcí Region Podluží v období 2014 – 2018 tyto zástupce:
-
-1) Mgr. Marek Košut, nar.: 20.10.1980, bytem: Dolní 170, Moravská Nová Ves. 
-
-2) Ing. Igor Antal, nar.: 28.5.1959, bytem: Lipová 958, Moravská Nová Ves. 
-
-3) MUDr. Eva Špačková Kučerová, nar.: 19.3.1958, bytem: Na Mlatě 1021, Moravská 
- Nová Ves. 
-
-4) Mgr. Miroslava Jančálková, nar.: 27.12.1972, bytem: Kamenná 507, Moravská Nová 
- Ves. 
-
-5) Mgr. Jiří Fila, nar.: 12.2.1982, bytem: Lipová 895, Moravská Nová Ves.",
-2041,2,2014-12-18,Různé,7,"Zastupitelstvo Městyse Moravská Nová Ves deleguje pro účast na všechna jednání rady
-starostů dobrovolného svazku obcí Region Podluží v období 2014 – 2018 
-starostu. 
-
-1) Mgr. Marka Košuta, nar.: 20.10.1980, bytem: Dolní 170, Moravská Nová Ves 
-a pro případ nepřítomnosti starosty: 
-
-2) Ing. Igora Antala, nar.: 28.5.1959, bytem: Lipová 958, Moravská Nová Ves",
-2042,2,2014-12-18,Různé,7,"Zastupitelstvo Městyse Moravská Nová Ves schválilo smlouvu o veřejné finanční podpoře 
-mezi Městysem Moravská Nová Ves jako poskytovatelem a FK Moravská Nová Ves, o.s. 
-jako příjemcem VFP ve výši 350.000,- Kč pro rok 2015 v předloženém znění.",
-2043,2,2014-12-18,Různé,7,"Zastupitelstvo Městyse Moravská Nová Ves schválilo smlouvu o veřejné finanční podpoře
-mezi Městysem Moravská Nová Ves jako poskytovatelem a občanským sdružením Neonky 
-Moravská Nová Ves jako příjemcem VFP ve výši 100.000,- Kč pro rok 2015 v předloženém 
-znění.",
-2044,2,2014-12-18,Různé,7,"Zastupitelstvo Městyse Moravská Nová Ves schválilo smlouvu o veřejné finanční podpoře 
-mezi Městysem Moravská Nová Ves jako poskytovatelem a občanským sdružením DFS
-Jatelinka Moravská Nová Ves jako příjemcem VFP ve výši 66.000,- Kč pro rok 2015 
-v předloženém znění.",
-2045,2,2014-12-18,Různé,7,"Zastupitelstvo Městyse Moravská Nová Ves schválilo smlouvu o veřejné finanční podpoře 
-mezi Městysem Moravská Nová Ves jako poskytovatelem a občanským sdružením ZČ HB 
-Brďo - Vlkani Mikulčice jako příjemcem VFP ve výši 58.000,- Kč pro rok 2015 
-v předloženém znění.",
-2046,2,2014-12-18,Různé,7,"Zastupitelstvo Městyse Moravská Nová Ves schválilo smlouvu o veřejné finanční podpoře
-mezi Městysem Moravská Nová Ves jako poskytovatelem a občanským sdružením Slovácký 
-krůžek Moravská Nová Ves jako příjemcem VFP ve výši 85.000,- Kč pro rok 2015 
-v předloženém znění.",
-2047,2,2014-12-18,Různé,7,"Zastupitelstvo Městyse Moravská Nová Ves schválilo smlouvu o veřejné finanční podpoře
-mezi Městysem Moravská Nová Ves jako poskytovatelem a Sborem dobrovolných hasičů
-Moravská Nová Ves VFP ve výši 116.000,- Kč pro rok 2015 v předloženém znění.",
-2048,2,2014-12-18,Různé,7,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že Rada městyse je oprávněna
-provádět rozpočtová opatření, jejichž předmětem jsou změny v rozpočtu městyse ve věci 
-příchozích dotací a transferů z vyšších rozpočtů do rozpočtu městyse.",
-2049,2,2014-12-18,Různé,7,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že Rada městyse Moravská Nová Ves
-je oprávněna provádět poslední rozpočtové opatření v daném rozpočtovém roce.",
-2050,2,2014-12-18,Různé,7,"Zastupitelstvo Městyse Moravská Nová Ves neschválilo, že rada městyse je oprávněna 
-provádět rozpočtová opatření, jejichž předmětem jsou změny v rozpočtu městyse do výše součtu položek 100 000,-Kč, ať už na straně výdajů nebo příjmů, pokud se tyto příjmy 
-netýkají příjmů ve věci příchozích dotací a transferů z vyšších rozpočtů.",
-2051,2,2014-12-18,Připomínky členů zastupitelstva městyse,8,"Zastupitelstvo Městyse Moravská Nová Ves uložilo Radě městyse Moravská Nová Ves, aby 
-do příštího jednání zastupitelstva městyse zpracovala návrh řešení parkování na zelených 
-plochách v celé obci.",
-2052,2,2014-12-18,Připomínky členů zastupitelstva městyse,8,"Zastupitelstvo městyse neschválilo, že zápisy ze zasedání Rad a Zastupitelstev Městyse
-Moravská Nová Ves budou zveřejňovány do 14 dní od přijetí usnesení a do 14 dní od 
-uzavření budou zveřejněny smlouvy v elektronickém registru smluv.",
-3001,3,2015-03-12,Zahájení,1,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo program jednání 3.
-veřejného zasedání zastupitelstva městyse.,
-3002,3,2015-03-12,Zahájení,1,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo zapisovatelku zápisu p.
-Martinu Janulíkovou.,
-3003,3,2015-03-12,Zahájení,1,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo pana Mgr. Jiřího Filu 
-ověřovatelem zápisu.,
-3004,3,2015-03-12,Zahájení,1,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo pana JUDr. Rostislava
-Silného ověřovatelem zápisu.,
-3005,3,2015-03-12,Zahájení,1,"Zastupitelstvo Městyse Moravská Nová Ves bere na vědomí zápis z minulého veřejného 
-zasedání, které se konalo 18. 12. 2014.",
-3006,3,2015-03-12,Zpráva o činnosti rady městyse,2,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně vzalo na vědomí zprávu o činnosti 
-rady městyse ze zasedání č. 3 – 6.,
-3007,3,2015-03-12,Převody majetku,3,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo smlouvu o smlouvě 
-budoucí s p. Jánem Zugárkem, bytem Dolní 208, Moravská Nová Ves, a to parc. č. 1717/36 o 
-výměře 933m2
-a části pozemku 1717/73 o výměře 19 m2, vše v obci a k. ú. Moravská
-Nová Ves za pozemky parc. č. 2358/4 o výměře 4306 m2, označený jako orná půda, parc. č.
-2358/6 o výměře 1599 m2,
-označený jako orná půda, parc. č. 2358/9 o výměře 986 m2, označený jako orná půda, parc. č.
-2358/11 o výměře 95 m2, označený 
-jako orná půda parc. č. 2358/16 o výměře 394 m2, označený jako orná půda, parc. č. 2360/3 o
-výměře 10 m2
-označený jako orná
-půda, parc. 2361 o výměře 976 m2, označený jako orná půda,  parc. č. 2362/1 o výměře 826 m2, označený jako orná půda, parc. č. 2362/3 o výměře 25 m2, označený jako orná půda, včetně všech součástí a přísl., v obci a k.ú. Hrušky, kdy náklady
-s převodem pozemku nese městys. ",
-3008,3,2015-03-12,Převody majetku,3,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo smlouvu o smlouvě
-budoucí na směnu pozemků s panem Ing. Petrem Maděřičem, bytem Kovářská 755, Moravská 
-Nová Ves, a to části parc. č. 1717/28 o výměře 1230 m2
-v obci a k.ú Moravská Ves,
-za pozemky parc. č. 4107/1 o výměře 9695 m2, označený jako orná půda, parc. č. 4131/335 o
-výměře 9832m2, označený jako orná půda, parc. č. 4210/74 o výměře 10965 m2
-,označený jako orná půda, parc.č. 4131/336 o výměře 10020 m2, označený jako orná půda, parc. č. 4210/74 o výměře 10965 m2, označený jako orná půda, včetně všech součástí a přísl., vše v obci a k.ú. Moravská Nová Ves, 
-kdy náklady s převodem pozemku nese městys, a pan Maděřič uhradí městysi částku 15 173,- Kč.",
-3009,3,2015-03-12,Převody majetku,3,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo smlouvu o smlouvě budoucí kupní
-s panem Vladimírem Molatou, bytem U Jordánky 359, Moravská Nová Ves na prodej jednoho kusu 
-stavební parcely, tj. část pozemků o předpokládané výměře 800 - 1200 m2  v lokalitě Br4 územního
-plánu Městyse Moravská Nová Ves vydaného dne 29.9.2008 pod č.j.1081/2008, kdy cena pozemku 
-bude 650,- Kč /m2
- a přesná výměra předmětu smlouvy bude stanovena geometrickým plánem
-vyhotoveným v rámci realizace výstavby inženýrských sítí. ",
-3010,3,2015-03-12,Převody majetku,3,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo smlouvu o smlouvě budoucí
-směnné s panem Vladimírem Molatou, bytem U Jordánky 359, Moravská Nová Ves, a to části parc.č. 
-1717/84 o výměře 1275 m2
-v obci a k.ú. Moravská Nová Ves, za pozemek parc. č. 1717/83 o výměře 
-1224 m2
-,označený jako orná půda, v obci a k.ú. Moravská Nová Ves, kdy náklady s převodem 
-pozemku nese městys a městys doplatí částku 238 299,- Kč.",
-3011,3,2015-03-12,Převody majetku,3,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo nákup pozemku parc.č.
-1717/32 a parc.č. 1717/34 v obci a k.ú. Moravská Nová Ves, za 9400,- Kč, kdy náklady 
-s převodem pozemku nese kupující.",
-3012,3,2015-03-12,Převody majetku,3,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo nákup části pozemku p. č.
-2322/2 o výměře 3m2
- v obci a k.ú. Moravská Nová Ves za 150,- Kč, kdy náklady s převodem
-pozemku nese kupující.",
-3013,3,2015-03-12,Převody majetku,3,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo nákup pozemku parc.č.
-2516/11 v obci a k.ú. Moravská Nová Ves za 3000,- Kč, kdy náklady s převodem pozemku 
-nese kupující.",
-3014,3,2015-03-12,Převody majetku,3,"Zastupitelstvo Městyse Moravská Nová Ves neschválilo prodej pozemku parc.č. 528, 527/1 
-v obci a k.ú. Moravská Nová Ves společnosti COOP Jednota, spotřební družstvo v Mikulově, 
-se sídlem Kostelní náměstí 157/9, Mikulov.",
-3015,3,2015-03-12,Rozpočtové opatření č. 1/2015,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo rozpočtové opatření č. 1/2015, kde
-příjmy byly navýšeny o 1 025 000,- Kč na 34 415 300,- Kč. Výdaje byly navýšeny o 1 025 
-000,- Kč na 34 415 300,- Kč.",
-3016,3,2015-03-12,Zpráva Finančního výboru zastupitelstva,5,Zastupitelstvo Městyse Moravská Nová Ves vzalo na vědomí zprávu finančního výboru
-zastupitelstva.,
+2002,2,2014-12-18,"Zahájení, program 2. veřejného zasedání zastupitelstva městyse.",1,Zastupitelstvo Městyse Moravská Nová Ves schválilo program 2. veřejného zasedánízastupitelstva.,
+2003,2,2014-12-18,"Zahájení, program 2. veřejného zasedání zastupitelstva městyse.",1,Zastupitelstvo Městyse Moravská Nová Ves schválilo zapisovatelku zápisu 2. veřejnéhozasedání zastupitelstva Bc. Petru Frýdkovou.,
+2004,2,2014-12-18,"Zahájení, program 2. veřejného zasedání zastupitelstva městyse.",1,Zastupitelstvo Městyse Moravská Nová Ves schválilo ověřovatele zápisu 2. veřejnéhozasedání zastupitelstva pana Mgr. Jiřího Filu.,
+2005,2,2014-12-18,"Zahájení, program 2. veřejného zasedání zastupitelstva městyse.",1,Zastupitelstvo Městyse Moravská Nová Ves schválilo ověřovatele zápisu 2. veřejnéhozasedání zastupitelstva Ing. Josefa Tučka.,
+2006,2,2014-12-18,"Zahájení, program 2. veřejného zasedání zastupitelstva městyse.",1,"Zastupitelstvo Městyse Moravská Nová Ves vzalo na vědomí zápis z ustavujícího zasedání zastupitelstva městyse, konaného dne 6.11.2014.",
+2007,2,2014-12-18,Zpráva o činnosti rady městyse,2,Zastupitelstvo Městyse Moravská Nová Ves vzalo na vědomí zprávu o činnosti Rady městyse Moravská Nová Ves ze zasedání č. 1-2.,
+2008,2,2014-12-18,Zpráva Finančního výboru zastupitelstva,3,Zastupitelstvo Městyse Moravská Nová Ves vzalo na vědomí zápis Finančního výboru zastupitelstva městyse.,
+2009,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/109v obci a k.ú. Moravská Nová Ves za 294 400,- Kč, kdy náklady s převodem pozemku nese kupující.",
+2010,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/110 aparc.č. 1717/111 v obci a k.ú. Moravská Nová Ves, za 248 600,- Kč, kdy náklady s převodem pozemku nese kupující.",
+2011,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/38 aparc.č. 1717/114 v obci a k.ú. Moravská Nová Ves, za 102 400,- Kč, kdy náklady s převodem pozemku nese kupující.",
+2012,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/40, parc. č. 1717/41, parc.č. 1717/116 a parc.č. 1717/117 v obci a k.ú. Moravská Nová Ves v obci ak.ú. Moravská Nová Ves, za 206 800,- Kč, kdy náklady s převodem pozemku nese kupující.",
+2013,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/42 a parc.č. 1717/118 v obci a k.ú. Moravská Nová Ves, za 188 800,- Kč, kdy náklady s převodem pozemku nese kupující.",
+2014,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/120, parc. č. 1717/121, parc.č. 1717/132 v obci a k.ú. Moravská Nová Ves, za 506 200,- Kč, kdy náklady s převodem pozemku nese kupující.",
+2015,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/122 aparc.č. 1717/133 v obci a k.ú. Moravská Nová Ves, za 483 800,- Kč, kdy náklady s převodem pozemku nese kupující.",
+2016,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/124 v obci a k.ú. Moravská Nová Ves, za 255 000,- Kč, kdy náklady s převodem pozemku nese kupující.",
+2017,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/126v obci a k.ú. Moravská Nová Ves, za 234 800,- Kč, kdy náklady s převodem pozemku nese kupující.",
+2018,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/129v obci a k.ú. Moravská Nová Ves, za 125 600,- Kč, kdy náklady s převodem pozemku nese kupující.",
+2019,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/130v obci a k.ú. Moravská Nová Ves, za 234 200,- Kč, kdy náklady s převodem pozemku nese kupující.",
+2020,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/131v obci a k.ú. Moravská Nová Ves, za 240 000,- Kč, kdy náklady s převodem pozemku nese kupující.",
+2021,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/134v obci a k.ú. Moravská Nová Ves, za 224 800,- Kč, kdy náklady s převodem pozemku nese kupující.",
+2022,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/103 aparc.č. 1482/143 v obci a k.ú. Moravská Nová Ves, za 68 000,- Kč, kdy náklady s převodem pozemku a daň z nabití nemovitostí nese kupující.",
+2023,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/125 v obci a k.ú. Moravská Nová Ves, za 251 600,- Kč, kdy náklady s převodem pozemku nese kupující.",
+2024,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/108 v obci a k.ú. Moravská Nová Ves, za 246 000,- Kč, kdy náklady s převodem pozemku nesekupující.",
+2025,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 1717/36 a parc.č. 1717/113 v obci a k.ú. Moravská Nová Ves, za 190 400,- Kč, kdy náklady s převodem pozemku nese kupující.",
+2026,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo směnu pozemku parc.č. 1717/39 ovýměře 590 m2 a 1717/43 o výměře 23m2, vše v obci a k.ú. Moravská Nová Ves a dále pozemky parc.č. 1717/115 o výměře 364 m2, parc.č. 1717/127 o výměře 629 m2, parc.č. 1717/128 o výměře 717m2, parc.č. 1717/119 v obci a k.ú. Moravská Nová Ves o výměře 1000 m2, kdy tyto pozemky vlastní společnost Agromoravia, a.s., za pozemky parc.č. 3890/90 o výměře 21 501 m2, a parc.č. 4078/233 o výměře 1123 m2, které jsou ve vlastnictví městyse,kdy náklady s převodem pozemku nese městys. ",
+2027,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemku parc.č. 526 v obci ak.ú. Moravská Nová Ves, za 190 000,- Kč, kdy náklady s převodem pozemku nese kupující.",
+2028,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo nákup pozemků parc.č. 4047/5, 4060/48, 3230/22, 3227/8, 3229/1, 3227/7, 3232/7, 218/4, vše v obci a k.ú. Prušánky, za226 050,- Kč, kdy náklady s převodem pozemku nese kupující.",
+2029,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo prodej pozemku parc.č. 1065/30 ovýměře 2m2 v obci a k.ú. Moravská Nová Ves za 600,- Kč, panu Janu Studničkovi, bytem Na Řádku 890, Moravská Nová Ves, kdy náklady s převodem pozemku nese kupující.",
+2030,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo prodej pozemku parc.č. 1065/31 ovýměře 2m2 v obci a k.ú. Moravská Nová Ves za 600,- Kč, manželům Josefu a HeleněHluchým, bytem Na Řádku 890, Moravská Nová Ves, kdy náklady s převodem pozemku nese kupující.",
+2031,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo prodej pozemku parc.č. 1065/33 ovýměře 2m2 v obci a k.ú. Moravská Nová Ves za 600,- Kč, panu Miloslavu Kolajovi, bytem Na Řádku 890, Moravská Nová Ves, kdy náklady s převodem pozemku nese kupující.",
+2032,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo prodej pozemku parc.č. 1065/38 ovýměře 24m2, parc.č. 1065/39 o výměře 2m2, parc.č. 1065/40 o výměře 9m2, vše v obci a k.ú. Moravská Nová Ves, za 10 500,- Kč, paní Heleně Salajkové, bytem Na Řádku 889, Moravská Nová Ves, kdy náklady s převodem pozemku nese kupující.",
+2033,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo prodej pozemku parc.č. 1157 o výměře74m2, parc.č. 1159/2 o výměře 35m2, vše v obci a k.ú. Moravská Nová Ves za 32 700,- Kč, panu Petru Staňkovi, U Sokolovny 911, Moravská Nová Ves, kdy náklady s převodem pozemku nese kupující.",
+2034,2,2014-12-18,Převody majetku,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo směnu pozemku parc.č. 1771/1 ovýměře 50m2 v obci a k.ú. Moravská Nová Ves, který je ve vlastnictví městyse, za pozemek parc.č. 2710 o výměře 23m2, který je v majetku pana Mojmíra Valihracha, bytem U Školky 860/4, Rohatec a pana Milana Valihracha, bytem Polní 1001, Moravská Nová Ves, kdy rozdíl v cenách ve výši 8 100,-Kč bude uhrazen městysi nabyvatelem pozemku panem Mojmírem Valihrachem, a kdy náklady s převodem pozemku nese pan Mojmír Valihrach.",
+2035,2,2014-12-18,Převody majetku,4,Zastupitelstvo Městyse Moravská Nová Ves schválilo zrušení usnesení ZM č. 13/26/2014 zedne 27.6.2014.,
+2036,2,2014-12-18,Obecně závazná vyhláška o místním poplatku za svoz odpadu,5,"Zastupitelstvo Městyse Moravská Nová Ves schválilo Obecně závaznou vyhlášku č. 5/2014 omístním poplatku za provoz systému shromažďování, sběru, přepravy, třídění, využívání a odstraňování komunálních odpadů.",
+2037,2,2014-12-18,Návrh rozpočtu na rok 2015,6,"Zastupitelstvo Městyse Moravská Nová Ves schválilo rozpočet Městyse Moravská Nová Vesna rok 2015. Na straně příjmů 33 390 300,- Kč. Na straně výdajů 33 390 300,- Kč, kdy závaznými ukazateli rozpočtu jsou rozpočtové paragrafy. Rozpočet je vyrovnaný.",
+2038,2,2014-12-18,Návrh rozpočtu na rok 2015,6,"Zastupitelstvo Městyse Moravská Nová Ves schválilo následující výši příspěvků na provozjím zřizovaných příspěvkových organizacím: příspěvek ve výši 1 796 000,- Kč Mateřské škole Moravská Nová Ves, příspěvek ve výši 2 280 000,- Kč Základní škole Moravská Nová Ves, příspěvek ve výši 5 065 300,- Kč příspěvkové organizaci Služby Moravská Nová Ves, kdy závaznými ukazateli rozpočtu jsou celkové částky příspěvků.",
+2039,2,2014-12-18,Návrh rozpočtu na rok 2015,6,Zastupitelstvo Městyse Moravská Nová Ves schválilo rozpočtový výhled městyse MoravskáNová Ves na roky 2016-2018.,
+2040,2,2014-12-18,Různé,7,"Zastupitelstvo Městyse Moravská Nová Ves deleguje pro účast na všechna jednání členské schůze dobrovolného svazku obcí Region Podluží v období 2014 – 2018 tyto zástupce:1) Mgr. Marek Košut, nar.: 20.10.1980, bytem: Dolní 170, Moravská Nová Ves. 2) Ing. Igor Antal, nar.: 28.5.1959, bytem: Lipová 958, Moravská Nová Ves. 3) MUDr. Eva Špačková Kučerová, nar.: 19.3.1958, bytem: Na Mlatě 1021, Moravská  Nová Ves. 4) Mgr. Miroslava Jančálková, nar.: 27.12.1972, bytem: Kamenná 507, Moravská Nová  Ves. 5) Mgr. Jiří Fila, nar.: 12.2.1982, bytem: Lipová 895, Moravská Nová Ves.",
+2041,2,2014-12-18,Různé,7,"Zastupitelstvo Městyse Moravská Nová Ves deleguje pro účast na všechna jednání radystarostů dobrovolného svazku obcí Region Podluží v období 2014 – 2018 starostu. 1) Mgr. Marka Košuta, nar.: 20.10.1980, bytem: Dolní 170, Moravská Nová Ves a pro případ nepřítomnosti starosty: 2) Ing. Igora Antala, nar.: 28.5.1959, bytem: Lipová 958, Moravská Nová Ves",
+2042,2,2014-12-18,Různé,7,"Zastupitelstvo Městyse Moravská Nová Ves schválilo smlouvu o veřejné finanční podpoře mezi Městysem Moravská Nová Ves jako poskytovatelem a FK Moravská Nová Ves, o.s. jako příjemcem VFP ve výši 350.000,- Kč pro rok 2015 v předloženém znění.",
+2043,2,2014-12-18,Různé,7,"Zastupitelstvo Městyse Moravská Nová Ves schválilo smlouvu o veřejné finanční podpořemezi Městysem Moravská Nová Ves jako poskytovatelem a občanským sdružením Neonky Moravská Nová Ves jako příjemcem VFP ve výši 100.000,- Kč pro rok 2015 v předloženém znění.",
+2044,2,2014-12-18,Různé,7,"Zastupitelstvo Městyse Moravská Nová Ves schválilo smlouvu o veřejné finanční podpoře mezi Městysem Moravská Nová Ves jako poskytovatelem a občanským sdružením DFSJatelinka Moravská Nová Ves jako příjemcem VFP ve výši 66.000,- Kč pro rok 2015 v předloženém znění.",
+2045,2,2014-12-18,Různé,7,"Zastupitelstvo Městyse Moravská Nová Ves schválilo smlouvu o veřejné finanční podpoře mezi Městysem Moravská Nová Ves jako poskytovatelem a občanským sdružením ZČ HB Brďo - Vlkani Mikulčice jako příjemcem VFP ve výši 58.000,- Kč pro rok 2015 v předloženém znění.",
+2046,2,2014-12-18,Různé,7,"Zastupitelstvo Městyse Moravská Nová Ves schválilo smlouvu o veřejné finanční podpořemezi Městysem Moravská Nová Ves jako poskytovatelem a občanským sdružením Slovácký krůžek Moravská Nová Ves jako příjemcem VFP ve výši 85.000,- Kč pro rok 2015 v předloženém znění.",
+2047,2,2014-12-18,Různé,7,"Zastupitelstvo Městyse Moravská Nová Ves schválilo smlouvu o veřejné finanční podpořemezi Městysem Moravská Nová Ves jako poskytovatelem a Sborem dobrovolných hasičůMoravská Nová Ves VFP ve výši 116.000,- Kč pro rok 2015 v předloženém znění.",
+2048,2,2014-12-18,Různé,7,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že Rada městyse je oprávněnaprovádět rozpočtová opatření, jejichž předmětem jsou změny v rozpočtu městyse ve věci příchozích dotací a transferů z vyšších rozpočtů do rozpočtu městyse.",
+2049,2,2014-12-18,Různé,7,"Zastupitelstvo Městyse Moravská Nová Ves schválilo, že Rada městyse Moravská Nová Vesje oprávněna provádět poslední rozpočtové opatření v daném rozpočtovém roce.",
+2050,2,2014-12-18,Různé,7,"Zastupitelstvo Městyse Moravská Nová Ves neschválilo, že rada městyse je oprávněna provádět rozpočtová opatření, jejichž předmětem jsou změny v rozpočtu městyse do výše součtu položek 100 000,-Kč, ať už na straně výdajů nebo příjmů, pokud se tyto příjmy netýkají příjmů ve věci příchozích dotací a transferů z vyšších rozpočtů.",
+2051,2,2014-12-18,Připomínky členů zastupitelstva městyse,8,"Zastupitelstvo Městyse Moravská Nová Ves uložilo Radě městyse Moravská Nová Ves, aby do příštího jednání zastupitelstva městyse zpracovala návrh řešení parkování na zelených plochách v celé obci.",
+2052,2,2014-12-18,Připomínky členů zastupitelstva městyse,8,"Zastupitelstvo městyse neschválilo, že zápisy ze zasedání Rad a Zastupitelstev MěstyseMoravská Nová Ves budou zveřejňovány do 14 dní od přijetí usnesení a do 14 dní od uzavření budou zveřejněny smlouvy v elektronickém registru smluv.",
+3001,3,2015-03-12,Zahájení,1,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo program jednání 3.veřejného zasedání zastupitelstva městyse.,
+3002,3,2015-03-12,Zahájení,1,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo zapisovatelku zápisu p.Martinu Janulíkovou.,
+3003,3,2015-03-12,Zahájení,1,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo pana Mgr. Jiřího Filu ověřovatelem zápisu.,
+3004,3,2015-03-12,Zahájení,1,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo pana JUDr. RostislavaSilného ověřovatelem zápisu.,
+3005,3,2015-03-12,Zahájení,1,"Zastupitelstvo Městyse Moravská Nová Ves bere na vědomí zápis z minulého veřejného zasedání, které se konalo 18. 12. 2014.",
+3006,3,2015-03-12,Zpráva o činnosti rady městyse,2,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně vzalo na vědomí zprávu o činnosti rady městyse ze zasedání č. 3 – 6.,
+3007,3,2015-03-12,Převody majetku,3,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo smlouvu o smlouvě budoucí s p. Jánem Zugárkem, bytem Dolní 208, Moravská Nová Ves, a to parc. č. 1717/36 o výměře 933m2a části pozemku 1717/73 o výměře 19 m2, vše v obci a k. ú. MoravskáNová Ves za pozemky parc. č. 2358/4 o výměře 4306 m2, označený jako orná půda, parc. č.2358/6 o výměře 1599 m2,označený jako orná půda, parc. č. 2358/9 o výměře 986 m2, označený jako orná půda, parc. č.2358/11 o výměře 95 m2, označený jako orná půda parc. č. 2358/16 o výměře 394 m2, označený jako orná půda, parc. č. 2360/3 ovýměře 10 m2označený jako ornápůda, parc. 2361 o výměře 976 m2, označený jako orná půda,  parc. č. 2362/1 o výměře 826 m2, označený jako orná půda, parc. č. 2362/3 o výměře 25 m2, označený jako orná půda, včetně všech součástí a přísl., v obci a k.ú. Hrušky, kdy nákladys převodem pozemku nese městys. ",
+3008,3,2015-03-12,Převody majetku,3,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo smlouvu o smlouvěbudoucí na směnu pozemků s panem Ing. Petrem Maděřičem, bytem Kovářská 755, Moravská Nová Ves, a to části parc. č. 1717/28 o výměře 1230 m2v obci a k.ú Moravská Ves,za pozemky parc. č. 4107/1 o výměře 9695 m2, označený jako orná půda, parc. č. 4131/335 ovýměře 9832m2, označený jako orná půda, parc. č. 4210/74 o výměře 10965 m2,označený jako orná půda, parc.č. 4131/336 o výměře 10020 m2, označený jako orná půda, parc. č. 4210/74 o výměře 10965 m2, označený jako orná půda, včetně všech součástí a přísl., vše v obci a k.ú. Moravská Nová Ves, kdy náklady s převodem pozemku nese městys, a pan Maděřič uhradí městysi částku 15 173,- Kč.",
+3009,3,2015-03-12,Převody majetku,3,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo smlouvu o smlouvě budoucí kupnís panem Vladimírem Molatou, bytem U Jordánky 359, Moravská Nová Ves na prodej jednoho kusu stavební parcely, tj. část pozemků o předpokládané výměře 800 - 1200 m2  v lokalitě Br4 územníhoplánu Městyse Moravská Nová Ves vydaného dne 29.9.2008 pod č.j.1081/2008, kdy cena pozemku bude 650,- Kč /m2 a přesná výměra předmětu smlouvy bude stanovena geometrickým plánemvyhotoveným v rámci realizace výstavby inženýrských sítí. ",
+3010,3,2015-03-12,Převody majetku,3,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo smlouvu o smlouvě budoucísměnné s panem Vladimírem Molatou, bytem U Jordánky 359, Moravská Nová Ves, a to části parc.č. 1717/84 o výměře 1275 m2v obci a k.ú. Moravská Nová Ves, za pozemek parc. č. 1717/83 o výměře 1224 m2,označený jako orná půda, v obci a k.ú. Moravská Nová Ves, kdy náklady s převodem pozemku nese městys a městys doplatí částku 238 299,- Kč.",
+3011,3,2015-03-12,Převody majetku,3,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo nákup pozemku parc.č.1717/32 a parc.č. 1717/34 v obci a k.ú. Moravská Nová Ves, za 9400,- Kč, kdy náklady s převodem pozemku nese kupující.",
+3012,3,2015-03-12,Převody majetku,3,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo nákup části pozemku p. č.2322/2 o výměře 3m2 v obci a k.ú. Moravská Nová Ves za 150,- Kč, kdy náklady s převodempozemku nese kupující.",
+3013,3,2015-03-12,Převody majetku,3,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo nákup pozemku parc.č.2516/11 v obci a k.ú. Moravská Nová Ves za 3000,- Kč, kdy náklady s převodem pozemku nese kupující.",
+3014,3,2015-03-12,Převody majetku,3,"Zastupitelstvo Městyse Moravská Nová Ves neschválilo prodej pozemku parc.č. 528, 527/1 v obci a k.ú. Moravská Nová Ves společnosti COOP Jednota, spotřební družstvo v Mikulově, se sídlem Kostelní náměstí 157/9, Mikulov.",
+3015,3,2015-03-12,Rozpočtové opatření č. 1/2015,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo rozpočtové opatření č. 1/2015, kdepříjmy byly navýšeny o 1 025 000,- Kč na 34 415 300,- Kč. Výdaje byly navýšeny o 1 025 000,- Kč na 34 415 300,- Kč.",
+3016,3,2015-03-12,Zpráva Finančního výboru zastupitelstva,5,Zastupitelstvo Městyse Moravská Nová Ves vzalo na vědomí zprávu finančního výboruzastupitelstva.,
 3017,3,2015-03-12,Zpráva Finančního výboru zastupitelstva,5,Zastupitelstvo Městyse Moravská Nová Ves zrušilo usnesení č. 15/3/2015 z dnešního dne.,
-3018,3,2015-03-12,Zpráva Finančního výboru zastupitelstva,5,"Zastupitelstvo Městyse Moravská Nová Ves schválilo navýšení rozpočtového opatření č. 
-1/2015, kde příjmy byly navýšeny o 1 188 900,- Kč na 34 579 200,- Kč. Výdaje byly
-navýšeny o 1 188 900,- Kč na 34 579 200,- Kč.",
-3019,3,2015-03-12,Různé,6,Zastupitelstvo Městyse Moravská Nová Ves neschválilo vyhrazení pravomoci schválit
-smlouvy a dohody ohledně fotovolatické elektrárny.,
-3020,3,2015-03-12,Různé,6,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo cenu stočného ve stejné
-výši jako v roce 2014.,
-5001,5,2015-10-04,Zahájení,1,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo program jednání 4.
-veřejného zasedání zastupitelstva městyse.,
-5002,5,2015-10-04,Zahájení,1,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo zapisovatelku zápisu p.
-Martinu Janulíkovou.,
-5003,5,2015-10-04,Zahájení,1,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo pana Mgr. Jiřího Filu
-ověřovatelem zápisu.,
-5004,5,2015-10-04,Zahájení,1,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo paní Mgr. Hanu 
-Janulíkovou ověřovatelem zápisu.,
-5005,5,2015-10-04,Zahájení,1,"Zastupitelstvo Městyse Moravská Nová Ves bere na vědomí zápis z minulého veřejného 
-zasedání, které se konalo 12.3.2015.",
-5006,5,2015-10-04,Zpráva o činnosti rady,2,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně vzalo na vědomí zprávu o činnosti
-rady městyse za období 8 - 11.,
-5007,5,2015-10-04,Převody majetku,3,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo smlouvu o směně
-pozemků s p. Ing. Petrem Maděřičem, bytem Kovářská 755, Moravská Nová Ves, a to části
-parc. č. 1717/28 o výměře 1230 m2
- v obci a k. ú. Moravská Nová Ves za pozemky parc. č. 
-4107/1 o výměře 9695 m2
-, značený jako orná půda, parc. č. 4131/335 o výměře 9832 m2
-označený jako orná půda, parc. č. 4131/336 o výměře 10020 m2, označený jako orná půda,
-par. č. 4210/74 o výměře 10965 m2
-, označený jako orná půda, včetně všech součástí a přísl.,
-vše v obci a k.ú. Moravská Nová Ves, kdy náklady s převodem pozemku nese městys, a pan 
-Maděřič uhradí městysi částku 15 173,- Kč.",
-5008,5,2015-10-04,Převody majetku,3,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo smlouvu o směně pozemků
-s p. Vladimírem Molatou, bytem U Jordánky 359, Moravská Nová Ves a to části parc. č. 
-1717/84 o výměře 1275 m2
- v obci a k.ú. Moravská Nová Ves, za pozemek parc. š. 1717/83 o výměře 1224 m2
-, označený jako orná půda, v obci a k.ú. Moravská Nová Ves, kdy náklady s
-převodem pozemku nese městys a městys doplatí částku 238 354,- Kč.",
-5009,5,2015-10-04,Převody majetku,3,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo nákup pozemku parc. č.
-1717/106 v obci a k.ú. Moravská Nová Ves za 125 000,- Kč, kdy náklady s převodem 
-pozemku nese kupující.",
-5010,5,2015-10-04,Různé,4,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo obecně závaznou 
-vyhlášku č. 1/2015, kterou se mění obecně závazná vyhláška Městyse Moravská Nová Ves č.
-3/2014 o místních poplatcích, ve znění obecně závazné vyhlášky č. 4/2014.",
-5011,5,2015-10-04,Různé,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo odměnu za výkon funkce člena 
-Zastupitelstva Městyse Moravská Nová Ves ve výši 360,- Kč měsíčně člence zastupitelstva
-městyse p. Martině Imrichové.",
-5012,5,2015-10-04,Různé,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo odměnu za výkon funkce člena
-Zastupitelstva Městyse Moravská Nová Ves na 373,- Kč měsíčně. Odměnu za výkon funkce 
-člena Rady Městyse Moravská Nová Ves na 1 346,- Kč měsíčně. Odměnu za výkon funkce 
-člena předsedy Kontrolního a Finančního výboru zastupitelstva na 1 159,- Kč a odměnu za 
-výkon funkce člena Kontrolního a Finančního výboru zastupitelstva na 911,- Kč měsíčně.",
+3018,3,2015-03-12,Zpráva Finančního výboru zastupitelstva,5,"Zastupitelstvo Městyse Moravská Nová Ves schválilo navýšení rozpočtového opatření č. 1/2015, kde příjmy byly navýšeny o 1 188 900,- Kč na 34 579 200,- Kč. Výdaje bylynavýšeny o 1 188 900,- Kč na 34 579 200,- Kč.",
+3019,3,2015-03-12,Různé,6,Zastupitelstvo Městyse Moravská Nová Ves neschválilo vyhrazení pravomoci schválitsmlouvy a dohody ohledně fotovolatické elektrárny.,
+3020,3,2015-03-12,Různé,6,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo cenu stočného ve stejnévýši jako v roce 2014.,
+5001,5,2015-10-04,Zahájení,1,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo program jednání 4.veřejného zasedání zastupitelstva městyse.,
+5002,5,2015-10-04,Zahájení,1,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo zapisovatelku zápisu p.Martinu Janulíkovou.,
+5003,5,2015-10-04,Zahájení,1,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo pana Mgr. Jiřího Filuověřovatelem zápisu.,
+5004,5,2015-10-04,Zahájení,1,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo paní Mgr. Hanu Janulíkovou ověřovatelem zápisu.,
+5005,5,2015-10-04,Zahájení,1,"Zastupitelstvo Městyse Moravská Nová Ves bere na vědomí zápis z minulého veřejného zasedání, které se konalo 12.3.2015.",
+5006,5,2015-10-04,Zpráva o činnosti rady,2,Zastupitelstvo Městyse Moravská Nová Ves jednohlasně vzalo na vědomí zprávu o činnostirady městyse za období 8 - 11.,
+5007,5,2015-10-04,Převody majetku,3,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo smlouvu o směněpozemků s p. Ing. Petrem Maděřičem, bytem Kovářská 755, Moravská Nová Ves, a to částiparc. č. 1717/28 o výměře 1230 m2 v obci a k. ú. Moravská Nová Ves za pozemky parc. č. 4107/1 o výměře 9695 m2, značený jako orná půda, parc. č. 4131/335 o výměře 9832 m2označený jako orná půda, parc. č. 4131/336 o výměře 10020 m2, označený jako orná půda,par. č. 4210/74 o výměře 10965 m2, označený jako orná půda, včetně všech součástí a přísl.,vše v obci a k.ú. Moravská Nová Ves, kdy náklady s převodem pozemku nese městys, a pan Maděřič uhradí městysi částku 15 173,- Kč.",
+5008,5,2015-10-04,Převody majetku,3,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo smlouvu o směně pozemkůs p. Vladimírem Molatou, bytem U Jordánky 359, Moravská Nová Ves a to části parc. č. 1717/84 o výměře 1275 m2 v obci a k.ú. Moravská Nová Ves, za pozemek parc. š. 1717/83 o výměře 1224 m2, označený jako orná půda, v obci a k.ú. Moravská Nová Ves, kdy náklady spřevodem pozemku nese městys a městys doplatí částku 238 354,- Kč.",
+5009,5,2015-10-04,Převody majetku,3,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo nákup pozemku parc. č.1717/106 v obci a k.ú. Moravská Nová Ves za 125 000,- Kč, kdy náklady s převodem pozemku nese kupující.",
+5010,5,2015-10-04,Různé,4,"Zastupitelstvo Městyse Moravská Nová Ves jednohlasně schválilo obecně závaznou vyhlášku č. 1/2015, kterou se mění obecně závazná vyhláška Městyse Moravská Nová Ves č.3/2014 o místních poplatcích, ve znění obecně závazné vyhlášky č. 4/2014.",
+5011,5,2015-10-04,Různé,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo odměnu za výkon funkce člena Zastupitelstva Městyse Moravská Nová Ves ve výši 360,- Kč měsíčně člence zastupitelstvaměstyse p. Martině Imrichové.",
+5012,5,2015-10-04,Různé,4,"Zastupitelstvo Městyse Moravská Nová Ves schválilo odměnu za výkon funkce členaZastupitelstva Městyse Moravská Nová Ves na 373,- Kč měsíčně. Odměnu za výkon funkce člena Rady Městyse Moravská Nová Ves na 1 346,- Kč měsíčně. Odměnu za výkon funkce člena předsedy Kontrolního a Finančního výboru zastupitelstva na 1 159,- Kč a odměnu za výkon funkce člena Kontrolního a Finančního výboru zastupitelstva na 911,- Kč měsíčně.",
 4001,4,2015-06-25,"Zahájení, program 5. veřejného zasedání zastupitelstva městyse.",1,Zastupitelstvo městyse Moravská Nová Ves schválilo program 5. veřejného zasedání zastupitelstva.,
 4002,4,2015-06-25,"Zahájení, program 5. veřejného zasedání zastupitelstva městyse.",1,Zastupitelstvo městyse Moravská Nová Ves jednohlasně schválilo zapisovatelku 5. veřejného zsedání zastupitelstva Bc. Petru Frýdkovou.,
 4003,4,2015-06-25,"Zahájení, program 5. veřejného zasedání zastupitelstva městyse.",1,Zastupitelstvo městyse Moravská Nová Ves schválilo ověřovatele zápisu 5. veřejného zasedání zastupitelstva pana Mgr. Jiřího Filu.,
 4004,4,2015-06-25,"Zahájení, program 5. veřejného zasedání zastupitelstva městyse.",1,Zastupitelstvo městyse Moravská Nová Ves schválilo ověřovatele zápisu 2. vežejného zasedání zastupitelstva JUDr. Rostislava Silného,
 4005,4,2015-06-25,"Zahájení, program 5. veřejného zasedání zastupitelstva městyse.",1,"Zastupitelstvo městyse Moravská Nová Ves vzalo na vědomí zápis ze 4. zasedání zastupitelstva městyse, konaného dne 4.6.2015",
-4006,4,2015-06-25,Zpráva o činnosti rady městyse,2,Zastupitelstvo Městyse Moravská Nová Ves vzalo na vědomí zprávu o činnosti Rady 
-městyse Moravská Nová Ves z 12. schůze rady městyse.,
-4007,4,2015-06-25,Závěrečný účet městyse,3,"Zastupitelstvo městyse Moravská Nová Ves vzalo na vědomí Zprávu Odboru kontrolního a 
-právního o výsledku přezkoumání hospodaření za rok 2014 Městyse Moravská Nová Ves, 
-okres Břeclav",
-4008,4,2015-06-25,Závěrečný účet městyse,3,Zastupitelstvo městyse Moravská Nová Ves po projednání vyslovilo souhlas s celoročním 
-hospodařením městyse za rok 2014 s výhradami uvedenými ve Zprávo o výsledku
-přezkoumání hospodaření za rok 2014 Městyse Moravská Nová Ves a bez dalších výhrad ze 
-strany zastupitel a přijalo opatření k odstranění chyb a nedostatků.,
-4009,4,2015-06-25,Účetní závěrka městyse,4,Zastupitelstvo městyse Moravská Nová Ves schválilo účetní závěrku Městyse Moravská
-Nová Ves za rok 2014.,
-4010,4,2015-06-25,Rozpočtové opatření č. 2/2015,5,"Zastupitelstvo městyse Moravská Nová Ves schválilo rozpočtové opatření č. 2/2015. Na
-straně příjm byl rozpočet navýšen o 67 000,- Kč, celkové příjmy po navýšení činí 
-34 646 200,- Kč. Na stran výdaj byl rozpočet navýšen o 2 763 800,- Kč, celkové výdaje po 
-navýšení činí 37 343 000,- Kč. K financování bude zapojena část zůstatku ZBÚ k 31.12.2014 
-ve výši 2 696 800,- Kč.",
-4011,4,2015-06-25,Obecn závazná vyhláška č. 2/2015,6,Zastupitelstvo městyse Moravská Nová Ves jednohlasn schválilo Obecn závaznou
-vyhlášku č. 2/2015 o ochran veřejné zeleně.,
-4012,4,2015-06-25,Zpráva Finančního výboru zastupitelstva,7,Zastupitelstvo Městyse Moravská Nová Ves vzalo na vědomí zprávu Finančního výboru 
-zastupitelstva městyse.,
-4013,4,2015-06-25,Zpráva Kontrolního výboru zastupitelstva,8,Zastupitelstvo Městyse Moravská Nová Ves vzalo na vědomí zprávu Kontrolního výboru
-zastupitelstva městyse.,
-4014,4,2015-06-25,Různé,9,"Zastupitelstvo městyse Moravská Nová Ves neschválilo Smlouvu o kontokorentním úvěru č.
-1382079379/15 mezi Českou spořitelnou, a.s. se sídlem 140 00 Praha 4, Olbrachtova 1929/62 
-a Městysem Moravská Nová Ves. Navrhovaná úvěrová částka je ve výši 2.000.000,- Kč, a to 
-formou umožnění debetního zůstatku Běžného účtu. Účelem úvěru je překlenutí časového 
-nesouladu mezi tvorbou a potřebou finančních zdroj provozního charakteru v části běžného 
-rozpočtu schváleného na rok 2015.",
+4006,4,2015-06-25,Zpráva o činnosti rady městyse,2,Zastupitelstvo Městyse Moravská Nová Ves vzalo na vědomí zprávu o činnosti Rady městyse Moravská Nová Ves z 12. schůze rady městyse.,
+4007,4,2015-06-25,Závěrečný účet městyse,3,"Zastupitelstvo městyse Moravská Nová Ves vzalo na vědomí Zprávu Odboru kontrolního a právního o výsledku přezkoumání hospodaření za rok 2014 Městyse Moravská Nová Ves, okres Břeclav",
+4008,4,2015-06-25,Závěrečný účet městyse,3,Zastupitelstvo městyse Moravská Nová Ves po projednání vyslovilo souhlas s celoročním hospodařením městyse za rok 2014 s výhradami uvedenými ve Zprávo o výsledkupřezkoumání hospodaření za rok 2014 Městyse Moravská Nová Ves a bez dalších výhrad ze strany zastupitel a přijalo opatření k odstranění chyb a nedostatků.,
+4009,4,2015-06-25,Účetní závěrka městyse,4,Zastupitelstvo městyse Moravská Nová Ves schválilo účetní závěrku Městyse MoravskáNová Ves za rok 2014.,
+4010,4,2015-06-25,Rozpočtové opatření č. 2/2015,5,"Zastupitelstvo městyse Moravská Nová Ves schválilo rozpočtové opatření č. 2/2015. Nastraně příjm byl rozpočet navýšen o 67 000,- Kč, celkové příjmy po navýšení činí 34 646 200,- Kč. Na stran výdaj byl rozpočet navýšen o 2 763 800,- Kč, celkové výdaje po navýšení činí 37 343 000,- Kč. K financování bude zapojena část zůstatku ZBÚ k 31.12.2014 ve výši 2 696 800,- Kč.",
+4011,4,2015-06-25,Obecn závazná vyhláška č. 2/2015,6,Zastupitelstvo městyse Moravská Nová Ves jednohlasn schválilo Obecn závaznouvyhlášku č. 2/2015 o ochran veřejné zeleně.,
+4012,4,2015-06-25,Zpráva Finančního výboru zastupitelstva,7,Zastupitelstvo Městyse Moravská Nová Ves vzalo na vědomí zprávu Finančního výboru zastupitelstva městyse.,
+4013,4,2015-06-25,Zpráva Kontrolního výboru zastupitelstva,8,Zastupitelstvo Městyse Moravská Nová Ves vzalo na vědomí zprávu Kontrolního výboruzastupitelstva městyse.,
+4014,4,2015-06-25,Různé,9,"Zastupitelstvo městyse Moravská Nová Ves neschválilo Smlouvu o kontokorentním úvěru č.1382079379/15 mezi Českou spořitelnou, a.s. se sídlem 140 00 Praha 4, Olbrachtova 1929/62 a Městysem Moravská Nová Ves. Navrhovaná úvěrová částka je ve výši 2.000.000,- Kč, a to formou umožnění debetního zůstatku Běžného účtu. Účelem úvěru je překlenutí časového nesouladu mezi tvorbou a potřebou finančních zdroj provozního charakteru v části běžného rozpočtu schváleného na rok 2015.",

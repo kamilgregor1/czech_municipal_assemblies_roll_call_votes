@@ -1,308 +1,102 @@
 ﻿id,legislative_session:number,start_date,item:title,item:number,motion:title,
-1001,1,2014-11-03,Usnesení č. 1,1,Zastupitelstvo obce Mikulovice určuje dosavadního starostu obce Ing. Josefa Nentvicha 
-
-předsedajícím průběhu ustavujícího zasedání.,
-1002,1,2014-11-03,Usnesení č. 2,2,Zastupitelstvo obce Mikulovice určuje ověřovateli zápisu p. Radka Báňu a Františka Teplého a 
-zapisovatelem p. Karla Pfeifera.,
+1001,1,2014-11-03,Usnesení č. 1,1,Zastupitelstvo obce Mikulovice určuje dosavadního starostu obce Ing. Josefa Nentvicha předsedajícím průběhu ustavujícího zasedání.,
+1002,1,2014-11-03,Usnesení č. 2,2,Zastupitelstvo obce Mikulovice určuje ověřovateli zápisu p. Radka Báňu a Františka Teplého a zapisovatelem p. Karla Pfeifera.,
 1003,1,2014-11-03,Usnesení č. 3,3,"Zastupitelstvo obce Mikulovice schvaluje program ustavujícího zasedání, v plném znění.",
 1004,1,2014-11-03,Usnesení č. 4,4,Zastupitelstvo obce Mikulovice schvaluje zvolení jednoho místostarosty.,
-1005,1,2014-11-03,Usnesení č. 5,5,"Zastupitelstvo obce Mikulovice v souladu s § 84 odst. 2 písm. k) zákona o obcích určuje, že pro
-
-výkon funkce starosty obce bude člen zastupitelstva dlouhodobě uvolněn.",
+1005,1,2014-11-03,Usnesení č. 5,5,"Zastupitelstvo obce Mikulovice v souladu s § 84 odst. 2 písm. k) zákona o obcích určuje, že provýkon funkce starosty obce bude člen zastupitelstva dlouhodobě uvolněn.",
 1006,1,2014-11-03,Usnesení č. 6,6,Zastupitelstvo obce Mikulovice schvaluje veřejný způsob volby starosty a místostarosty.,
-1007,1,2014-11-03,Usnesení č. 7,7,Zastupitelstvo obce Mikulovice schvaluje přímý způsob volby starosty a místostarosty bez volební
-komise.,
+1007,1,2014-11-03,Usnesení č. 7,7,Zastupitelstvo obce Mikulovice schvaluje přímý způsob volby starosty a místostarosty bez volebníkomise.,
 1008,1,2014-11-03,Usnesení č. 8,8,Zastupitelstvo obce Mikulovice volí starostou obce Mikulovice pana Ing. Josefa Nentvicha.,
 1009,1,2014-11-03,Usnesení č. 9,9,Zastupitelstvo obce Mikulovice volí místostarostou obce Mikulovice pana Martina Pfeifera,
-1010,1,2014-11-03,Usnesení č. 10,10,Zastupitelstvo obce Mikulovice zřizuje finanční výbor a kontrolní výbor. Finanční výbor bude 
-pětičlenný a kontrolní výbor bude tříčlenný.,
+1010,1,2014-11-03,Usnesení č. 10,10,Zastupitelstvo obce Mikulovice zřizuje finanční výbor a kontrolní výbor. Finanční výbor bude pětičlenný a kontrolní výbor bude tříčlenný.,
 1011,1,2014-11-03,Usnesení č. 11,11,Zastupitelstvo obce Mikulovice volí předsedou finančního výboru pana Milana Průška.,
 1012,1,2014-11-03,Usnesení č. 12,12,Zastupitelstvo obce Mikulovice volí předsedou kontrolního výboru pana Františka Teplého.,
 1013,1,2014-11-03,Usnesení č. 13,13,Zastupitelstvo obce Mikulovice volí člena finančního výboru PhDr. Josefa Kasala.,
 1014,1,2014-11-03,Usnesení č. 14,14,Zastupitelstvo obce Mikulovice volí členy finančního výboru pana Ing. Vladimíra Šmída.,
 1015,1,2014-11-03,Usnesení č. 15,15,Zastupitelstvo obce Mikulovice volí členkou kontrolního výboru sl. Součkovou M.,
 1016,1,2014-11-03,Usnesení č. 16,16,Zastupitelstvo obce Mikulovice volí členkou kontrolního výboru paní Dotzauerovou.,
-1017,1,2014-11-03,Usnesení č. 17,17,"Zastupitelstvo obce Mikulovice schvaluje zřídit tyto komise:
-
-1. Komise stavební a územně plánovací
-
-2. Školní, sociální, kultury a sportu",
-1018,1,2014-11-03,Usnesení č. 18,18,Zastupitelstvo obce Mikulovice volí předsedou komise stavební a územně plánovací pana Karla
-Pfeifera.,
+1017,1,2014-11-03,Usnesení č. 17,17,"Zastupitelstvo obce Mikulovice schvaluje zřídit tyto komise:1. Komise stavební a územně plánovací2. Školní, sociální, kultury a sportu",
+1018,1,2014-11-03,Usnesení č. 18,18,Zastupitelstvo obce Mikulovice volí předsedou komise stavební a územně plánovací pana KarlaPfeifera.,
 1019,1,2014-11-03,Usnesení č. 19,19,Zastupitelstvo obce Mikulovice volí členem komise stavební a územně plánovací pana E. Šmejdíře.,
-1020,1,2014-11-03,Usnesení č. 20,20,Zastupitelstvo obce Mikulovice volí členem komise stavební a územně plánovací pana Miroslava
-Tunku.,
-1021,1,2014-11-03,Usnesení č. 21,21,"Zastupitelstvo obce Mikulovice volí předsedou komise školní, sociální, kultury a sportu paní 
-Krpálkovou.",
-1022,1,2014-11-03,Usnesení č. 22,22,"Zastupitelstvo obce Mikulovice v souladu s § 72 a § 84 odst. 2 písm. n) zákona o obcích a přílohy č. 
-1 k nařízení vlády č. 37/2003 Sb. stanoví odměnu za výkon funkce neuvolněného člena 
-zastupitelstva obce ve výši 360,-Kč měsíčně. Odměna bude poskytována ode dne přijetí tohoto 
-usnesení.",
-1023,1,2014-11-03,Usnesení č. 23,23,"Zastupitelstvo obce Mikulovice v souladu s § 72 a 84 odst. 2 písm. n) zákona o obcích a přílohy č. 1
-k nařízení vlády č. 37/2003 Sb. stanoví odměnu za výkon funkce neuvolněného předsedy finančního 
-výboru obce ve výši 1.120,-Kč měsíčně a předsedy kontrolního výboru obce ve výši 1.120,-Kč 
-měsíčně. Odměna bude poskytována ode dne přijetí tohoto usnesení.",
-1024,1,2014-11-03,Usnesení č. 24,24,"Zastupitelstvo obce Mikulovice v souladu s § 72, § 73 odst. 1, § 77 odst. 3 písm. b) a § 84 odst. 2 
-písm. n) zákona o obcích stanoví odměnu za výkon funkce neuvolněného předsedy komise stavební 
-a územně plánovací ve výši 1.660,-Kč měsíčně. Odměna bude poskytována ode dne přijetí tohoto 
-usnesení.",
-1025,1,2014-11-03,Usnesení č. 25,25,"Zastupitelstvo obce Mikulovice v souladu s § 72 a § 84 odst. 2 písm. n) zákona o obcích stanoví
-odměnu za výkon funkce místostarosty jako neuvolněného člena zastupitelstva obce ve výši 7509,-
-Kč měsíčně. Odměna bude poskytována ode dne přijetí tohoto usnesení.",
+1020,1,2014-11-03,Usnesení č. 20,20,Zastupitelstvo obce Mikulovice volí členem komise stavební a územně plánovací pana MiroslavaTunku.,
+1021,1,2014-11-03,Usnesení č. 21,21,"Zastupitelstvo obce Mikulovice volí předsedou komise školní, sociální, kultury a sportu paní Krpálkovou.",
+1022,1,2014-11-03,Usnesení č. 22,22,"Zastupitelstvo obce Mikulovice v souladu s § 72 a § 84 odst. 2 písm. n) zákona o obcích a přílohy č. 1 k nařízení vlády č. 37/2003 Sb. stanoví odměnu za výkon funkce neuvolněného člena zastupitelstva obce ve výši 360,-Kč měsíčně. Odměna bude poskytována ode dne přijetí tohoto usnesení.",
+1023,1,2014-11-03,Usnesení č. 23,23,"Zastupitelstvo obce Mikulovice v souladu s § 72 a 84 odst. 2 písm. n) zákona o obcích a přílohy č. 1k nařízení vlády č. 37/2003 Sb. stanoví odměnu za výkon funkce neuvolněného předsedy finančního výboru obce ve výši 1.120,-Kč měsíčně a předsedy kontrolního výboru obce ve výši 1.120,-Kč měsíčně. Odměna bude poskytována ode dne přijetí tohoto usnesení.",
+1024,1,2014-11-03,Usnesení č. 24,24,"Zastupitelstvo obce Mikulovice v souladu s § 72, § 73 odst. 1, § 77 odst. 3 písm. b) a § 84 odst. 2 písm. n) zákona o obcích stanoví odměnu za výkon funkce neuvolněného předsedy komise stavební a územně plánovací ve výši 1.660,-Kč měsíčně. Odměna bude poskytována ode dne přijetí tohoto usnesení.",
+1025,1,2014-11-03,Usnesení č. 25,25,"Zastupitelstvo obce Mikulovice v souladu s § 72 a § 84 odst. 2 písm. n) zákona o obcích stanovíodměnu za výkon funkce místostarosty jako neuvolněného člena zastupitelstva obce ve výši 7509,-Kč měsíčně. Odměna bude poskytována ode dne přijetí tohoto usnesení.",
 2001,2,2014-11-24,Usnesení č. 1,1,Zastupitelstvo obce Mikulovice schvaluje program 1. řádného zasedání v upraveném znění.,
 2002,2,2014-11-24,Usnesení č. 2,2,Zastupitelstvo obce Mikulovice jmenuje pana S. Medunu a F. Teplého ověřovateli zápisu a zapisovatelem pana K. Pfeifera.,
-2003,2,2014-11-24,Usnesení č. 3,3,"Zastupitelstvo obce Mikulovice schvaluje předloženou „ Smlouvu č. 0994140136 o provedené investici „ZKT Jesenčanský potok„ 
-
-stavební objekt SO 1 – 3 rekonstrukce propustku umístěný na pozemku p. č.14/1 k. ú. Blato v účetní hodnotě 436 102,- Kč mezi 
-
-Povodí Labe, s. p. „Víta Nejedlého 951, 500 03 Hradec Králové a Obcí Mikulovice, Valčíkova 52, 530 02 Pardubice a pověřuje 
-starostu jejím podpisem.",
-2004,2,2014-11-24,Usnesení č. 4,4,Zastupitelstvo obce Mikulovice schvaluje předložený plán provedení inventarizace a složení inventarizační komise za rok 2014.
-Inventarizace bude provedena do 31. 1. 2015.,
-2005,2,2014-11-24,Usnesení č. 5,5,Zastupitelstvo obce Mikulovice jmenuje do funkce člena školské rady ZŠ a MŠ Mikulovice za obec Mikulovice pana Martina 
-Pfeifera.,
-2006,2,2014-11-24,Usnesení č. 6,6,Zastupitelstvo obce bere na vědomí předložený rozpracovaný návrh „Programu obnovy venkova obce Mikulovice od roku 2014 do 
-roku 2020“ a ukládá starostovi rozpracovaný návrh zaslat zastupitelům k dopracování.,
+2003,2,2014-11-24,Usnesení č. 3,3,"Zastupitelstvo obce Mikulovice schvaluje předloženou „ Smlouvu č. 0994140136 o provedené investici „ZKT Jesenčanský potok„ stavební objekt SO 1 – 3 rekonstrukce propustku umístěný na pozemku p. č.14/1 k. ú. Blato v účetní hodnotě 436 102,- Kč mezi Povodí Labe, s. p. „Víta Nejedlého 951, 500 03 Hradec Králové a Obcí Mikulovice, Valčíkova 52, 530 02 Pardubice a pověřuje starostu jejím podpisem.",
+2004,2,2014-11-24,Usnesení č. 4,4,Zastupitelstvo obce Mikulovice schvaluje předložený plán provedení inventarizace a složení inventarizační komise za rok 2014.Inventarizace bude provedena do 31. 1. 2015.,
+2005,2,2014-11-24,Usnesení č. 5,5,Zastupitelstvo obce Mikulovice jmenuje do funkce člena školské rady ZŠ a MŠ Mikulovice za obec Mikulovice pana Martina Pfeifera.,
+2006,2,2014-11-24,Usnesení č. 6,6,Zastupitelstvo obce bere na vědomí předložený rozpracovaný návrh „Programu obnovy venkova obce Mikulovice od roku 2014 do roku 2020“ a ukládá starostovi rozpracovaný návrh zaslat zastupitelům k dopracování.,
 2007,2,2014-11-24,Usnesení č. 7,7,Zastupitelstvo obce schvaluje předloženou Směrnici o finanční kontrole.,
-2008,2,2014-11-24,Usnesení č. 8,8,Zastupitelstvo obce Mikulovice bere na vědomí rozpracovaný „Návrh rozpočtu obce Mikulovice na rok 2015 a Rozpočtový výhled 
-obce na rok 2016 a 2017 a ukládá starostovi návrh zaslat všem zastupitelům k dopracování a návrhům.,
+2008,2,2014-11-24,Usnesení č. 8,8,Zastupitelstvo obce Mikulovice bere na vědomí rozpracovaný „Návrh rozpočtu obce Mikulovice na rok 2015 a Rozpočtový výhled obce na rok 2016 a 2017 a ukládá starostovi návrh zaslat všem zastupitelům k dopracování a návrhům.,
 2009,2,2014-11-24,Usnesení č. 9,9,Zastupitelstvo obce Mikulovice schvaluje zápis do kroniky obce Mikulovice za rok 2013 bez připomínek.,
-2010,2,2014-11-24,Usnesení č. 10,10,Zastupitelstvo obce Mikulovice mění usnesení č. 10 z ustavujícího zasedání obce Mikulovice ze dne 3. 11. 2014 o určení členu
-finančního výboru. Finanční výbor zřizuje tříčlenný.,
+2010,2,2014-11-24,Usnesení č. 10,10,Zastupitelstvo obce Mikulovice mění usnesení č. 10 z ustavujícího zasedání obce Mikulovice ze dne 3. 11. 2014 o určení členufinančního výboru. Finanční výbor zřizuje tříčlenný.,
 3001,3,2014-12-15,Usnesení č. 1,1,Zastupitelstvo obce Mikulovice schvaluje program 2. zasedání zastupitelstva v upraveném znění.,
 3002,3,2014-12-15,Usnesení č. 2,2,Zastupitelstvo obce Mikulovice jmenuje pana Teplého Fr. a Průška M. ověřovateli zápisu a zapisovatelem pana K. Pfeifera.,
-3003,3,2014-12-15,Usnesení č. 3,3,"Zastupitelstvo obce Mikulovice vzalo na vědomí zprávu o provedené kontrole vynaložených finančních prostředků u Základní školy
-a Mateřské školy Mikulovice / protokol č. 1 ze dne 10. 12. 2014/ a SK 1. FC Mikulovice ze dne 10. 12. 2014/ protokol č. 2/ na 
-základě přidělených finančních prostředků. Při kontrole bylo postupováno ve smyslu smlouvy uzavřenou mezi obcí Mikulovice a 
-SK. FC Mikulovice s výsledkem, že nebyly zjištěny žádné nedostatky.",
+3003,3,2014-12-15,Usnesení č. 3,3,"Zastupitelstvo obce Mikulovice vzalo na vědomí zprávu o provedené kontrole vynaložených finančních prostředků u Základní školya Mateřské školy Mikulovice / protokol č. 1 ze dne 10. 12. 2014/ a SK 1. FC Mikulovice ze dne 10. 12. 2014/ protokol č. 2/ na základě přidělených finančních prostředků. Při kontrole bylo postupováno ve smyslu smlouvy uzavřenou mezi obcí Mikulovice a SK. FC Mikulovice s výsledkem, že nebyly zjištěny žádné nedostatky.",
 3004,3,2014-12-15,Usnesení č. 4,4,"Zastupitelstvo obce schvaluje rozpočet ZŠ a MŠ Mikulovice pro rok 2015 ve výši 1 200 000,- Kč.",
-3005,3,2014-12-15,Usnesení č. 5,5,"Zastupitelstvo obce Mikulovice schvaluje na doporučení finančního výboru tyto příspěvky složkám a spolkům na rok 2015
-
-a) Klub Čtyřlístek 8.500,-Kč
-
-b) Klub důchodců 8.500,-Kč
-
-c) Společnost přátel Mikulovic 8.500,-Kč
-
-d) Rybáři Fryčák 8.500,-Kč
-
-e) Sbor dobrovolných hasičů 24.000,-Kč
-
-f) SK 1. FC Mikulovice 60.000,-Kč
-
-g)Kulturní výbor obce
-
-- dětský den 15.000,-Kč
-
-- koncerty 10.000,-Kč
-
-- posvícení 10.000,-Kč
-
-- družba obcí Mikulovice 50.000,-Kč
-
-h) Příspěvky občanům k životnímu jubileu od 70 let po 5ti-letech–poukázku v hodnotě 500,-Kč
-
-i) Příspěvek na vítání občánků 1500,-kč (cca 10 dětí) 15.000,-Kč
-
-j) příspěvek na dopravu pro důchodce nad 70 let 500,-Kč/rok",
-3006,3,2014-12-15,Usnesení č. 6,6,"Zastupitelstvo obce Mikulovice schvaluje schodkový Rozpočet obce Mikulovice na rok 2015 – příjmy 10 878 000,- Kč, financování 
-2 096 000,- Kč. Celkem výdaje 12 974 000,-Kč a výhled na rok 2016 - příjmy i výdaje 10 873 000,-Kč a rok 2017 - příjmy i výdaje 
-10 873 000,-Kč.",
+3005,3,2014-12-15,Usnesení č. 5,5,"Zastupitelstvo obce Mikulovice schvaluje na doporučení finančního výboru tyto příspěvky složkám a spolkům na rok 2015a) Klub Čtyřlístek 8.500,-Kčb) Klub důchodců 8.500,-Kčc) Společnost přátel Mikulovic 8.500,-Kčd) Rybáři Fryčák 8.500,-Kče) Sbor dobrovolných hasičů 24.000,-Kčf) SK 1. FC Mikulovice 60.000,-Kčg)Kulturní výbor obce- dětský den 15.000,-Kč- koncerty 10.000,-Kč- posvícení 10.000,-Kč- družba obcí Mikulovice 50.000,-Kčh) Příspěvky občanům k životnímu jubileu od 70 let po 5ti-letech–poukázku v hodnotě 500,-Kči) Příspěvek na vítání občánků 1500,-kč (cca 10 dětí) 15.000,-Kčj) příspěvek na dopravu pro důchodce nad 70 let 500,-Kč/rok",
+3006,3,2014-12-15,Usnesení č. 6,6,"Zastupitelstvo obce Mikulovice schvaluje schodkový Rozpočet obce Mikulovice na rok 2015 – příjmy 10 878 000,- Kč, financování 2 096 000,- Kč. Celkem výdaje 12 974 000,-Kč a výhled na rok 2016 - příjmy i výdaje 10 873 000,-Kč a rok 2017 - příjmy i výdaje 10 873 000,-Kč.",
 3007,3,2014-12-15,Usnesení č. 7,7,Zastupitelstvo obce schvaluje Plán účetních odpisů obce na rok 2015.,
 3008,3,2014-12-15,Usnesení č. 8,8,Zastupitelstvo obce schvaluje odpisový plán ZŠ a MŠ Mikulovice na rok 2015.,
-3009,3,2014-12-15,Usnesení č. 9,9,Zastupitelstvo obce Mikulovice schvaluje dodatek č. 1 Smlouvy na zajišťování služeb v oblasti nakládání s odpady mezi obcí 
-Mikulovice a zhotovitelem Marius Pedersen a.s. Hradec Králové na rok 2015.,
-3010,3,2014-12-15,Usnesení č. 10,10,Zastupitelstvo obce Mikulovice schvaluje předloženou smlouvu mezi obcí Mikulovice a Dopravním podnikem města Pardubice a.s. o
-veřejných službách v přepravě cestujících k zajištění dopravní obslužnosti obce Mikulovice na rok 2015. Maximální výše,
-3011,3,2014-12-15,Usnesení č. 11,11,"Zastupitelstvo obce Mikulovice schvaluje – Dodatek č. 2 ke smlouvě o dílo č. 1745/2013, příloha č. 1 na rok 2015 o nakládání s 
-komunálním odpadem uzavřená mezi obcí Mikulovice a SmP-Odpady a. s.",
-3012,3,2014-12-15,Usnesení č. 12,12,Zastupitelstvo obce Mikulovice schvaluje – Dodatek č. 3 - Přílohu č. 1 ke smlouvě o dílo č. O – Mikulovice/2013 na rok 2015 o práci 
-spojené s likvidací odpadu na separačním dvoře v Dražkovicích uzavřená mezi obcí Mikulovice a SmP-Odpady a. s.,
+3009,3,2014-12-15,Usnesení č. 9,9,Zastupitelstvo obce Mikulovice schvaluje dodatek č. 1 Smlouvy na zajišťování služeb v oblasti nakládání s odpady mezi obcí Mikulovice a zhotovitelem Marius Pedersen a.s. Hradec Králové na rok 2015.,
+3010,3,2014-12-15,Usnesení č. 10,10,Zastupitelstvo obce Mikulovice schvaluje předloženou smlouvu mezi obcí Mikulovice a Dopravním podnikem města Pardubice a.s. oveřejných službách v přepravě cestujících k zajištění dopravní obslužnosti obce Mikulovice na rok 2015. Maximální výše,
+3011,3,2014-12-15,Usnesení č. 11,11,"Zastupitelstvo obce Mikulovice schvaluje – Dodatek č. 2 ke smlouvě o dílo č. 1745/2013, příloha č. 1 na rok 2015 o nakládání s komunálním odpadem uzavřená mezi obcí Mikulovice a SmP-Odpady a. s.",
+3012,3,2014-12-15,Usnesení č. 12,12,Zastupitelstvo obce Mikulovice schvaluje – Dodatek č. 3 - Přílohu č. 1 ke smlouvě o dílo č. O – Mikulovice/2013 na rok 2015 o práci spojené s likvidací odpadu na separačním dvoře v Dražkovicích uzavřená mezi obcí Mikulovice a SmP-Odpady a. s.,
 3013,3,2014-12-15,Usnesení č. 13,13,Zastupitelstvo obce Mikulovice schvaluje „Zásady pro sběr a svoz odpadu“ v obci Mikulovice na rok 2015.,
 3014,3,2014-12-15,Usnesení č. 14,14,"Zastupitelstvo obce Mikulovice schvaluje úpravu rozpočtu, rozpočtové opatření č.4/2014 Obce Mikulovice schválit.",
 3015,3,2014-12-15,Usnesení č. 15,15,Zastupitelstvo obce Mikulovice schvaluje „Zásady pro používání fondu sociálních potřeb obce Mikulovice v roce 2015“.,
-3016,3,2014-12-15,Usnesení č. 16,16,"Zastupitelstvo obce Mikulovice neschvaluje zrušení železničního přejezdu P5384 v km 85,803 trati Havlíčkův Brod-Pardubice
-v k.ú. Mikulovice.",
-3017,3,2014-12-15,Usnesení č. 17,17,Zastupitelstvo obce schvaluje předložený „Program obnovy venkova - Strategický plán rozvoje obce Mikulovice od roku 2014 do
-roku 2020“.,
-3018,3,2014-12-15,Usnesení č. 18,18,"Zastupitelstvo obce Mikulovice schvaluje Smlouvu o uzavření budoucí smlouvy o zřízení věcného břemene - služebnosti a smlouvu o
-právu provést stavbu č.IV-12-2013088/VB/01 název stavby – Mikulovice –knn-Home Develop etapa 1 mezi obcí Mikulovice a ČEZ 
-Distribuce, a.s. se sídlem Děčín, Děčín IV Podmokly, Teplická 847/8 zastoupená společností PEN- projekty energetiky, s.r.o. se 
-sídlem Zelené Předměstí, Arnošta z Pardubic 2082, 530 02 Pardubice. Úhrada se stanovuje v jednorázové částce 500,- Kč/ bm, 
-celkem 39 000,-Kč.",
-3019,3,2014-12-15,Usnesení č. 19,19,"Zastupitelstvo obce Mikulovice schvaluje Smlouvu o uzavření budoucí smlouvy o zřízení věcného břemene - služebnosti a smlouvu o
-
-právu provést stavbu č. IV-12-2012861/VB/01 název stavby: Mikulovice – knn – Báňa mezi obcí Mikulovice a ČEZ Distribuce, a.s. 
-
-se sídlem Děčín, Děčín IV Podmokly, Teplická 847/8 zastoupená společností MATEX HK s.r.o. se sídlem kladská 181, 50003 
-Hradec Králové. Úhrada se stanovuje v jednorázové částce 500,- kč/bm, celkem 8 000,-Kč.",
+3016,3,2014-12-15,Usnesení č. 16,16,"Zastupitelstvo obce Mikulovice neschvaluje zrušení železničního přejezdu P5384 v km 85,803 trati Havlíčkův Brod-Pardubicev k.ú. Mikulovice.",
+3017,3,2014-12-15,Usnesení č. 17,17,Zastupitelstvo obce schvaluje předložený „Program obnovy venkova - Strategický plán rozvoje obce Mikulovice od roku 2014 doroku 2020“.,
+3018,3,2014-12-15,Usnesení č. 18,18,"Zastupitelstvo obce Mikulovice schvaluje Smlouvu o uzavření budoucí smlouvy o zřízení věcného břemene - služebnosti a smlouvu oprávu provést stavbu č.IV-12-2013088/VB/01 název stavby – Mikulovice –knn-Home Develop etapa 1 mezi obcí Mikulovice a ČEZ Distribuce, a.s. se sídlem Děčín, Děčín IV Podmokly, Teplická 847/8 zastoupená společností PEN- projekty energetiky, s.r.o. se sídlem Zelené Předměstí, Arnošta z Pardubic 2082, 530 02 Pardubice. Úhrada se stanovuje v jednorázové částce 500,- Kč/ bm, celkem 39 000,-Kč.",
+3019,3,2014-12-15,Usnesení č. 19,19,"Zastupitelstvo obce Mikulovice schvaluje Smlouvu o uzavření budoucí smlouvy o zřízení věcného břemene - služebnosti a smlouvu oprávu provést stavbu č. IV-12-2012861/VB/01 název stavby: Mikulovice – knn – Báňa mezi obcí Mikulovice a ČEZ Distribuce, a.s. se sídlem Děčín, Děčín IV Podmokly, Teplická 847/8 zastoupená společností MATEX HK s.r.o. se sídlem kladská 181, 50003 Hradec Králové. Úhrada se stanovuje v jednorázové částce 500,- kč/bm, celkem 8 000,-Kč.",
 4001,4,2015-01-26,Usnesení č. 1,1,Zastupitelstvo obce Mikulovice schvaluje program 3. zasedání zastupitelstva v upraveném znění.,
 4002,4,2015-01-26,Usnesení č. 2,2,Zastupitelstvo obce Mikulovice jmenuje pana F. Teplého a paní E. Klosovou ověřovateli zápisu a zapisovatelem pana K. Pfeifera.,
-4003,4,2015-01-26,Usnesení č. 3,3,"Zastupitelstvo obce schvaluje poskytnutí příspěvku na financování sociálních služeb v roce 2015 pro dvě klientky, Domova u 
-fontány Přelouč, kteří mají trvalé bydliště v obci Mikulovice ve výši 8 000,-Kč.",
-4004,4,2015-01-26,Usnesení č. 4,4,"Zastupitelstvo obce Mikulovice schvaluje poskytnutí příspěvku České abilympijské asociaci, Sladkovského 2824, 530 02 Pardubice
-částku 5.000,-Kč.",
-4005,4,2015-01-26,Usnesení č. 5,5,"Zastupitelstvo obce schvaluje záměr „Oprava – výměna oken v Mateřské škole“. Určuje komisi pro výběrové řízení na dodavatele 
-výše uvedené opravy. Předseda – K. Pfeifer, člen M. Průšek a E. Šmejdíř.
-
-Náhradníci – E. Klosová, F. Teplý, R. Báňa. Zastupitelstvo obce pověřuje komisi výběrem firem, které budou zařazeny do seznamu 
-možných dodavatelů stavby a osloveny k podání nabídek a provedením výběrového řízení.",
-4006,4,2015-01-26,Usnesení č. 6,6,"Zastupitelstvo obce Mikulovice schvaluje Smlouvu o dílo č. 001/2015 mezi obcí Mikulovice, Valčíkova 52, 530 02 Pardubice a
-ELPO s.r.o., Riegrova 3, 538 62 Hrochův Týnec na „Rozšíření veřejného osvětlení v ulici V Zahradách“. Cena za dílo je stanovena 
-ve výši 49 731,-Kč včetně HPH.",
-4007,4,2015-01-26,Usnesení č. 7,7,"Zastupitelstvo obce pověřuje Ing. Josefa Nentvicha, starostu obce, aby se zúčastnil Valné hromady společnosti VaK Pardubice, a. s.,
-v roce 2015.",
+4003,4,2015-01-26,Usnesení č. 3,3,"Zastupitelstvo obce schvaluje poskytnutí příspěvku na financování sociálních služeb v roce 2015 pro dvě klientky, Domova u fontány Přelouč, kteří mají trvalé bydliště v obci Mikulovice ve výši 8 000,-Kč.",
+4004,4,2015-01-26,Usnesení č. 4,4,"Zastupitelstvo obce Mikulovice schvaluje poskytnutí příspěvku České abilympijské asociaci, Sladkovského 2824, 530 02 Pardubicečástku 5.000,-Kč.",
+4005,4,2015-01-26,Usnesení č. 5,5,"Zastupitelstvo obce schvaluje záměr „Oprava – výměna oken v Mateřské škole“. Určuje komisi pro výběrové řízení na dodavatele výše uvedené opravy. Předseda – K. Pfeifer, člen M. Průšek a E. Šmejdíř.Náhradníci – E. Klosová, F. Teplý, R. Báňa. Zastupitelstvo obce pověřuje komisi výběrem firem, které budou zařazeny do seznamu možných dodavatelů stavby a osloveny k podání nabídek a provedením výběrového řízení.",
+4006,4,2015-01-26,Usnesení č. 6,6,"Zastupitelstvo obce Mikulovice schvaluje Smlouvu o dílo č. 001/2015 mezi obcí Mikulovice, Valčíkova 52, 530 02 Pardubice aELPO s.r.o., Riegrova 3, 538 62 Hrochův Týnec na „Rozšíření veřejného osvětlení v ulici V Zahradách“. Cena za dílo je stanovena ve výši 49 731,-Kč včetně HPH.",
+4007,4,2015-01-26,Usnesení č. 7,7,"Zastupitelstvo obce pověřuje Ing. Josefa Nentvicha, starostu obce, aby se zúčastnil Valné hromady společnosti VaK Pardubice, a. s.,v roce 2015.",
 4008,4,2015-01-26,Usnesení č. 8,8,"Zastupitelstvo obce deleguje Ing. Josefa Nentvicha, starostu obce, na jednání BD Mikulovice.",
-4009,4,2015-01-26,Usnesení č. 9,9,"Zastupitelstvo obce Mikulovice schvaluje poskytnutí příspěvku oblastní charitě Pardubice V Ráji 732 53002 Pardubice v částce
-4.000,-Kč.",
+4009,4,2015-01-26,Usnesení č. 9,9,"Zastupitelstvo obce Mikulovice schvaluje poskytnutí příspěvku oblastní charitě Pardubice V Ráji 732 53002 Pardubice v částce4.000,-Kč.",
 5001,5,2015-03-30,Usnesení č. 1,1,Zastupitelstvo obce Mikulovice schvaluje program 4. zasedání zastupitelstva v upraveném znění.,
 5002,5,2015-03-30,Usnesení č. 2,2,Zastupitelstvo obce Mikulovice jmenuje pana E. Šmejdíře a F. Teplého ověřovateli zápisu a zapisovatelem pana K. Pfeifera.,
-5003,5,2015-03-30,Usnesení č. 3,3,"Zastupitelstvo obce Mikulovice schvaluje „Obecně závaznou vyhlášku č.1/2015 o stanovení systému shromažďování, sběru, 
-přepravy, třídění, využívání a odstraňování komunálních odpadů a nakládání se stavebním odpadem na území obce Mikulovic.",
-5004,5,2015-03-30,Usnesení č. 4,4,"Zastupitelstvo obce Mikulovice schvaluje dodavatelem ozvučovacího systému firmu Radek Pikl, Akátová 769, 537 01 Chrudim a „Smlouvu o dílo mezi obcí Mikulovice, Valčíkova 52, 53002 Pardubice a dodavatelem Radek Pikl, Akátová 769, 537 01 Chrudim 
-v celkové výši 34 097,80,-Kč včetně DPH.",
-5005,5,2015-03-30,Usnesení č. 5,5,"Zastupitelstvo obce Mikulovice schvaluje – Dodatek č. 3 ke smlouvě o dílo č. 1745/2013, příloha č. 1 na rok 2015 o nakládání s
-komunálním odpadem uzavřená mezi obcí Mikulovice a SmP-Odpady a. s.",
-5006,5,2015-03-30,Usnesení č. 6,6,"Zastupitelstvo obce Mikulovice schvaluje v souladu s § 102 odst. 2 zákona č.128/2000 o obcích, ve znění pozdějších předpisů, 
-kompetenci starosty obce k provádění rozpočtových opatření v následujícím rozsahu:
-
-Na příjmové straně rozpočtu:
-
-a/ navýšení závazných ukazatelů v rámci třídy 1(daňové příjmy). Tyto prostředky nesmí starosta zapojit do výdajů, ale rozpočtují se 
-do financování. O jejich případném zapojení do výdajů rozhodne zastupitelstvo.
-
-b/ navýšení závazných ukazatelů v rámci třídy 2(nedaňové příjmy) a třídy 3 (kapitálové příjmy) do výše 250 000,- Kč. Tyto prostředky 
-nesmí starosta zapojit do výdajů rozpočtu kromě účelově určených darů
-
-c/ navýšení závazných ukazatelů v rámci třídy 4 (přijaté dotace) u rozpočtového zapojení účelových dotací v případě, že 
-zastupitelstvo schválilo účast obce při podání žádosti o transfer nebo jsou transfery poskytovány na základě právních předpisů. Tyto 
-prostředky starosta zapojuje do výdajů.
-
-Na výdajové stránce rozpočtu:
-
-a/ navýšení závazného ukazatele do výše 250 000,- Kč v období mezi jednotlivými zasedáními zastupitelstva. Tato pravomoc se 
-vztahuje i na závazné ukazatele příspěvky na provoz zřízeným příspěvkovým organizacím.
-
-Navýšení jednoho závazného ukazatele musí být kompenzováno snížením jiného závazného ukazatele na výdajové straně rozpočtu, 
-aby rozpočtovým opatřením nedošlo ke snížení přebytku nebo ke zvýšení schodku schváleného rozpočtu.
-
-b/přesuny v rámci jednoho paragrafu mezi třídou 5 (běžné výdaje) a třídou 6 (kapitálové výdaje) u akcí, které byly schváleny 
-zastupitelstvem, ale u kterých je nutné po uskutečnění plnění výdajů provést správné zatřídění v souladu s rozpočtovou skladbou.
-
-c/ navýšení závazného ukazatele o částku v případě potřeby vyšší než 250000,- Kč a to jen v případech, kdy se jedná o nutný výdaj 
-k zajištění chodu obce nebo jí přímo řízené organizace, v případě havárií nebo stavu nouze, k odvrácení možných škod, dále když 
-včasné neprovedení úhrady je vázáno penalizací a dopady penalizací mohou výrazně překročit případná rizika z neoprávněné 
-
-úhrady a k dalším případům zabránění škod. Dále v případě úhrady pokut, penále a dalších nutných výdajů, kdy schválení 
-
-rozpočtového opatření je nezbytné a má jen formální charakter, protože výdaj musí být realizován.
-
-Zastupitelstvo si vyhrazuje právo na informaci o každém rozpočtovém opatření provedeném v kompetenci starosty na nejbližším 
-
-zasedání zastupitelstva konaném po schválení rozpočtového opatření starostou.",
-5007,5,2015-03-30,Usnesení č. 7,7,"Zastupitelstvo obce schvaluje celoroční hospodaření obce a Závěrečný účet obce za rok 2014 včetně příloh a včetně zprávy 
-finančního odboru vypracovanou Krajským úřadem Pardubického kraje o výsledku přezkoumání hospodaření za rok 2014 „s 
-výhradami“. Zastupitelstvo obce schvaluje účetní závěrku obce Mikulovice k 31. 12. 2014.
-
-Opatření k nápravě chyb a nedostatků:
-
-1) Chybně vyplacené odměny (přeplatky) jednomu neuvolněnému členu zastupitelstva, 
-jednomu předsedovi finančního výboru, jednomu předsedovi kontrolního výboru a
-
-jednomu předsedovi stavební komise, kdy tyto funkce měli ve funkčním období 2010-2014 a dále pokračují v jiných 
-
-funkcích v zastupitelstvu Obce Mikulovice, budou sraženy z odměn za měsíc březen 2015.
-
-2) chybně vyplacené odměny (přeplatky) třem neuvolněným členům zastupitelstva, kteří již skončili v zastupitelstvu Obce 
-Mikulovice v roce 2014, budou vráceny v hotovosti do pokladny v měsíci dubnu 2015.",
-5008,5,2015-03-30,Usnesení č. 8,8,"Zastupitelstvo obce Mikulovice schvaluje provedení geometrického zaměření části komunikace před sportovním areálem
-v Mikulovicích a části komunikace v Blatě a po té s podáním žádosti na Pardubický kraj ve věci převodu pozemku do vlastnictví 
-obce.
-
-Zastupitelstvo obce Mikulovice schvaluje zadání objednávky na vypracování projektové dokumentace na opravy komunikace před 
-hřištěm v Mikulovicích, na vybudování nového chodníku a přístřešku – čekárny v Blatě a vypracování potřebných povolení na 
-výstavbu chodníku před řadovkami v Loučkách.
-
-Zastupitelé doporučují zadání objednávky na geometrické zaměření a vypracování potřebných povolení firmě PRODIN a.s. 
-Jiráskova 169, 530 02 Pardubice.",
-5009,5,2015-03-30,Usnesení č. 9,9,"Zastupitelstvo obce Mikulovice schvaluje provedení oprav a rozšíření asfaltového povrchu víceúčelového hřiště, s položení zámkové
-dlažby a opravy venkovního osvětlení a opravy amfiteátru a restaurace spočívající v rekonstrukci elektroinstalace, opravy střechy, 
-omítek, nátěru budovy, vybudováním přístřešku před WC, nad jižní terasou a výměnou oken. Schvaluje zadání objednávky na 
-vypracování projektové dokumentace na opravy a rekonstrukce amfiteátru projekční kanceláři IWW engeneering provozovna, 
-Prusinovského 185, Kroměříž. Stanoví komisi pro výběrové řízení na dodavatele výše uvedené opravy. Předseda – K. Pfeifer, člen M. 
-Průšek a E. Šmejdíř.
-
-Náhradníci – E. Klosová, F. Teplý, R. Báňa. Zastupitelstvo obce pověřuje komisi výběrem firem, které budou zařazeny do seznamu 
-možných dodavatelů jednotlivých staveb a osloveny k podání nabídek a provedením výběrového řízení.",
+5003,5,2015-03-30,Usnesení č. 3,3,"Zastupitelstvo obce Mikulovice schvaluje „Obecně závaznou vyhlášku č.1/2015 o stanovení systému shromažďování, sběru, přepravy, třídění, využívání a odstraňování komunálních odpadů a nakládání se stavebním odpadem na území obce Mikulovic.",
+5004,5,2015-03-30,Usnesení č. 4,4,"Zastupitelstvo obce Mikulovice schvaluje dodavatelem ozvučovacího systému firmu Radek Pikl, Akátová 769, 537 01 Chrudim a „Smlouvu o dílo mezi obcí Mikulovice, Valčíkova 52, 53002 Pardubice a dodavatelem Radek Pikl, Akátová 769, 537 01 Chrudim v celkové výši 34 097,80,-Kč včetně DPH.",
+5005,5,2015-03-30,Usnesení č. 5,5,"Zastupitelstvo obce Mikulovice schvaluje – Dodatek č. 3 ke smlouvě o dílo č. 1745/2013, příloha č. 1 na rok 2015 o nakládání skomunálním odpadem uzavřená mezi obcí Mikulovice a SmP-Odpady a. s.",
+5006,5,2015-03-30,Usnesení č. 6,6,"Zastupitelstvo obce Mikulovice schvaluje v souladu s § 102 odst. 2 zákona č.128/2000 o obcích, ve znění pozdějších předpisů, kompetenci starosty obce k provádění rozpočtových opatření v následujícím rozsahu:Na příjmové straně rozpočtu:a/ navýšení závazných ukazatelů v rámci třídy 1(daňové příjmy). Tyto prostředky nesmí starosta zapojit do výdajů, ale rozpočtují se do financování. O jejich případném zapojení do výdajů rozhodne zastupitelstvo.b/ navýšení závazných ukazatelů v rámci třídy 2(nedaňové příjmy) a třídy 3 (kapitálové příjmy) do výše 250 000,- Kč. Tyto prostředky nesmí starosta zapojit do výdajů rozpočtu kromě účelově určených darůc/ navýšení závazných ukazatelů v rámci třídy 4 (přijaté dotace) u rozpočtového zapojení účelových dotací v případě, že zastupitelstvo schválilo účast obce při podání žádosti o transfer nebo jsou transfery poskytovány na základě právních předpisů. Tyto prostředky starosta zapojuje do výdajů.Na výdajové stránce rozpočtu:a/ navýšení závazného ukazatele do výše 250 000,- Kč v období mezi jednotlivými zasedáními zastupitelstva. Tato pravomoc se vztahuje i na závazné ukazatele příspěvky na provoz zřízeným příspěvkovým organizacím.Navýšení jednoho závazného ukazatele musí být kompenzováno snížením jiného závazného ukazatele na výdajové straně rozpočtu, aby rozpočtovým opatřením nedošlo ke snížení přebytku nebo ke zvýšení schodku schváleného rozpočtu.b/přesuny v rámci jednoho paragrafu mezi třídou 5 (běžné výdaje) a třídou 6 (kapitálové výdaje) u akcí, které byly schváleny zastupitelstvem, ale u kterých je nutné po uskutečnění plnění výdajů provést správné zatřídění v souladu s rozpočtovou skladbou.c/ navýšení závazného ukazatele o částku v případě potřeby vyšší než 250000,- Kč a to jen v případech, kdy se jedná o nutný výdaj k zajištění chodu obce nebo jí přímo řízené organizace, v případě havárií nebo stavu nouze, k odvrácení možných škod, dále když včasné neprovedení úhrady je vázáno penalizací a dopady penalizací mohou výrazně překročit případná rizika z neoprávněné úhrady a k dalším případům zabránění škod. Dále v případě úhrady pokut, penále a dalších nutných výdajů, kdy schválení rozpočtového opatření je nezbytné a má jen formální charakter, protože výdaj musí být realizován.Zastupitelstvo si vyhrazuje právo na informaci o každém rozpočtovém opatření provedeném v kompetenci starosty na nejbližším zasedání zastupitelstva konaném po schválení rozpočtového opatření starostou.",
+5007,5,2015-03-30,Usnesení č. 7,7,"Zastupitelstvo obce schvaluje celoroční hospodaření obce a Závěrečný účet obce za rok 2014 včetně příloh a včetně zprávy finančního odboru vypracovanou Krajským úřadem Pardubického kraje o výsledku přezkoumání hospodaření za rok 2014 „s výhradami“. Zastupitelstvo obce schvaluje účetní závěrku obce Mikulovice k 31. 12. 2014.Opatření k nápravě chyb a nedostatků:1) Chybně vyplacené odměny (přeplatky) jednomu neuvolněnému členu zastupitelstva, jednomu předsedovi finančního výboru, jednomu předsedovi kontrolního výboru ajednomu předsedovi stavební komise, kdy tyto funkce měli ve funkčním období 2010-2014 a dále pokračují v jiných funkcích v zastupitelstvu Obce Mikulovice, budou sraženy z odměn za měsíc březen 2015.2) chybně vyplacené odměny (přeplatky) třem neuvolněným členům zastupitelstva, kteří již skončili v zastupitelstvu Obce Mikulovice v roce 2014, budou vráceny v hotovosti do pokladny v měsíci dubnu 2015.",
+5008,5,2015-03-30,Usnesení č. 8,8,"Zastupitelstvo obce Mikulovice schvaluje provedení geometrického zaměření části komunikace před sportovním areálemv Mikulovicích a části komunikace v Blatě a po té s podáním žádosti na Pardubický kraj ve věci převodu pozemku do vlastnictví obce.Zastupitelstvo obce Mikulovice schvaluje zadání objednávky na vypracování projektové dokumentace na opravy komunikace před hřištěm v Mikulovicích, na vybudování nového chodníku a přístřešku – čekárny v Blatě a vypracování potřebných povolení na výstavbu chodníku před řadovkami v Loučkách.Zastupitelé doporučují zadání objednávky na geometrické zaměření a vypracování potřebných povolení firmě PRODIN a.s. Jiráskova 169, 530 02 Pardubice.",
+5009,5,2015-03-30,Usnesení č. 9,9,"Zastupitelstvo obce Mikulovice schvaluje provedení oprav a rozšíření asfaltového povrchu víceúčelového hřiště, s položení zámkovédlažby a opravy venkovního osvětlení a opravy amfiteátru a restaurace spočívající v rekonstrukci elektroinstalace, opravy střechy, omítek, nátěru budovy, vybudováním přístřešku před WC, nad jižní terasou a výměnou oken. Schvaluje zadání objednávky na vypracování projektové dokumentace na opravy a rekonstrukce amfiteátru projekční kanceláři IWW engeneering provozovna, Prusinovského 185, Kroměříž. Stanoví komisi pro výběrové řízení na dodavatele výše uvedené opravy. Předseda – K. Pfeifer, člen M. Průšek a E. Šmejdíř.Náhradníci – E. Klosová, F. Teplý, R. Báňa. Zastupitelstvo obce pověřuje komisi výběrem firem, které budou zařazeny do seznamu možných dodavatelů jednotlivých staveb a osloveny k podání nabídek a provedením výběrového řízení.",
 5010,5,2015-03-30,Usnesení č. 10,10,Zastupitelstvo obce Mikulovice schvaluje rozpočtové opatření č.1/2015 -úpravu rozpočtu k 30. 3. 2015 obce Mikulovice.,
-5011,5,2015-03-30,Usnesení č. 11,11,"Zastupitelstvo schvaluje zprávu o hospodaření ZŠ a MŠ a rozdělení hospodářského výsledku 123 668,48 Kč vložením částky 
-113 668,48,-Kč do rezervního fondu a 10.000,-Kč do fondu odměn. Zastupitelstvo obce schvaluje účetní závěrku příspěvkové 
-organizace ZŠ a MŠ Mikulovice k 31. 12. 2014.",
+5011,5,2015-03-30,Usnesení č. 11,11,"Zastupitelstvo schvaluje zprávu o hospodaření ZŠ a MŠ a rozdělení hospodářského výsledku 123 668,48 Kč vložením částky 113 668,48,-Kč do rezervního fondu a 10.000,-Kč do fondu odměn. Zastupitelstvo obce schvaluje účetní závěrku příspěvkové organizace ZŠ a MŠ Mikulovice k 31. 12. 2014.",
 5012,5,2015-03-30,Usnesení č. 12,12,Zastupitelstvo obce Mikulovice schvaluje účetní závěrku obce Mikulovice za rok 2014.,
 5013,5,2015-03-30,Usnesení č. 13,13,Zastupitelstvo obce Mikulovice schvaluje účetní závěrku ZŠ a MŠ za rok 2014.,
-5014,5,2015-03-30,Usnesení č. 14,14,"Zastupitelstvo obce Mikulovice schvaluje Smlouvu o zřízení věcného břemene a smlouvu o právu provést stavbu č. IV-12-
-2012130/VB/01 Mikulovice – TS knn – Heřmanský mezi obcí Mikulovice a ČEZ Distribuce a. s. Děčín IV Podmokly zastoupenou 
-na základě plné moci společností Servis VB s.r.o. se sídlem Lukavice 181, 538 21 Slatiňany na pozemku parc. č. 54/14 a 187/4 k.ú. 
-Mikulovice. Jednorázová náhrada je stanovena ve výši 3 400,- Kč.",
-5015,5,2015-03-30,Usnesení č. 15,15,"Zastupitelstvo obce Mikulovice schvaluje smlouvu o dílo mezi obcí Mikulovice a dodavatelem firmou TM okna s.r.o. se sídlem 
-Valčíkova 14, 530 02 Pardubice. Cena za dílo 78 289,- Kč včetně DPH.",
-5016,5,2015-03-30,Usnesení č. 16,16,"Zastupitelstvo obce Mikulovice schvaluje poskytnutí příspěvku – finančního daru oblastní charitě Pardubice V Ráji 732 53002 
-Pardubice v částce 30 000,- Kč na dokončení ambulantního odlehčovacího zařízení – stacionář v Mikulovicích.",
+5014,5,2015-03-30,Usnesení č. 14,14,"Zastupitelstvo obce Mikulovice schvaluje Smlouvu o zřízení věcného břemene a smlouvu o právu provést stavbu č. IV-12-2012130/VB/01 Mikulovice – TS knn – Heřmanský mezi obcí Mikulovice a ČEZ Distribuce a. s. Děčín IV Podmokly zastoupenou na základě plné moci společností Servis VB s.r.o. se sídlem Lukavice 181, 538 21 Slatiňany na pozemku parc. č. 54/14 a 187/4 k.ú. Mikulovice. Jednorázová náhrada je stanovena ve výši 3 400,- Kč.",
+5015,5,2015-03-30,Usnesení č. 15,15,"Zastupitelstvo obce Mikulovice schvaluje smlouvu o dílo mezi obcí Mikulovice a dodavatelem firmou TM okna s.r.o. se sídlem Valčíkova 14, 530 02 Pardubice. Cena za dílo 78 289,- Kč včetně DPH.",
+5016,5,2015-03-30,Usnesení č. 16,16,"Zastupitelstvo obce Mikulovice schvaluje poskytnutí příspěvku – finančního daru oblastní charitě Pardubice V Ráji 732 53002 Pardubice v částce 30 000,- Kč na dokončení ambulantního odlehčovacího zařízení – stacionář v Mikulovicích.",
 6001,6,2015-06-15,Usnesení č. 1,1,Zastupitelstvo obce Mikulovice schvaluje program 5. zasedání zastupitelstva v upraveném znění.,
 6002,6,2015-06-15,Usnesení č. 2,2,Zastupitelstvo obce Mikulovice jmenuje pana S. Medunu a F. Teplého ověřovateli zápisu a zapisovatelem pana K. Pfeifera.,
 6003,6,2015-06-15,Usnesení č. 3,3,Zastupitelstvo obce Mikulovice schvaluje rozpočtové opatření č.4/2015 - úpravu rozpočtu k 15. 6. 2015 obce Mikulovice.,
-6004,6,2015-06-15,Usnesení č. 4,4,"Zastupitelstvo obce schvaluje „ Smlouvu o poskytnutí dotace z rozpočtových prostředků Pardubického kraje v rámci Programu
-obnovy venkova „ mezi Pardubickým krajem, Komenského náměstí 125, Pardubice a Obcí Mikulovice na „Komplexní úprava 
-veřejného prostranství – park V Loučkách“ v roce 2015 – neinvestiční náklady celkem 200.000,-Kč a pověřuje starostu jejím 
-podpisem.",
-6005,6,2015-06-15,Usnesení č. 5,5,"Zastupitelstvo obce Mikulovice schvaluje veřejnosprávní smlouvu o sdružování prostředků na nákup výměnného fondu pro 
-knihovny v regionu Pardubice v roce 2015 mezi obcí Mikulovice a Krajskou knihovnou Pardubice. Schvaluje poskytnout pro rok 
-2015 příspěvek na nákup nové literatury do výměnného knižního fondu obcí v částce 5000,-Kč.",
-6006,6,2015-06-15,Usnesení č. 6,6,"Zastupitelstvo obce Mikulovice schvaluje Smlouvu o zřízení věcného břemene - služebnosti a smlouvu o právu provést stavbu č.IV-
-12-2013088/VB/01 název stavby – Mikulovice–knn-Home Develop etapa 1 mezi obcí Mikulovice a ČEZ Distribuce, a.s. se sídlem 
-Děčín, Děčín IV Podmokly, Teplická 847/8 zastoupená společností MAPING vos, Semtín 82, 533 53 Pardubice. Úhrada se 
-stanovuje v jednorázové částce 500,- Kč/ bm, celkem 38 500,-Kč.",
+6004,6,2015-06-15,Usnesení č. 4,4,"Zastupitelstvo obce schvaluje „ Smlouvu o poskytnutí dotace z rozpočtových prostředků Pardubického kraje v rámci Programuobnovy venkova „ mezi Pardubickým krajem, Komenského náměstí 125, Pardubice a Obcí Mikulovice na „Komplexní úprava veřejného prostranství – park V Loučkách“ v roce 2015 – neinvestiční náklady celkem 200.000,-Kč a pověřuje starostu jejím podpisem.",
+6005,6,2015-06-15,Usnesení č. 5,5,"Zastupitelstvo obce Mikulovice schvaluje veřejnosprávní smlouvu o sdružování prostředků na nákup výměnného fondu pro knihovny v regionu Pardubice v roce 2015 mezi obcí Mikulovice a Krajskou knihovnou Pardubice. Schvaluje poskytnout pro rok 2015 příspěvek na nákup nové literatury do výměnného knižního fondu obcí v částce 5000,-Kč.",
+6006,6,2015-06-15,Usnesení č. 6,6,"Zastupitelstvo obce Mikulovice schvaluje Smlouvu o zřízení věcného břemene - služebnosti a smlouvu o právu provést stavbu č.IV-12-2013088/VB/01 název stavby – Mikulovice–knn-Home Develop etapa 1 mezi obcí Mikulovice a ČEZ Distribuce, a.s. se sídlem Děčín, Děčín IV Podmokly, Teplická 847/8 zastoupená společností MAPING vos, Semtín 82, 533 53 Pardubice. Úhrada se stanovuje v jednorázové částce 500,- Kč/ bm, celkem 38 500,-Kč.",
 7001,7,2015-07-20,Usnesení č. 1,1,Zastupitelstvo obce Mikulovice schvaluje program 6. zasedání zastupitelstva v navrženém znění.,
 7002,7,2015-07-20,Usnesení č. 2,2,Zastupitelstvo obce Mikulovice jmenuje pana R. Báňu a M. Průška ověřovateli zápisu a zapisovatelem pana K. Pfeifera.,
-7003,7,2015-07-20,Usnesení č. 3,3,"Zastupitelstvo obce Mikulovice schvaluje Smlouvu o zřízení věcného břemene mezi obcí Mikulovice, Valčíkova 52, 530 02
-Pardubice a RWE GasNet,s.r.o. se sídlem Ústí nad Labem, Klišská 940, 401 17 Ústí nad Labem zastoupené společností RWE 
-Distribuční služby, s.r.o. se sídlem Brno, Plynárenská 499/1 657 02 Brno, která spočívá v oprávnění zřídit a provozovat na p. p. č. 
-281 k. ú. Mikulovice plynárenské zařízení číslo stavby 8800073179. Úhrada se stanovuje v jednorázové částce 500,- Kč.",
-7004,7,2015-07-20,Usnesení č. 4,4,"Zastupitelstvo obce Mikulovice schvaluje smlouvu o dílo mezi obcí Mikulovice a dodavatelem stavby firmu REAL – speciální 
-stavební práce s.r.o. Pardubická 528 Chrudim na opravu komunikace v ulici Valčíkova. Cena za dílo144 960,-Kč.",
-7005,7,2015-07-20,Usnesení č. 5,5,"Zastupitelstvo obce schvaluje „ Smlouvu o dílo na akci „Komplexní úprava veřejného prostranství – park V Loučkách“ mezi obcí 
-Mikulovice a dodavatelem Zahradní architektura Pardubice s.r.o. Barchov 30, 530 02 Pardubice a pověřuje starostu jejím 
-podpisem. Cena za dílo 233 455,- Kč",
-7006,7,2015-07-20,Usnesení č. 6,6,"Zastupitelstvo obce Mikulovice schvaluje provedení oprav chodníku na pozemkových parcelách p. č. 306/2, 307 k. ú Mikulovice a
-306 k. ú Blato v Loučkách a stanoví komisi pro výběrové řízení na dodavatele výše uvedené opravy. Předseda – K. Pfeifer, člen M. 
-Průšek a E. Šmejdíř.
-
-Náhradníci – E. Klosová, F. Teplý, R. Báňa. Zastupitelstvo obce pověřuje komisi výběrem firem, které budou zařazeny do seznamu 
-možných dodavatelů jednotlivých staveb a osloveny k podání nabídek a provedením výběrového řízení.",
+7003,7,2015-07-20,Usnesení č. 3,3,"Zastupitelstvo obce Mikulovice schvaluje Smlouvu o zřízení věcného břemene mezi obcí Mikulovice, Valčíkova 52, 530 02Pardubice a RWE GasNet,s.r.o. se sídlem Ústí nad Labem, Klišská 940, 401 17 Ústí nad Labem zastoupené společností RWE Distribuční služby, s.r.o. se sídlem Brno, Plynárenská 499/1 657 02 Brno, která spočívá v oprávnění zřídit a provozovat na p. p. č. 281 k. ú. Mikulovice plynárenské zařízení číslo stavby 8800073179. Úhrada se stanovuje v jednorázové částce 500,- Kč.",
+7004,7,2015-07-20,Usnesení č. 4,4,"Zastupitelstvo obce Mikulovice schvaluje smlouvu o dílo mezi obcí Mikulovice a dodavatelem stavby firmu REAL – speciální stavební práce s.r.o. Pardubická 528 Chrudim na opravu komunikace v ulici Valčíkova. Cena za dílo144 960,-Kč.",
+7005,7,2015-07-20,Usnesení č. 5,5,"Zastupitelstvo obce schvaluje „ Smlouvu o dílo na akci „Komplexní úprava veřejného prostranství – park V Loučkách“ mezi obcí Mikulovice a dodavatelem Zahradní architektura Pardubice s.r.o. Barchov 30, 530 02 Pardubice a pověřuje starostu jejím podpisem. Cena za dílo 233 455,- Kč",
+7006,7,2015-07-20,Usnesení č. 6,6,"Zastupitelstvo obce Mikulovice schvaluje provedení oprav chodníku na pozemkových parcelách p. č. 306/2, 307 k. ú Mikulovice a306 k. ú Blato v Loučkách a stanoví komisi pro výběrové řízení na dodavatele výše uvedené opravy. Předseda – K. Pfeifer, člen M. Průšek a E. Šmejdíř.Náhradníci – E. Klosová, F. Teplý, R. Báňa. Zastupitelstvo obce pověřuje komisi výběrem firem, které budou zařazeny do seznamu možných dodavatelů jednotlivých staveb a osloveny k podání nabídek a provedením výběrového řízení.",
 7007,7,2015-07-20,Usnesení č. 7,7,"Zastupitelstvo obce Mikulovice schvaluje, že pozemek ve vlastnictví obce p. č.53/7 k. ú. Mikulovice neodprodá.",
 8001,8,2015-09-07,Usnesení č. 1,1,Zastupitelstvo obce Mikulovice schvaluje program 7. zasedání zastupitelstva v doplněném znění.,
 8002,8,2015-09-07,Usnesení č. 2,2,Zastupitelstvo obce Mikulovice jmenuje pana F. Teplého a E. Šmejdíře ověřovateli zápisu a zapisovatelem pana K. Pfeifera.,
-8003,8,2015-09-07,Usnesení č. 3,3,"Zastupitelstvo obce Mikulovice schvaluje firmu HOLD s.r.o. silniční stavby Orel 35 Slatiňany dodavatelem oprav chodníku na
-pozemkových parcelách p. č. 306/2, 307 k. ú Mikulovice a 306 k. ú Blato v Loučkách. Cena za díIo 890.032,20 Kč včetně DPH.",
-8004,8,2015-09-07,Usnesení č. 4,4,"Zastupitelstvo obce Mikulovice schvaluje firmu HOLD s.r.o. silniční stavby Orel 35 Slatiňany dodavatelem oprav asfaltové plochy
-na hřišti, p. č. 268/33 k. ú. Mikulovice a schvaluje smlouvu o dílo mezi obcí Mikulovice a dodavatelem stavby HOLD s.r.o. silniční
-stavby Orel 35 Slatiňany. Cena za dílo 218.195.67 Kč včetně DPH.",
-8005,8,2015-09-07,Usnesení č. 5,5,"Zastupitelstvo obce Mikulovice schvaluje Smlouvu o zřízení věcného břemene - služebnosti a smlouvu o právu provést stavbu č. IV-
-l2-2012861/VB/01 název stavby: Mikulovice - knn - Báňa mezi obcí Mikulovice a ČEZ Distribuce, a.s. se sídlem Děčín, Děčín IV
-Podmokly, Teplická 847/8 zastoupená firmou ENERGOLAND, s.ro. Srnojedy, Pardubická 18 Úhrada se stanovuje v jednorázové
-částce 500,-kč/bm, celkem 8 000,-Kč.",
-8006,8,2015-09-07,Usnesení č. 6,6,"Zastupitelstvo obce Mikulovice bere na vědomí ,,žádost o zpětvzetí žádosti na odkup pozemku
-ve vlastnictví obce p. č.53/7 k. ú.
-Mikulovice" žadatelem.",
-8007,8,2015-09-07,Usnesení č. 7,7,"Zastupitelstvo obce Mikulovice schvaluje Smlouvu o zřízení věcného břemene č. 8800073325_2/VB mezi obcí Mikulovice, Valčíkova
-52, 530 02 Pardubice a RWE GasNet, s.r,o. se sídlem Ústí nad Labem, Klišská 940, 401, 17 Ústí nad Labem zastoupené společností
-RWE Distribuční služby, s,r.o. se sídlem Brno, Plynárenská 499/1 657 02 Brno která spočívá v oprávnění zřídit a provozovat na p. p.
-č. 26 a 25/2 8 RD k. ú. Mikulovice plynárenské zařízení číslo stavby 8800073325. Úhrada se stanovuje v jednorázové částce 900,- Kč.",
-8008,8,2015-09-07,Usnesení č. 8,8,"Zastupitelstvo obce Mikulovice schvaluje Smlouva o zřízení věcného břemene č. IP-12-20057,4/VB/2 Mikulovice Blato - přípojka
-nn - Makovský mezi obcí Mikulovice, Valč[kova 52, 530 02 Pardubice a společnosí ČEZ Distribuce, a.s. Teplická 874/8, Děčín
-Podmokly, 405 02 Děčín zastoupená společností MATEX HK s.r.o., zastoupená společností Servis VB s.r.o. Lukavice 181, 538 21
-Slatiňany, která spočívá v oprávnění zřídit a provozovat na p. č. 285/1 k. ú- Blato kabelové el. vedení nn. Úhrada se stanovuje v
-jednorázové částce 1000,- Kč.",
-8009,8,2015-09-07,Usnesení č. 9,9,"Zastupitetstvo obce Mikulovice schvaluje Smlouvu o dílo mezi obcí Mikulovice Valčíkova 52, 530 02 Pardubice a dodavatelem
-firmou ENVIPARTNER, s.r.o. Štýřice, Vídeňská 55, 639 00 Brno na zpracování povodňového plánu obce Mikulovice. Cena za díIo
-11 000,- Kč bez DPH.",
+8003,8,2015-09-07,Usnesení č. 3,3,"Zastupitelstvo obce Mikulovice schvaluje firmu HOLD s.r.o. silniční stavby Orel 35 Slatiňany dodavatelem oprav chodníku napozemkových parcelách p. č. 306/2, 307 k. ú Mikulovice a 306 k. ú Blato v Loučkách. Cena za díIo 890.032,20 Kč včetně DPH.",
+8004,8,2015-09-07,Usnesení č. 4,4,"Zastupitelstvo obce Mikulovice schvaluje firmu HOLD s.r.o. silniční stavby Orel 35 Slatiňany dodavatelem oprav asfaltové plochyna hřišti, p. č. 268/33 k. ú. Mikulovice a schvaluje smlouvu o dílo mezi obcí Mikulovice a dodavatelem stavby HOLD s.r.o. silničnístavby Orel 35 Slatiňany. Cena za dílo 218.195.67 Kč včetně DPH.",
+8005,8,2015-09-07,Usnesení č. 5,5,"Zastupitelstvo obce Mikulovice schvaluje Smlouvu o zřízení věcného břemene - služebnosti a smlouvu o právu provést stavbu č. IV-l2-2012861/VB/01 název stavby: Mikulovice - knn - Báňa mezi obcí Mikulovice a ČEZ Distribuce, a.s. se sídlem Děčín, Děčín IVPodmokly, Teplická 847/8 zastoupená firmou ENERGOLAND, s.ro. Srnojedy, Pardubická 18 Úhrada se stanovuje v jednorázovéčástce 500,-kč/bm, celkem 8 000,-Kč.",
+8006,8,2015-09-07,Usnesení č. 6,6,"Zastupitelstvo obce Mikulovice bere na vědomí ,,žádost o zpětvzetí žádosti na odkup pozemkuve vlastnictví obce p. č.53/7 k. ú.Mikulovice' žadatelem.",
+8007,8,2015-09-07,Usnesení č. 7,7,"Zastupitelstvo obce Mikulovice schvaluje Smlouvu o zřízení věcného břemene č. 8800073325_2/VB mezi obcí Mikulovice, Valčíkova52, 530 02 Pardubice a RWE GasNet, s.r,o. se sídlem Ústí nad Labem, Klišská 940, 401, 17 Ústí nad Labem zastoupené společnostíRWE Distribuční služby, s,r.o. se sídlem Brno, Plynárenská 499/1 657 02 Brno která spočívá v oprávnění zřídit a provozovat na p. p.č. 26 a 25/2 8 RD k. ú. Mikulovice plynárenské zařízení číslo stavby 8800073325. Úhrada se stanovuje v jednorázové částce 900,- Kč.",
+8008,8,2015-09-07,Usnesení č. 8,8,"Zastupitelstvo obce Mikulovice schvaluje Smlouva o zřízení věcného břemene č. IP-12-20057,4/VB/2 Mikulovice Blato - přípojkann - Makovský mezi obcí Mikulovice, Valč[kova 52, 530 02 Pardubice a společnosí ČEZ Distribuce, a.s. Teplická 874/8, DěčínPodmokly, 405 02 Děčín zastoupená společností MATEX HK s.r.o., zastoupená společností Servis VB s.r.o. Lukavice 181, 538 21Slatiňany, která spočívá v oprávnění zřídit a provozovat na p. č. 285/1 k. ú- Blato kabelové el. vedení nn. Úhrada se stanovuje vjednorázové částce 1000,- Kč.",
+8009,8,2015-09-07,Usnesení č. 9,9,"Zastupitetstvo obce Mikulovice schvaluje Smlouvu o dílo mezi obcí Mikulovice Valčíkova 52, 530 02 Pardubice a dodavatelemfirmou ENVIPARTNER, s.r.o. Štýřice, Vídeňská 55, 639 00 Brno na zpracování povodňového plánu obce Mikulovice. Cena za díIo11 000,- Kč bez DPH.",

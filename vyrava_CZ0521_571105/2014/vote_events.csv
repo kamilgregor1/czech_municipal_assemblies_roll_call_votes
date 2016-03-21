@@ -1,91 +1,42 @@
 ﻿id,legislative_session:number,start_date,item:title,item:number,motion:title,
-1001,1,2014-12-22,"Zahájení, určení zapisovatele, jmenování ověřovatelů zápisu, schválení programu",1,"Zastupitelstvo obce schvaluje program zasedání, ověřovateli zápisu určuje pí. Ing. Janu
-Medkovou a p. Kamila Králika, zapisovatelem p. Pavla Vejmana.",
+1001,1,2014-12-22,"Zahájení, určení zapisovatele, jmenování ověřovatelů zápisu, schválení programu",1,"Zastupitelstvo obce schvaluje program zasedání, ověřovateli zápisu určuje pí. Ing. JanuMedkovou a p. Kamila Králika, zapisovatelem p. Pavla Vejmana.",
 1002,1,2014-12-22,Projednání a schválení rozpočtového provizoria na rok 2015,3,"Zastupitelstvo obce schvaluje rozpočtové provizorium na rok 2015, dle přílohy.",
-1003,1,2014-12-22,Žádost o dotaci na výstavbu VIII. etapy chodníků ze SFDI,4,Zastupitelstvo obce schvaluje podání Žádosti o poskytnutí finanční podpory z SFDI na 
-projekt „Stavba VIII. etapy zpevněných chodníků v obci Výrava podél silnice II/299“.,
+1003,1,2014-12-22,Žádost o dotaci na výstavbu VIII. etapy chodníků ze SFDI,4,Zastupitelstvo obce schvaluje podání Žádosti o poskytnutí finanční podpory z SFDI na projekt „Stavba VIII. etapy zpevněných chodníků v obci Výrava podél silnice II/299“.,
 1004,1,2014-12-22,Poplatky za komunální odpad v roce 2015,5,"Zastupitelstvo obce schvaluje poplatek za komunální odpad na rok 2015, dle přílohy zápisu.",
 1005,1,2014-12-22,Hospodaření obce,6,Zastupitelstvo obce schvaluje rozpočtová opatření RO č. 42 - 50,
 2001,2,2015-01-26,"Zahájení, určení zapisovatele, jmenování ověřovatelů zápisu, schválení programu",1,"Zastupitelstvo obce schvaluje program zasedání ZO, za ověřovatele určuje pí. Mgr. Jitku Hrubou a p. Vladimíra Panenku, zapisovatelem p. Pavla Vejmana.",
-2002,2,2015-01-26,Přepracování projektové dokumentace na akci "Obnova vodní nádrže před čp. 53",3,Zastupitelstvo obce schvaluje návrh přepracovat projektovou dokumetaci na akci "Obnova vodní nádrže před čp. 53 v obci Výrava". Zastupitelstvo obce pověřuje starostu objednáním zpracování projektové dokumentace pro stavební řízení a realizaci stavby na uvedenou akci u firmy Agroprojekce Litomyšl spol. s. r. o. dle předložené cenové nabídky.,
+2002,2,2015-01-26,Přepracování projektové dokumentace na akci 'Obnova vodní nádrže před čp. 53',3,Zastupitelstvo obce schvaluje návrh přepracovat projektovou dokumetaci na akci 'Obnova vodní nádrže před čp. 53 v obci Výrava'. Zastupitelstvo obce pověřuje starostu objednáním zpracování projektové dokumentace pro stavební řízení a realizaci stavby na uvedenou akci u firmy Agroprojekce Litomyšl spol. s. r. o. dle předložené cenové nabídky.,
 2003,2,2015-01-26,Hospodaření obce,4,Zastupitelstvo obce schvaluje rozpočtová púatření č. 51.,
-2004,2,2015-01-26,Pronájem rybníka "Ve Vrbičkách" - uzavření Dodatku č. 1,6,Zastupitelstvo obce schvaluje uzavření Dodatku č. 1 ke Smlouvě o nájmu vodní plochy rybníku "Ve Vrbičkách".,
-3001,3,2015-03-11,"Zahájení, určení zapisovatele, jmenování ověřovatelů zápisu, schválení programu",1,"Zastupitelstvo obce schvaluje program zasedání ZO, za ověřovatele zápisu určuje Ing. Janu
-Medkovou a Pavla Vejmana, zapisovatelem Michala Konečného.",
-3002,3,2015-03-11,Údržba zeleně v průtahu obce,4,"Zastupitelstvo obce schvaluje záměr prořezání stromů v průtahu obce v rozsahu provedené 
-poptávky. Zastupitelstvo obce schvaluje objednání dodávky prací u firmy Josef Máslo - GREEN SERVIS 
-v rozsahu předložené nabídky v ceně 48 800,- Kč bez DPH",
-3003,3,2015-03-11,Zařazení investičních akcí do návrhu rozpočtu 2015 a do rozpočtového výhledu,5,Zastupitelstvo obce schvaluje zařadit záměr zřízení ploch pod kontejnery na území obce do 
-rozpočtu 2015.,
-3004,3,2015-03-11,Zařazení investičních akcí do návrhu rozpočtu 2015 a do rozpočtového výhledu,5,Zastupitelstvo obce schvaluje zařadit záměr zřízení sběrného dvora v lokalitě „Na Bělkách“
-do rozpočtu 2015 a rozpočtového výhledu.,
-3005,3,2015-03-11,Zařazení investičních akcí do návrhu rozpočtu 2015 a do rozpočtového výhledu,5,Zastupitelstvo obce ruší usnesení k bodu 4.9. z 2. Zasedání ZO ze dne 2. 12. 2014: Schválení
-zařazení akce Stavba dřevěné rozhledny na Hřibech do rozpočtového výhledu. Přijaté 
-usnesení nahrazuje novým usnesením: ZO schvaluje Stavbu dřevěné rozhledny na Hřibech 
-do rozpočtového výhledu nezařazovat.,
+2004,2,2015-01-26,Pronájem rybníka 'Ve Vrbičkách' - uzavření Dodatku č. 1,6,Zastupitelstvo obce schvaluje uzavření Dodatku č. 1 ke Smlouvě o nájmu vodní plochy rybníku 'Ve Vrbičkách'.,
+3001,3,2015-03-11,"Zahájení, určení zapisovatele, jmenování ověřovatelů zápisu, schválení programu",1,"Zastupitelstvo obce schvaluje program zasedání ZO, za ověřovatele zápisu určuje Ing. JanuMedkovou a Pavla Vejmana, zapisovatelem Michala Konečného.",
+3002,3,2015-03-11,Údržba zeleně v průtahu obce,4,"Zastupitelstvo obce schvaluje záměr prořezání stromů v průtahu obce v rozsahu provedené poptávky. Zastupitelstvo obce schvaluje objednání dodávky prací u firmy Josef Máslo - GREEN SERVIS v rozsahu předložené nabídky v ceně 48 800,- Kč bez DPH",
+3003,3,2015-03-11,Zařazení investičních akcí do návrhu rozpočtu 2015 a do rozpočtového výhledu,5,Zastupitelstvo obce schvaluje zařadit záměr zřízení ploch pod kontejnery na území obce do rozpočtu 2015.,
+3004,3,2015-03-11,Zařazení investičních akcí do návrhu rozpočtu 2015 a do rozpočtového výhledu,5,Zastupitelstvo obce schvaluje zařadit záměr zřízení sběrného dvora v lokalitě „Na Bělkách“do rozpočtu 2015 a rozpočtového výhledu.,
+3005,3,2015-03-11,Zařazení investičních akcí do návrhu rozpočtu 2015 a do rozpočtového výhledu,5,Zastupitelstvo obce ruší usnesení k bodu 4.9. z 2. Zasedání ZO ze dne 2. 12. 2014: Schválenízařazení akce Stavba dřevěné rozhledny na Hřibech do rozpočtového výhledu. Přijaté usnesení nahrazuje novým usnesením: ZO schvaluje Stavbu dřevěné rozhledny na Hřibech do rozpočtového výhledu nezařazovat.,
 3006,3,2015-03-11,Projednání návrhu rozpočtu na rok 2015,7,Zastupitelstvo obce projednalo návrh rozpočtu na rok 2015.,
-3007,3,2015-03-11,Schválení rozpočtu na rok 2015,8,Zastupitelstvo obce schvaluje rozpočet Obce Výrava na rok 2015 jako rozpočet vyrovnaný
-s příjmy ve výši 4 381 400 Kč a výdaji ve výši 4 381 400 Kč. 
-Zastupitelstvo obce schvaluje závazné ukazatele rozpočtu dle předložené tabulky.,
+3007,3,2015-03-11,Schválení rozpočtu na rok 2015,8,Zastupitelstvo obce schvaluje rozpočet Obce Výrava na rok 2015 jako rozpočet vyrovnanýs příjmy ve výši 4 381 400 Kč a výdaji ve výši 4 381 400 Kč. Zastupitelstvo obce schvaluje závazné ukazatele rozpočtu dle předložené tabulky.,
 3008,3,2015-03-11,Projednání a schválení rozpočtového výhledu 2016 – 2018,9,Zastupitelstvo obce schvaluje rozpočtový výhled 2016 - 2018.,
-3009,3,2015-03-11,Úklid a zajištění zpevněné plochy „Na Bělkách“,10,Zastupitelstvo obce schvaluje objednání dodávky likvidace pneumatik u firmy Marius
-Pedersen a. s.,
+3009,3,2015-03-11,Úklid a zajištění zpevněné plochy „Na Bělkách“,10,Zastupitelstvo obce schvaluje objednání dodávky likvidace pneumatik u firmy MariusPedersen a. s.,
 3010,3,2015-03-11,Úklid a zajištění zpevněné plochy „Na Bělkách“,10,Zastupitelstvo obce schvaluje záměr dočasného zajištění zpevněné plochy „Na Bělkách“.,
-3011,3,2015-03-11,Úklid a zajištění zpevněné plochy „Na Bělkách“,10,"Zastupitelstvo obce schvaluje objednání dodávky vodící stěny u firmy MABA Prefa spol. s
-r.o. v rozsahu předložené nabídky v ceně 106 558,- Kč bez DPH.",
-3012,3,2015-03-11,Sběr bioodpadu na území obce,11,Zastupitelstvo obce schvaluje systém sběru bioodpadu přistavením velkoobjemového
-kontejneru s režimem sběru bioodpadu 2x týdně v období od dubna do října běžného roku. 
-Zastupitelstvo obce ukládá místostarostovi obce zajištění zpracování provozního řádu 
-sběrného místa.,
-3013,3,2015-03-11,Sběr bioodpadu na území obce,11,Zastupitelstvo obce schvaluje uzavření smlouvy na zajištění sběru a svozu bioodpadu
-včetně likvidace u společnosti Vospol spol. s. r. o.,
-3014,3,2015-03-11,Poptávka na údržbu veřejného osvětlení na území obce,12,Zastupitelstvo obce schvaluje záměr zajištění údržby VO na období 2015 – 2018 u firmy
-ERMO spol. s r. o. 
-Zastupitelstvo obce ukládá místostarostovi obce zajištění návrhu smlouvy na dodávku 
-služby na údržbu VO na období 2015 - 2018 u firmy ERMO spol. s r. o.,
-4001,4,2015-03-30,"Zahájení, určení zapisovatele, jmenování ověřovatel zápisu, schválení programu",1,"Zastupitelstvo obce schvaluje program zasedání ZO, za ověřovatele zápisu určuje Kamila
-Králika a Pavla Vejmana, zapisovatelem Michala Konečného.",
-4002,4,2015-03-30,Obnova vodní nádrže před čp. 53 v obci Výrava,2,"Zastupitelstvo obce schvaluje uzavřít Smlouvu o smlouvě budoucí o zřízení věcného 
-břemene k objektům vodní nádrže umístěných na pozemku p. č. 2136/1 mezi Povodím 
-Labe, s. p. a Obcí Výrava.",
-4003,4,2015-03-30,Obnova vodní nádrže před čp. 53 v obci Výrava,2,Zastupitelstvo obce schvaluje podání žádosti o dotaci z programu Královéhradeckého kraje
-- Obnova a technické zajištění stávajících „návesních" vodních nádrží - 15ZPD02 na akci 
-„Obnova vodní nádrže před čp. 53 v obci Výrava". 
-ZO pověřuje starostu obce zpracováním a podáním žádosti o dotaci v termínu do 16. 4. 
-2015.,
-4004,4,2015-03-30,Smlouva o právní pomoci,3,"Zastupitelstvo obce schvaluje uzavření smlouvy o právní pomoci s JUDr. Květoslavou
-Melzerovou, advokátkou v Hradci Králové, Hořická 974, 500 02 v rozsahu do 5ti hodin 
-měsíčně, dle potřeb obce.",
-4005,4,2015-03-30,Smlouva o poskytnutí dotace na nákup knih do výměnných fondů,4,"Zastupitelstvo obce schvaluje uzavření smlouvy o poskytnutí individuální dotace na nákup
-knih do výměnných fondů mezi knihovnou města Hradec Králové a obcí Výrava na rok 
-2015. ZO schvaluje výši dotace na rok 2015 ve výši 5 500,- Kč.",
-4006,4,2015-03-30,Smlouva na údržbu veřejného osvětlení na území obce,5,"Zastupitelstvo obce schvaluje uzavření smlouvy na údržbu veřejného osvětlení na území
-obce na období 2015 - 2018 s firmou ERMO spol. s r. o., Hradec Králové, IČ: 15062201",
-4007,4,2015-03-30,Vyhláška o odpadech,6,Zastupitelstvo bere na vědomí návrh vyhlášky o odpadech a ukládá místostarostovi obce
-dopracování vyhlášky dle připomínek členů ZO v termínu do příštího zasedání ZO.,
-4008,4,2015-03-30,Žádost Mysliveckého sdružení Králova Lhota o poskytnutí finančního daru.,7,"Zastupitelstvo obce schvaluje poskytnutí finančního daru Mysliveckému sdružení Králova 
-Lhota ve výši 3 000,-Kč",
+3011,3,2015-03-11,Úklid a zajištění zpevněné plochy „Na Bělkách“,10,"Zastupitelstvo obce schvaluje objednání dodávky vodící stěny u firmy MABA Prefa spol. sr.o. v rozsahu předložené nabídky v ceně 106 558,- Kč bez DPH.",
+3012,3,2015-03-11,Sběr bioodpadu na území obce,11,Zastupitelstvo obce schvaluje systém sběru bioodpadu přistavením velkoobjemovéhokontejneru s režimem sběru bioodpadu 2x týdně v období od dubna do října běžného roku. Zastupitelstvo obce ukládá místostarostovi obce zajištění zpracování provozního řádu sběrného místa.,
+3013,3,2015-03-11,Sběr bioodpadu na území obce,11,Zastupitelstvo obce schvaluje uzavření smlouvy na zajištění sběru a svozu bioodpaduvčetně likvidace u společnosti Vospol spol. s. r. o.,
+3014,3,2015-03-11,Poptávka na údržbu veřejného osvětlení na území obce,12,Zastupitelstvo obce schvaluje záměr zajištění údržby VO na období 2015 – 2018 u firmyERMO spol. s r. o. Zastupitelstvo obce ukládá místostarostovi obce zajištění návrhu smlouvy na dodávku služby na údržbu VO na období 2015 - 2018 u firmy ERMO spol. s r. o.,
+4001,4,2015-03-30,"Zahájení, určení zapisovatele, jmenování ověřovatel zápisu, schválení programu",1,"Zastupitelstvo obce schvaluje program zasedání ZO, za ověřovatele zápisu určuje KamilaKrálika a Pavla Vejmana, zapisovatelem Michala Konečného.",
+4002,4,2015-03-30,Obnova vodní nádrže před čp. 53 v obci Výrava,2,"Zastupitelstvo obce schvaluje uzavřít Smlouvu o smlouvě budoucí o zřízení věcného břemene k objektům vodní nádrže umístěných na pozemku p. č. 2136/1 mezi Povodím Labe, s. p. a Obcí Výrava.",
+4003,4,2015-03-30,Obnova vodní nádrže před čp. 53 v obci Výrava,2,Zastupitelstvo obce schvaluje podání žádosti o dotaci z programu Královéhradeckého kraje- Obnova a technické zajištění stávajících „návesních' vodních nádrží - 15ZPD02 na akci „Obnova vodní nádrže před čp. 53 v obci Výrava'. ZO pověřuje starostu obce zpracováním a podáním žádosti o dotaci v termínu do 16. 4. 2015.,
+4004,4,2015-03-30,Smlouva o právní pomoci,3,"Zastupitelstvo obce schvaluje uzavření smlouvy o právní pomoci s JUDr. KvětoslavouMelzerovou, advokátkou v Hradci Králové, Hořická 974, 500 02 v rozsahu do 5ti hodin měsíčně, dle potřeb obce.",
+4005,4,2015-03-30,Smlouva o poskytnutí dotace na nákup knih do výměnných fondů,4,"Zastupitelstvo obce schvaluje uzavření smlouvy o poskytnutí individuální dotace na nákupknih do výměnných fondů mezi knihovnou města Hradec Králové a obcí Výrava na rok 2015. ZO schvaluje výši dotace na rok 2015 ve výši 5 500,- Kč.",
+4006,4,2015-03-30,Smlouva na údržbu veřejného osvětlení na území obce,5,"Zastupitelstvo obce schvaluje uzavření smlouvy na údržbu veřejného osvětlení na územíobce na období 2015 - 2018 s firmou ERMO spol. s r. o., Hradec Králové, IČ: 15062201",
+4007,4,2015-03-30,Vyhláška o odpadech,6,Zastupitelstvo bere na vědomí návrh vyhlášky o odpadech a ukládá místostarostovi obcedopracování vyhlášky dle připomínek členů ZO v termínu do příštího zasedání ZO.,
+4008,4,2015-03-30,Žádost Mysliveckého sdružení Králova Lhota o poskytnutí finančního daru.,7,"Zastupitelstvo obce schvaluje poskytnutí finančního daru Mysliveckému sdružení Králova Lhota ve výši 3 000,-Kč",
 4009,4,2015-03-30,Hospodaření obce,8,Zastupitelstvo obce schvaluje rozpočtové opatření,
-5001,5,2015-04-27,"Zahájení, určení zapisovatele, jmenování ověřovatel zápisu, schválení programu",1,"Zastupitelstvo obce schvaluje program zasedáníZO, za ověřovatele zápisu určuje Jaroslava
-Hejcmana a Vladimíra Panenku, zapisovatelem Michala Konečného.",
-5002,5,2015-04-27,Hospodaření obce,3,Zastupitelstvo obce schvaluje závěrečný účet obce za rok 2014 s vyslovením souhlasu 
-s celoročním hospodařením bez výhrad.,
+5001,5,2015-04-27,"Zahájení, určení zapisovatele, jmenování ověřovatel zápisu, schválení programu",1,"Zastupitelstvo obce schvaluje program zasedáníZO, za ověřovatele zápisu určuje JaroslavaHejcmana a Vladimíra Panenku, zapisovatelem Michala Konečného.",
+5002,5,2015-04-27,Hospodaření obce,3,Zastupitelstvo obce schvaluje závěrečný účet obce za rok 2014 s vyslovením souhlasu s celoročním hospodařením bez výhrad.,
 5003,5,2015-04-27,Hospodaření obce,3,Zastupitelstvo obce schvaluje účetní závěrku obce za rok 2014.,
-5004,5,2015-04-27,Poskytnutí dotace z POV KHK na akci „Rekonstrukce místních komunikací v obci Výrava",4,"Zastupitelstvo obce schvaluje přijetí investiční dotace z POV KHK ve výši 500 000,- Kč na
-akci „Rekonstrukce místních komunikací v Obci Výrava". 
-Zastupitelstvo obce schvaluje uzavření smlouvy o poskytnutí investiční dotace na akci 
-„Rekonstrukce místních komunikací v Obci Výrava" z POV KHK ve výši 500 000,- Kč.",
-5005,5,2015-04-27,Žádost o poskytnutí dotace z rozpočtu KHK v rámci programu „Čistá obec",5,Zastupitelstvo obce schvaluje podání žádosti o poskytnutí dotace z rozpočtu KHK na nákup
-2 ks velkoobjemového kontejneru z programu „Zajištění plnění povinností obcí v oblasti 
-odpadového hospodářství dle novely zákona o odpadech".,
+5004,5,2015-04-27,Poskytnutí dotace z POV KHK na akci „Rekonstrukce místních komunikací v obci Výrava',4,"Zastupitelstvo obce schvaluje přijetí investiční dotace z POV KHK ve výši 500 000,- Kč naakci „Rekonstrukce místních komunikací v Obci Výrava'. Zastupitelstvo obce schvaluje uzavření smlouvy o poskytnutí investiční dotace na akci „Rekonstrukce místních komunikací v Obci Výrava' z POV KHK ve výši 500 000,- Kč.",
+5005,5,2015-04-27,Žádost o poskytnutí dotace z rozpočtu KHK v rámci programu „Čistá obec',5,Zastupitelstvo obce schvaluje podání žádosti o poskytnutí dotace z rozpočtu KHK na nákup2 ks velkoobjemového kontejneru z programu „Zajištění plnění povinností obcí v oblasti odpadového hospodářství dle novely zákona o odpadech'.,
 5006,5,2015-04-27,Směrnice k zadávání veřejných zakázek obce,6,Zastupitelstvo obce schvaluje Směrnici č. 1/2015 k zadávání veřejných zakázek obce Výrava,
-5007,5,2015-04-27,Vyhláška o odpadech,7,"Zastupitelstvo obce schvaluje obecně závaznou vyhlášku obce Výrava č. 1/2015 o stanovení
-systému shromažďování, sběru, přepravy, třídění, využívání a odstraňování komunálních 
-odpadů a nakládání se stavebním odpadem na území obce Výrava",
-5008,5,2015-04-27,Nákup techniky - údržba obce,8,"Zastupitelstvo obce schvaluje nákup vybrané techniky na údržbu obce, a to 1 ks 
-křovinořezu a 1 ks motorové sekačky u firmy AGRICO, s.r.o., Voklik 976, 517 21 Týniště nad 
-Orlicí v ceně 22 990,- Kč.",
-5009,5,2015-04-27,Zadání veřejných zakázek malého rozsahu,9,Zastupitelstvo obce schvaluje zadání veřejných zakázek malého rozsahu na stavební práce
-na investiční akce „Rekonstrukce místních komunikací v obci Výrava" a „Stavba VIII. etapa 
-výstavby chodníků v obci Výrava podél silnice 11/299" 
-Ukládá starostovi obce zajistit výběr dodavatele na uvedené akce.,
+5007,5,2015-04-27,Vyhláška o odpadech,7,"Zastupitelstvo obce schvaluje obecně závaznou vyhlášku obce Výrava č. 1/2015 o stanovenísystému shromažďování, sběru, přepravy, třídění, využívání a odstraňování komunálních odpadů a nakládání se stavebním odpadem na území obce Výrava",
+5008,5,2015-04-27,Nákup techniky - údržba obce,8,"Zastupitelstvo obce schvaluje nákup vybrané techniky na údržbu obce, a to 1 ks křovinořezu a 1 ks motorové sekačky u firmy AGRICO, s.r.o., Voklik 976, 517 21 Týniště nad Orlicí v ceně 22 990,- Kč.",
+5009,5,2015-04-27,Zadání veřejných zakázek malého rozsahu,9,Zastupitelstvo obce schvaluje zadání veřejných zakázek malého rozsahu na stavební prácena investiční akce „Rekonstrukce místních komunikací v obci Výrava' a „Stavba VIII. etapa výstavby chodníků v obci Výrava podél silnice 11/299' Ukládá starostovi obce zajistit výběr dodavatele na uvedené akce.,

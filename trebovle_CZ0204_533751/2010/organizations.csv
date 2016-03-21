@@ -1,0 +1,8 @@
+﻿id,classification_id,classification,name,
+kscm_party,party,Navrhující strana,Komunistická strana Čech a Moravy,
+ods_party,party,Navrhující strana,Občanská demokratická strana,
+bezpp_affiliation,affiliation,Stranická příslušnost,Bez politické příslušnosti,
+ods_affiliation,affiliation,Stranická příslušnost,Občanská demokratická strana,
+kscm_affiliation,affiliation,Stranická příslušnost,Komunistická strana Čech a Moravy,
+47_list,list,Kandidátní listina,Komunistická strana Čech a Moravy,
+53_list,list,Kandidátní listina,Občanská demokratická strana,

@@ -1,370 +1,148 @@
 ﻿id,legislative_session:number,start_date,item:title,item:number,motion:title,
-1001,1,2010-11-12,Schválení programu,1,"Zastupitelstvo obce Rochlov schvaluje následující program ustavujícího zasedání:
-1) Složení slibu členů zastupitelstva
-2) Určení ověřovatelů zápisu (§ 95 odst. 1, zákona o obcích) a zapisovatele
-1
-3) Volba starosty a místostarosty
-a) určení způsobu volby starosty a místostarosty
-b) volba starosty
-c) volba místostarosty
-4) Zřízení výborů (finanční výbor, kontrolní výbor a výbor pořádku a ekologie)
-a) určení počtu členů jednotlivých výborů
-b) volba předsedy finančního výboru
-c) volba předsedy kontrolního výboru
-d) volba předsedy výboru pořádku a ekologie
-e) volba členů finančního výboru
-f) volba členů kontrolního výboru
-g) volba členů výboru pořádku a ekologie
-5) Rozhodnutí o odměnách za výkon funkcí neuvolněných členů zastupitelstva
-(§72 zákona o obcích)
-6) Diskuse",
-1002,1,2010-11-12,Určení ověřovatelů a zapisovatele,2,Zastupitelstvo obce Rochlov určuje ověřovateli zápisu p. Ing.Luďka Formánka a p.
-Zdeňka Cesánka a zapisovatelem slečnu Elišku Rothmaierovou,
+1001,1,2010-11-12,Schválení programu,1,"Zastupitelstvo obce Rochlov schvaluje následující program ustavujícího zasedání:1) Složení slibu členů zastupitelstva2) Určení ověřovatelů zápisu (§ 95 odst. 1, zákona o obcích) a zapisovatele13) Volba starosty a místostarostya) určení způsobu volby starosty a místostarostyb) volba starostyc) volba místostarosty4) Zřízení výborů (finanční výbor, kontrolní výbor a výbor pořádku a ekologie)a) určení počtu členů jednotlivých výborůb) volba předsedy finančního výboruc) volba předsedy kontrolního výborud) volba předsedy výboru pořádku a ekologiee) volba členů finančního výboruf) volba členů kontrolního výborug) volba členů výboru pořádku a ekologie5) Rozhodnutí o odměnách za výkon funkcí neuvolněných členů zastupitelstva(§72 zákona o obcích)6) Diskuse",
+1002,1,2010-11-12,Určení ověřovatelů a zapisovatele,2,Zastupitelstvo obce Rochlov určuje ověřovateli zápisu p. Ing.Luďka Formánka a p.Zdeňka Cesánka a zapisovatelem slečnu Elišku Rothmaierovou,
 1003,1,2010-11-12,Volba starosty a místostarosty,3,Zastupitelstvo obce Rochlov volí starostou p. Jiřího Pateru,
 1004,1,2010-11-12,Volba starosty a místostarosty,3,Zastupitelstvo obce Rochlov volí místostarostou p. Václava Hrácha,
-1005,1,2010-11-12,"Zřízení finančního, kontrolního výboru a výboru pořádku a ekologie:",4,"Zastupitelstvo obce Rochlov zřizuje finanční výbor, kontrolní výbor a výbor pořádku
-a ekologie. Všechny výbory budou tříčlenné",
-1006,1,2010-11-12,"Zřízení finančního, kontrolního výboru a výboru pořádku a ekologie:",4,Zastupitelstvo obce Rochlov volí předsedou finančního výboru p. Ing. Luďka
-Formánka.,
-1007,1,2010-11-12,"Zřízení finančního, kontrolního výboru a výboru pořádku a ekologie:",4,Zastupitelstvo obce Rochlov vo/i předsedou kontrolního výboru slečnu Elišku
-Rothmaierovou.,
-1008,1,2010-11-12,"Zřízení finančního, kontrolního výboru a výboru pořádku a ekologie:",4,Zastupitelstvo obce Rochlov volí předsedou výboru pořádku a ekologie p. Zdeňka
-Cesánka.,
-1009,1,2010-11-12,Rozhodnutí o odměnách za výkon funkcí neuvolněných členů zastupitelstva,5,"Zastupitelstvo obce Rochlov v souladu s § 72 a § 84 odst. 2 písni, n) zákona o obcích
-stanoví odměnu za výkon funkce starosty jako neuvolněného člena zastupitelstva
-obce ve výši 8.000,-Jřč měsíčně, za výkon funkce místostarosty jako neuvolněného
-člena zastupitelstva obce ve výši 6.500,-Kč měsíčně, předsedy výboru zastupitelstva
-ve výši 900,-Kč měsíčně a člena výboru ve výši 600,-K měsíčně. Odměna bude
-poskytována ode dne zvolení do funkce.",
-1010,1,2010-11-12,Rozhodnutí o odměnách za výkon funkcí neuvolněných členů zastupitelstva,5,Zastupitelstvo obce Rochlov schvaluje snížení odměny za výkon funkcí
-neuvolněných členů zastupitelstva obce Rochlov pro rok 2011 o 10,
-2001,2,2010-12-16,ZO schválilo,1,Zastupitelstvo obce Rochlov určuje ověřovateli zápisu p. Václava Hrácha a p.
-Zdeňka Česánka a zapisovatelem slečnu Elišku Rothmaierovou.,
+1005,1,2010-11-12,"Zřízení finančního, kontrolního výboru a výboru pořádku a ekologie:",4,"Zastupitelstvo obce Rochlov zřizuje finanční výbor, kontrolní výbor a výbor pořádkua ekologie. Všechny výbory budou tříčlenné",
+1006,1,2010-11-12,"Zřízení finančního, kontrolního výboru a výboru pořádku a ekologie:",4,Zastupitelstvo obce Rochlov volí předsedou finančního výboru p. Ing. LuďkaFormánka.,
+1007,1,2010-11-12,"Zřízení finančního, kontrolního výboru a výboru pořádku a ekologie:",4,Zastupitelstvo obce Rochlov vo/i předsedou kontrolního výboru slečnu EliškuRothmaierovou.,
+1008,1,2010-11-12,"Zřízení finančního, kontrolního výboru a výboru pořádku a ekologie:",4,Zastupitelstvo obce Rochlov volí předsedou výboru pořádku a ekologie p. ZdeňkaCesánka.,
+1009,1,2010-11-12,Rozhodnutí o odměnách za výkon funkcí neuvolněných členů zastupitelstva,5,"Zastupitelstvo obce Rochlov v souladu s § 72 a § 84 odst. 2 písni, n) zákona o obcíchstanoví odměnu za výkon funkce starosty jako neuvolněného člena zastupitelstvaobce ve výši 8.000,-Jřč měsíčně, za výkon funkce místostarosty jako neuvolněnéhočlena zastupitelstva obce ve výši 6.500,-Kč měsíčně, předsedy výboru zastupitelstvave výši 900,-Kč měsíčně a člena výboru ve výši 600,-K měsíčně. Odměna budeposkytována ode dne zvolení do funkce.",
+1010,1,2010-11-12,Rozhodnutí o odměnách za výkon funkcí neuvolněných členů zastupitelstva,5,Zastupitelstvo obce Rochlov schvaluje snížení odměny za výkon funkcíneuvolněných členů zastupitelstva obce Rochlov pro rok 2011 o 10,
+2001,2,2010-12-16,ZO schválilo,1,Zastupitelstvo obce Rochlov určuje ověřovateli zápisu p. Václava Hrácha a p.Zdeňka Česánka a zapisovatelem slečnu Elišku Rothmaierovou.,
 2002,2,2010-12-16,ZO schválilo,2,Zastupitelstvo obce Rochlov ruší bod programu zpráva o činnosti výborů,
 2003,2,2010-12-16,ZO schválilo,3,Zastupitelstvo obce Rochlov schvaluje program ustavujícího zasedání,
-2004,2,2010-12-16,ZO schválilo,4,Zastupitelstvo obce Rochlov volí členy finančního výboru pana Josefa Moulise a
-pana Iva Modrého.,
-2005,2,2010-12-16,ZO schválilo,5,Zastupitelstvo obce Rochlov volí členy kontrolního výboru p. Miloslava Zavadila a
-slečnu Petru Síbalovou.,
-2006,2,2010-12-16,ZO schválilo,6,Zastupitelstvo obce Rochlov volí členy výboru pořádku a ekologie p. Miroslava
-Kotzauera a p. Františka Šindeláře.,
+2004,2,2010-12-16,ZO schválilo,4,Zastupitelstvo obce Rochlov volí členy finančního výboru pana Josefa Moulise apana Iva Modrého.,
+2005,2,2010-12-16,ZO schválilo,5,Zastupitelstvo obce Rochlov volí členy kontrolního výboru p. Miloslava Zavadila aslečnu Petru Síbalovou.,
+2006,2,2010-12-16,ZO schválilo,6,Zastupitelstvo obce Rochlov volí členy výboru pořádku a ekologie p. MiroslavaKotzauera a p. Františka Šindeláře.,
 2007,2,2010-12-16,ZO schválilo,7,Zastupitelstvo obce Rochlov schvaluje rozpočtové opatření č. 4 {příloha č.2).,
-2008,2,2010-12-16,ZO schválilo,8,Zastupitelstvo obce Rochlov pověřuje starostu obce Jiřího Pateru úpravou rozpočtu
-za rok 2010 dle skutečnosti do 31.12.2010.,
-2009,2,2010-12-16,ZO schválilo,9,Zastupitelstvo obce Rochlov schvaluje pravidla rozpočtového provizoria (dle přílohy
-č.3) na rok 201 Ido doby schválení rozpočtu na rok 2011.,
+2008,2,2010-12-16,ZO schválilo,8,Zastupitelstvo obce Rochlov pověřuje starostu obce Jiřího Pateru úpravou rozpočtuza rok 2010 dle skutečnosti do 31.12.2010.,
+2009,2,2010-12-16,ZO schválilo,9,Zastupitelstvo obce Rochlov schvaluje pravidla rozpočtového provizoria (dle přílohyč.3) na rok 201 Ido doby schválení rozpočtu na rok 2011.,
 2010,2,2010-12-16,ZO schválilo,10,Zastupitelstvo obce Rochlov schvaluje Jednací řád dle přílohy č.4.,
-2011,2,2010-12-16,ZO schválilo,11,Zastupitelstvo obce Rochlov schvaluje smlouvu o výkonu přenesené působnosti na
-úseku přestupků (příloha č.5).,
-2012,2,2010-12-16,ZO schválilo,12,"Zastupitelstvo obce Rochlov pověřuje místostarostu obce p. Václava Hrácha k
-vyřizování záležitostí týkající se pronájmu nemovitostí, prodeje nemovitostí, koupě
-nemovitostí, darování nemovitostí a příjímání darů jakož i uzavírání smluv a
-podávání vkladu nemovitostí u Katastrálního úřadu a podobně",
-2013,2,2010-12-16,ZO schválilo,13,"Zastupitelstvo obce Rochlov zrušuje usnesení č.30/9 ze dne 4.6.2009 — telefonní
-bonus v hodnotě 500,-Kčpro místostarostu.",
-2014,2,2010-12-16,ZO schválilo,14,Zastupitelstvo obce Rochlov vydává obecně závaznou vyhlášku obce Rochlov
-č. 2/2010 o místním poplatku ze psů (příloha č. 6).,
-2015,2,2010-12-16,ZO schválilo,15,"Zastupitelstvo obce Rochlov vydává obecně závaznou vyhlášku obce Rochlov
-č. 3/2010 o místním poplatku za provoz systému shromažďování, sběru, přepravy,
-třídění, využívání a odstraňování komunálních odpadů (příloha č. 7) včetně směrnic
-systému svozu komunálních odpadů obce Rochlov č.1/10 (příloha č.8).",
-2016,2,2010-12-16,ZO schválilo,16,"Zastupitelstvo obce Roch/ov volí inventarizační komisi ve složení p. Luděk
-Formánek — předseda, slečna Eliška Rothmaierová — člen, p. Václav Hrách — člen.",
-3001,3,2011-01-26,ZO schválilo,1,Zastupitelstvo obce Rochlov určuje ověřovatele zápisu p. Luděk Formánka a p.
-Zdeňka Česánka a zapisovatelem slečnu Elišku Rothmaierovou,
+2011,2,2010-12-16,ZO schválilo,11,Zastupitelstvo obce Rochlov schvaluje smlouvu o výkonu přenesené působnosti naúseku přestupků (příloha č.5).,
+2012,2,2010-12-16,ZO schválilo,12,"Zastupitelstvo obce Rochlov pověřuje místostarostu obce p. Václava Hrácha kvyřizování záležitostí týkající se pronájmu nemovitostí, prodeje nemovitostí, koupěnemovitostí, darování nemovitostí a příjímání darů jakož i uzavírání smluv apodávání vkladu nemovitostí u Katastrálního úřadu a podobně",
+2013,2,2010-12-16,ZO schválilo,13,"Zastupitelstvo obce Rochlov zrušuje usnesení č.30/9 ze dne 4.6.2009 — telefonníbonus v hodnotě 500,-Kčpro místostarostu.",
+2014,2,2010-12-16,ZO schválilo,14,Zastupitelstvo obce Rochlov vydává obecně závaznou vyhlášku obce Rochlovč. 2/2010 o místním poplatku ze psů (příloha č. 6).,
+2015,2,2010-12-16,ZO schválilo,15,"Zastupitelstvo obce Rochlov vydává obecně závaznou vyhlášku obce Rochlovč. 3/2010 o místním poplatku za provoz systému shromažďování, sběru, přepravy,třídění, využívání a odstraňování komunálních odpadů (příloha č. 7) včetně směrnicsystému svozu komunálních odpadů obce Rochlov č.1/10 (příloha č.8).",
+2016,2,2010-12-16,ZO schválilo,16,"Zastupitelstvo obce Roch/ov volí inventarizační komisi ve složení p. LuděkFormánek — předseda, slečna Eliška Rothmaierová — člen, p. Václav Hrách — člen.",
+3001,3,2011-01-26,ZO schválilo,1,Zastupitelstvo obce Rochlov určuje ověřovatele zápisu p. Luděk Formánka a p.Zdeňka Česánka a zapisovatelem slečnu Elišku Rothmaierovou,
 3002,3,2011-01-26,ZO schválilo,2,Zastupitelstvo obce Rochlov schvaluje program ustavujícího zasedání,
-3003,3,2011-01-26,ZO schválilo,3,"Zastupitelstvo obce Rochlov upravuje položky návrhu rozpočtu na rok 2011a to:
-ůotace na školství 52.000, -Kč
-dotace na výkon státní správy 60.100,-Jřč
-Dále ruší tyto položky:
-dotace od ÚP na VPP 150.000,-Jřč
-dotace na les 10.000, -Kč
-dotace na úhradu rekonstrukce OÚ 100.000,-Jřč",
-3004,3,2011-01-26,ZO schválilo,4,Zastupitelstvo obce Rochlov schvaluje rozpočet obce Rochlov na rok 2011 dle
-návrhu rozpočtu (příloha č.2) a výše uvedených změn.,
-3005,3,2011-01-26,ZO schválilo,7,"Zastupitelstvo obce Rochlov schvaluje smlouvu o výpůjčce mezi obcí Rochlov a MŠ
-Rochlov,příspěvková organizace Plzeň-sever (přílohy č.4",
-3006,3,2011-01-26,ZO schválilo,8,"Zastupitelstvo obce Rochlov schvaluje platový výměr pro ředitelku MŠ
-Rochlov,příspěvková organizace Plzeň-sever (přílohy č. 5)",
-3007,3,2011-01-26,ZO schválilo,9,"Zastupitelstvo obce Rochlov schvaluje úhradu neinvestičních výdajů ve výši
-148.118,42 Kč.",
+3003,3,2011-01-26,ZO schválilo,3,"Zastupitelstvo obce Rochlov upravuje položky návrhu rozpočtu na rok 2011a to:ůotace na školství 52.000, -Kčdotace na výkon státní správy 60.100,-JřčDále ruší tyto položky:dotace od ÚP na VPP 150.000,-Jřčdotace na les 10.000, -Kčdotace na úhradu rekonstrukce OÚ 100.000,-Jřč",
+3004,3,2011-01-26,ZO schválilo,4,Zastupitelstvo obce Rochlov schvaluje rozpočet obce Rochlov na rok 2011 dlenávrhu rozpočtu (příloha č.2) a výše uvedených změn.,
+3005,3,2011-01-26,ZO schválilo,7,"Zastupitelstvo obce Rochlov schvaluje smlouvu o výpůjčce mezi obcí Rochlov a MŠRochlov,příspěvková organizace Plzeň-sever (přílohy č.4",
+3006,3,2011-01-26,ZO schválilo,8,"Zastupitelstvo obce Rochlov schvaluje platový výměr pro ředitelku MŠRochlov,příspěvková organizace Plzeň-sever (přílohy č. 5)",
+3007,3,2011-01-26,ZO schválilo,9,"Zastupitelstvo obce Rochlov schvaluje úhradu neinvestičních výdajů ve výši148.118,42 Kč.",
 3008,3,2011-01-26,ZO schválilo,11,Zastupitelstvo obce Rochlov zrušuje usnesení č.22/10 ze dne 16.12.2010,
-3009,3,2011-01-26,ZO schválilo,12,Zastupitelstvo obce Rochlov schvaluje smlouvu o výkonu přenesené působnosti na
-úseku přestupků (příloha č. 6).,
-3010,3,2011-01-26,ZO schválilo,13,Zastupitelstvo obce Rochlov neschvaluje umístění kioskové trafostanice na pozemku
-č. 735/1 v k.ú. Rochlov.,
-4001,4,2011-04-06,ZO schválilo,1,Zastupitelstvo obce Rochlov schvaluje pronájem nebytových prostory v části přízemí
-budovy OÚ Rochlov č.p.31 a pověřuje starostu uzavřením nájemní smlouvy
-v souladu se zveřejněným záměrem,
+3009,3,2011-01-26,ZO schválilo,12,Zastupitelstvo obce Rochlov schvaluje smlouvu o výkonu přenesené působnosti naúseku přestupků (příloha č. 6).,
+3010,3,2011-01-26,ZO schválilo,13,Zastupitelstvo obce Rochlov neschvaluje umístění kioskové trafostanice na pozemkuč. 735/1 v k.ú. Rochlov.,
+4001,4,2011-04-06,ZO schválilo,1,Zastupitelstvo obce Rochlov schvaluje pronájem nebytových prostory v části přízemíbudovy OÚ Rochlov č.p.31 a pověřuje starostu uzavřením nájemní smlouvyv souladu se zveřejněným záměrem,
 4002,4,2011-04-06,ZO schválilo,2,"Zastupitelstvo obce Rochlov schvaluje pravidla prodeje dřeva, (příloha",
-4003,4,2011-04-06,ZO neschválilo,2,"Zastupitelstvo obce Rochlov nesouhlasí s umístěním stavby na parcele 399/2, která
-je v rozporu s územním plánem obce Rochlov.",
-5001,5,2011-04-19,ZO schválilo,1,Zastupitelstvo obce Rochlov určuje ověřovatele zápisu p. Václava Hrácha a p.
-Luďka Formánka a zapisovatelem slečnu Elišku Rothmaierovou.,
+4003,4,2011-04-06,ZO neschválilo,2,"Zastupitelstvo obce Rochlov nesouhlasí s umístěním stavby na parcele 399/2, kteráje v rozporu s územním plánem obce Rochlov.",
+5001,5,2011-04-19,ZO schválilo,1,Zastupitelstvo obce Rochlov určuje ověřovatele zápisu p. Václava Hrácha a p.Luďka Formánka a zapisovatelem slečnu Elišku Rothmaierovou.,
 5002,5,2011-04-19,ZO schválilo,2,Zastupitelstvo obce Rochlov schvaluje následující program ustavujícího zasedání,
-5003,5,2011-04-19,ZO schválilo,3,"Zastupitelstvo obce Rochlov souhlasí s dotováním změny jízdního řádu ve výši 50%
-Ztráty tj. 31 843,-Jřč",
+5003,5,2011-04-19,ZO schválilo,3,"Zastupitelstvo obce Rochlov souhlasí s dotováním změny jízdního řádu ve výši 50%Ztráty tj. 31 843,-Jřč",
 5004,5,2011-04-19,ZO schválilo,4,Zastupitelstvo obce Rochlov schvaluje záměr odprodat pozemeky č. 1/,
-5005,5,2011-04-19,ZO schválilo,5,Zastupitelstvo obce Rochlov schvaluje záměr pronajmout pozemek č. pk 679/12 za
-účelem pastvy pro koně,
-5006,5,2011-04-19,ZO neschválilo,6,"Zastupitelstvo obce Rochlov schvaluje záměr odprodeje pozemků č. 692/1, 692/2,
-679/12.",
-5007,5,2011-04-19,ZO neschválilo,7,Zastupitelstvo obce Rochlov schvaluje záměr pronajmout lesní pozemek č. pk 63 za
-účelem pastvy pro koně.,
+5005,5,2011-04-19,ZO schválilo,5,Zastupitelstvo obce Rochlov schvaluje záměr pronajmout pozemek č. pk 679/12 zaúčelem pastvy pro koně,
+5006,5,2011-04-19,ZO neschválilo,6,"Zastupitelstvo obce Rochlov schvaluje záměr odprodeje pozemků č. 692/1, 692/2,679/12.",
+5007,5,2011-04-19,ZO neschválilo,7,Zastupitelstvo obce Rochlov schvaluje záměr pronajmout lesní pozemek č. pk 63 zaúčelem pastvy pro koně.,
 6001,6,2011-06-02,ZO schválilo,1,Zastupitelstvo obce Rochlov schvaluje závěrečný účet obce Rochlov za rok,
 6002,6,2011-06-02,ZO schválilo,2,Zastupitelstvo obce Rochlov schvaluje rozpočtové opatření č.2.,
-6003,6,2011-06-02,ZO schválilo,3,Zastupitelstvo obce Rochlov schvaluje bezplatné převzetí osvětlení na pozemku p.č.
-399/3 v k.ú. Rochlov do své správy a dále jej bude provozovat za předpokladu
-osazení úsporných svítidel s LED technologií.,
-6004,6,2011-06-02,ZO schválilo,4,Zastupitelstvo obce Rochlov provede místní šetření ohledně žádosti o rozšíření
-zahrady na pozemku 645/4.,
-6005,6,2011-06-02,ZO schválilo,5,Zastupitelstvo obce Rochlov - schvaluje záměr pronajmout část pozemek p.č. 743/1
-o výměře cca 45m2.,
-6006,6,2011-06-02,ZO schválilo,6,Zastupitelstvo obce Rochlov schvaluje žádost pana Říkánka o prodeji pozemků p.č.
-1/3 a 1/4 v kú Rochlov za cenu 35 Kč/m,
-6007,6,2011-06-02,ZO schválilo,7,"Zastupitelstvo obce Rochlov schvaluje žádost pana Berchánka Petra o pronájmu
-pozemku č. 679/12 v k.ú. Rochlov za cenu 3, -Kč/m a pověřuje starostu vypracováním
-nájemní smlouvy",
-6008,6,2011-06-02,ZO schválilo,8,Zastupitelstvo obce Rochlov vydává územní plán Rochlov formou opatření obecné
-povahy.,
-6009,6,2011-06-02,ZO schválilo,9,Zastupitelstvo obce Rochlov schvaluje zřízení věcného břemena dle smlouvy číslo
-IV-12-0005832/1.,
-7001,7,2011-08-18,ZO schválilo,1,"Zastupitelstvo obce Rochlov schvaluje navýšení počtu dětí v MS Rochlov, okres
-Plzeň-sever, příspěvková organizace od 1.9.2011 na 60. dětí.",
-7002,7,2011-08-18,ZO schválilo,2,"Zastupitelstvo obce Rochlov schvaluje pořízení projektové dokumentace pro úpravu
-rozvodu veřejného osvětlení v úsecích, kde bude provedena náhrada venkovního
-vedení 0,4 kV y majetku CEZ Distribuce za zemní kabelové vedení. Rozvod VO bude
-proveden podzemním vedením",
-7003,7,2011-08-18,ZO schválilo,3,Zastupitelstvo obce Rochlov neschvaluje záměr odprodat část pozemku 645/4 v k.ú.
-Rochlov do doby vyřešení uložení kabelového vedení a trafostanice (příloha č.2).,
-7004,7,2011-08-18,ZO schválilo,4,"Zastupitelstvo obce Rochlov schvaluje žádost Václava Říhánka na pořízení změny
-územního plánu u pozemek č. 776 v kú Rochlov na venkovské bydlení (příloha č.3),
-za podmínky úplné úhrady nákladů týkající se této změny.",
-7005,7,2011-08-18,ZO schválilo,5,"Zastupitelstvo obce Rochlov schvaluje pronájem části pozemku 743/1 (příloha č.4)
-Obecně prospěšné společnosti při společnosti PEGISAN s.r.o. a pověřuje p.
-Formánka vypracováním smlouvy, ve které bude zahrnuta možnost pronájmu areálu
-zámku Rochlov a to min. 2xročněpro obec Rochlov.",
-7006,7,2011-08-18,ZO schválilo,6,Zastupitelstvo obce Rochlov schvaluje smlouvu o uzavření budoucí smlouvy o
-zřízení věcného břemena dle smlouvy číslo IV-12-0006914/6. (příloha č.5),
-7007,7,2011-08-18,ZO schválilo,7,Zastupitelstvo obce Rochlov schvaluje smlouvu o uzavření budoucí smlouvy o
-zřízení věcného břemena dle smlouvy číslo iT/-12-0006492/VB 1. (příloha č.6),
-7008,7,2011-08-18,ZO schválilo,8,Zastupitelstvo obce Rochlov schvaluje pořízení nového povodňového plánu obce
-Rochlov.,
-7009,7,2011-08-18,ZO schválilo,9,Zastupitelstvo obce Rochlov schvaluje rozpočtové opatření č. 3 (příloha č. 7).
-Výsledek hlasování:,
-7010,7,2011-08-18,ZO neschválilo,10,Zastupitelstvo obce Rochlov schvaluje koupi pozemku č. 749/1 v k.ú.Rochlov o
-výmere 7735m2za cenu znaleckého posudku od státního statku Jeneč.,
-7011,7,2011-08-18,ZO neschválilo,11,"Zastupitelstvo obce Rochlov schvaluje žádost Václava Říhánka na pořízení změny
-územního plánu u pozemek č. 776 v kú Rochlov na venkovské bydlení (příloha č.3),
-za podmínky částečné 50% úhrady nákladů týkající se této změny.",
-8001,8,2011-11-04,ZO schválilo,1,Zastupitelstvo obce Rochlov schvaluje pořízení změny ÚPD č.l v rozsahu zadání dle
-přílohy č.2 tohoto zápisu.,
-8002,8,2011-11-04,ZO schválilo,2,"Zastupitelstvo obce Rochlov pověřuje starostu obce Jiřího Pateru, zastupováním
-obce při pořizování změny ÚPD č.l.",
-8003,8,2011-11-04,ZO schválilo,3,Zastupitelstvo obce Rochlov schvaluje vyhlášku o místních poplatcích č.1/2011.
-(příloha č.3),
-8004,8,2011-11-04,ZO schválilo,4,Zastupitelstvo obce Rochlov schvaluje záměr odprodat pozemky č. 757/6 a 757/7
-vk.ú.Rochlov o výměře 22m2 a 7m2 za cenu 35Kč/m a ukládá starostovi obce
-zveřejnění tohoto záměru na úředních deskách obce.,
+6003,6,2011-06-02,ZO schválilo,3,Zastupitelstvo obce Rochlov schvaluje bezplatné převzetí osvětlení na pozemku p.č.399/3 v k.ú. Rochlov do své správy a dále jej bude provozovat za předpokladuosazení úsporných svítidel s LED technologií.,
+6004,6,2011-06-02,ZO schválilo,4,Zastupitelstvo obce Rochlov provede místní šetření ohledně žádosti o rozšířenízahrady na pozemku 645/4.,
+6005,6,2011-06-02,ZO schválilo,5,Zastupitelstvo obce Rochlov - schvaluje záměr pronajmout část pozemek p.č. 743/1o výměře cca 45m2.,
+6006,6,2011-06-02,ZO schválilo,6,Zastupitelstvo obce Rochlov schvaluje žádost pana Říkánka o prodeji pozemků p.č.1/3 a 1/4 v kú Rochlov za cenu 35 Kč/m,
+6007,6,2011-06-02,ZO schválilo,7,"Zastupitelstvo obce Rochlov schvaluje žádost pana Berchánka Petra o pronájmupozemku č. 679/12 v k.ú. Rochlov za cenu 3, -Kč/m a pověřuje starostu vypracovánímnájemní smlouvy",
+6008,6,2011-06-02,ZO schválilo,8,Zastupitelstvo obce Rochlov vydává územní plán Rochlov formou opatření obecnépovahy.,
+6009,6,2011-06-02,ZO schválilo,9,Zastupitelstvo obce Rochlov schvaluje zřízení věcného břemena dle smlouvy čísloIV-12-0005832/1.,
+7001,7,2011-08-18,ZO schválilo,1,"Zastupitelstvo obce Rochlov schvaluje navýšení počtu dětí v MS Rochlov, okresPlzeň-sever, příspěvková organizace od 1.9.2011 na 60. dětí.",
+7002,7,2011-08-18,ZO schválilo,2,"Zastupitelstvo obce Rochlov schvaluje pořízení projektové dokumentace pro úpravurozvodu veřejného osvětlení v úsecích, kde bude provedena náhrada venkovníhovedení 0,4 kV y majetku CEZ Distribuce za zemní kabelové vedení. Rozvod VO budeproveden podzemním vedením",
+7003,7,2011-08-18,ZO schválilo,3,Zastupitelstvo obce Rochlov neschvaluje záměr odprodat část pozemku 645/4 v k.ú.Rochlov do doby vyřešení uložení kabelového vedení a trafostanice (příloha č.2).,
+7004,7,2011-08-18,ZO schválilo,4,"Zastupitelstvo obce Rochlov schvaluje žádost Václava Říhánka na pořízení změnyúzemního plánu u pozemek č. 776 v kú Rochlov na venkovské bydlení (příloha č.3),za podmínky úplné úhrady nákladů týkající se této změny.",
+7005,7,2011-08-18,ZO schválilo,5,"Zastupitelstvo obce Rochlov schvaluje pronájem části pozemku 743/1 (příloha č.4)Obecně prospěšné společnosti při společnosti PEGISAN s.r.o. a pověřuje p.Formánka vypracováním smlouvy, ve které bude zahrnuta možnost pronájmu areáluzámku Rochlov a to min. 2xročněpro obec Rochlov.",
+7006,7,2011-08-18,ZO schválilo,6,Zastupitelstvo obce Rochlov schvaluje smlouvu o uzavření budoucí smlouvy ozřízení věcného břemena dle smlouvy číslo IV-12-0006914/6. (příloha č.5),
+7007,7,2011-08-18,ZO schválilo,7,Zastupitelstvo obce Rochlov schvaluje smlouvu o uzavření budoucí smlouvy ozřízení věcného břemena dle smlouvy číslo iT/-12-0006492/VB 1. (příloha č.6),
+7008,7,2011-08-18,ZO schválilo,8,Zastupitelstvo obce Rochlov schvaluje pořízení nového povodňového plánu obceRochlov.,
+7009,7,2011-08-18,ZO schválilo,9,Zastupitelstvo obce Rochlov schvaluje rozpočtové opatření č. 3 (příloha č. 7).Výsledek hlasování:,
+7010,7,2011-08-18,ZO neschválilo,10,Zastupitelstvo obce Rochlov schvaluje koupi pozemku č. 749/1 v k.ú.Rochlov ovýmere 7735m2za cenu znaleckého posudku od státního statku Jeneč.,
+7011,7,2011-08-18,ZO neschválilo,11,"Zastupitelstvo obce Rochlov schvaluje žádost Václava Říhánka na pořízení změnyúzemního plánu u pozemek č. 776 v kú Rochlov na venkovské bydlení (příloha č.3),za podmínky částečné 50% úhrady nákladů týkající se této změny.",
+8001,8,2011-11-04,ZO schválilo,1,Zastupitelstvo obce Rochlov schvaluje pořízení změny ÚPD č.l v rozsahu zadání dlepřílohy č.2 tohoto zápisu.,
+8002,8,2011-11-04,ZO schválilo,2,"Zastupitelstvo obce Rochlov pověřuje starostu obce Jiřího Pateru, zastupovánímobce při pořizování změny ÚPD č.l.",
+8003,8,2011-11-04,ZO schválilo,3,Zastupitelstvo obce Rochlov schvaluje vyhlášku o místních poplatcích č.1/2011.(příloha č.3),
+8004,8,2011-11-04,ZO schválilo,4,Zastupitelstvo obce Rochlov schvaluje záměr odprodat pozemky č. 757/6 a 757/7vk.ú.Rochlov o výměře 22m2 a 7m2 za cenu 35Kč/m a ukládá starostovi obcezveřejnění tohoto záměru na úředních deskách obce.,
 8005,8,2011-11-04,ZO schválilo,5,Zastupitelstvo obce Rochlov schvaluje rozpočtové opatřeníč.4 (příloha č.4).,
 8006,8,2011-11-04,ZO schválilo,6,Zastupitelstvo obce Rochlov revokuje usneseníč.54/11 ze dne 6.4.2011.,
-8007,8,2011-11-04,ZO schválilo,7,"Zastupitelstvo obce Rochlov schvaluje pronájem nebytových prostor v části přízemí
-budovy OÚ Rochlov č.p. 31, p. Naděždě Rosolové a pověřuje starostu uzavřením
-nájemní smlouvy v souladu se zveřejněným záměrem",
-9001,9,2012-07-19,ZO schválilo,1,Zastupitelstvo obce Rochlov určuje ověřovatele zápisu p. Václava Hrácha a p.
-Luďka Formánka. Zapisovatelem slečnu Elišku Rothmaierovou,
+8007,8,2011-11-04,ZO schválilo,7,"Zastupitelstvo obce Rochlov schvaluje pronájem nebytových prostor v části přízemíbudovy OÚ Rochlov č.p. 31, p. Naděždě Rosolové a pověřuje starostu uzavřenímnájemní smlouvy v souladu se zveřejněným záměrem",
+9001,9,2012-07-19,ZO schválilo,1,Zastupitelstvo obce Rochlov určuje ověřovatele zápisu p. Václava Hrácha a p.Luďka Formánka. Zapisovatelem slečnu Elišku Rothmaierovou,
 9002,9,2012-07-19,ZO schválilo,2,Zastupitelstvo obce Rochlov schvaluje program veřejného zasedání.,
-9003,9,2012-07-19,ZO schválilo,3,Zastupitelstvo obce Rochlov schvaluje pravidla pro zadávání zakázek malého
-rozsahu obce Rochlov (příloha Č.3/VZ14).,
-9004,9,2012-07-19,ZO schválilo,4,Zastupitelstvo obce Rochlov schvaluje rozpočtové opatření č. 4 dle přílohy Č.4/VZ14
-tohoto zápisu.,
-9005,9,2012-07-19,ZO schválilo,5,"Zastupitelstvo obce Rochlov podle § 6 odst. 5 písm b) zákona č. 183/2006 Sb., o
-územním plánování a stavebním řádu schvaluje zadání změny č.l územního plánu
-obce Rochlov, dle příloha Č.5/VZ14 tohoto zápisu.",
-9006,9,2012-07-19,ZO schválilo,6,"Zastupitelstvo obce Rochlov schvaluje příspěvek na DČOVpro manžele Březinovi ve
-výši 20.000,-Kč a souhlasí s čerpáním z fondu na DČOVve výši 20.000,-Kč.",
-9007,9,2012-07-19,ZO schválilo,7,"Zastupitelstvo obce Rochlov schvaluje administrátora web. stránek obce Rochlov,
-slečnu Petru Síbalovou a stanovuje odměnu za tuto činnost ve výši 3.000, -Kč/rok",
-9008,9,2012-07-19,ZO schválilo,8,"Zastupitelstvo obce Rochlov schvaluje platový výměr pro ředitelku MŠ Rochlov,
-příspěvková organizace Plzeň-sever (přílohy Č.4/VZ10",
+9003,9,2012-07-19,ZO schválilo,3,Zastupitelstvo obce Rochlov schvaluje pravidla pro zadávání zakázek maléhorozsahu obce Rochlov (příloha Č.3/VZ14).,
+9004,9,2012-07-19,ZO schválilo,4,Zastupitelstvo obce Rochlov schvaluje rozpočtové opatření č. 4 dle přílohy Č.4/VZ14tohoto zápisu.,
+9005,9,2012-07-19,ZO schválilo,5,"Zastupitelstvo obce Rochlov podle § 6 odst. 5 písm b) zákona č. 183/2006 Sb., oúzemním plánování a stavebním řádu schvaluje zadání změny č.l územního plánuobce Rochlov, dle příloha Č.5/VZ14 tohoto zápisu.",
+9006,9,2012-07-19,ZO schválilo,6,"Zastupitelstvo obce Rochlov schvaluje příspěvek na DČOVpro manžele Březinovi vevýši 20.000,-Kč a souhlasí s čerpáním z fondu na DČOVve výši 20.000,-Kč.",
+9007,9,2012-07-19,ZO schválilo,7,"Zastupitelstvo obce Rochlov schvaluje administrátora web. stránek obce Rochlov,slečnu Petru Síbalovou a stanovuje odměnu za tuto činnost ve výši 3.000, -Kč/rok",
+9008,9,2012-07-19,ZO schválilo,8,"Zastupitelstvo obce Rochlov schvaluje platový výměr pro ředitelku MŠ Rochlov,příspěvková organizace Plzeň-sever (přílohy Č.4/VZ10",
 10001,10,2012-10-11,ZO schválilo,1,Zastupitelstvo obce Rochlov schvaluje program zasedání,
-10002,10,2012-10-11,ZO schválilo,2,Zastupitelstvo obce Rochlov schvaluje bezúplatný převod pozemků od Pozemkového
-fondu v rozsahu pozemků dle přílohy Č.3/VZ15 tohoto zápisu a pověřuje starostu
-obce aby o tyto pozemky zažádal v termínu dol 5.12.2012,
-10003,10,2012-10-11,ZO schválilo,3,Zastupitelstvo obce Rochlov schvaluje rozpočtové opatření č. 5 dle přílohy Č.5/VZ15
-tohoto zápisu.,
-10004,10,2012-10-11,ZO schválilo,4,Zastupitelstvo obce Rochlov revokuje usnesení č.98/10 ze dne 2.7.2010 Dále ruší
-veškerá povolení vjezdu pro motorová vozidla vydaná Obecním úřadem Rochlov a to
-s účinností od 1.11.2012. Dále pověřuje starostu obce aby o tomto kroku neodkladně
-informoval honební společenstvo KBEROCH.,
-10005,10,2012-10-11,ZO schválilo,5,"Zastupitelstvo obce Rochlov schvaluje mimořádnou odměnu pro ředitelku
-MS Rochlov, příspěvková organizace Plzeň-sever ve výši l,5násobku celkového
-měsíčního platu a ukládá starostovi obce, aby ředitelku MS písemně vyrozuměl.",
-10006,10,2012-10-11,ZO schválilo,6,"Zastupitelstvo obce Rochlov v souladu s § 72 a § 84 odst. 2 písm n) zákona o obcích stanoví
-odměnu za výkon funkce starosty jako neuvolněného člena zastupitelstva obce ve výši
-95%stanovených nařízením vlády. Ruší část usnesení č.10/10 ze dne 12.11.2010(ustvující
-zasedání), a to tu část která stanoví odměnu pro starostu obce ve výši 8.000,-Kč.Odměna
-bude poskytována ode dne 1.11.2012.",
-10007,10,2012-10-11,ZO schválilo,7,"Zastupitelstvo obce Rochlov pověřuje předsedu výboru pořádku a ekologie aby tento
-výbor provedl místní šetření u p. Farkašové, která tento pozemek využívá a má na
-něj sjednanou nájemní smlouvu. Toto šetření bude provedeno do 15. listopadu",
-10008,10,2012-10-11,ZO schválilo,8,"Zastupitelstvo obce Rochlov odprodá nepotřebné cihly za cenu 4, -Kč/ks a pověřuje
-starostu obce zveřejněním této informace",
-10009,10,2012-10-11,ZO schválilo,9,"Zastupitelstvo obce Rochlov schvaluje pořízení křovinořezu v ceně do 20.000,-Kč za
-předpokladu získání dotace ve výši 50%",
+10002,10,2012-10-11,ZO schválilo,2,Zastupitelstvo obce Rochlov schvaluje bezúplatný převod pozemků od Pozemkovéhofondu v rozsahu pozemků dle přílohy Č.3/VZ15 tohoto zápisu a pověřuje starostuobce aby o tyto pozemky zažádal v termínu dol 5.12.2012,
+10003,10,2012-10-11,ZO schválilo,3,Zastupitelstvo obce Rochlov schvaluje rozpočtové opatření č. 5 dle přílohy Č.5/VZ15tohoto zápisu.,
+10004,10,2012-10-11,ZO schválilo,4,Zastupitelstvo obce Rochlov revokuje usnesení č.98/10 ze dne 2.7.2010 Dále rušíveškerá povolení vjezdu pro motorová vozidla vydaná Obecním úřadem Rochlov a tos účinností od 1.11.2012. Dále pověřuje starostu obce aby o tomto kroku neodkladněinformoval honební společenstvo KBEROCH.,
+10005,10,2012-10-11,ZO schválilo,5,"Zastupitelstvo obce Rochlov schvaluje mimořádnou odměnu pro ředitelkuMS Rochlov, příspěvková organizace Plzeň-sever ve výši l,5násobku celkovéhoměsíčního platu a ukládá starostovi obce, aby ředitelku MS písemně vyrozuměl.",
+10006,10,2012-10-11,ZO schválilo,6,"Zastupitelstvo obce Rochlov v souladu s § 72 a § 84 odst. 2 písm n) zákona o obcích stanovíodměnu za výkon funkce starosty jako neuvolněného člena zastupitelstva obce ve výši95%stanovených nařízením vlády. Ruší část usnesení č.10/10 ze dne 12.11.2010(ustvujícízasedání), a to tu část která stanoví odměnu pro starostu obce ve výši 8.000,-Kč.Odměnabude poskytována ode dne 1.11.2012.",
+10007,10,2012-10-11,ZO schválilo,7,"Zastupitelstvo obce Rochlov pověřuje předsedu výboru pořádku a ekologie aby tentovýbor provedl místní šetření u p. Farkašové, která tento pozemek využívá a má naněj sjednanou nájemní smlouvu. Toto šetření bude provedeno do 15. listopadu",
+10008,10,2012-10-11,ZO schválilo,8,"Zastupitelstvo obce Rochlov odprodá nepotřebné cihly za cenu 4, -Kč/ks a pověřujestarostu obce zveřejněním této informace",
+10009,10,2012-10-11,ZO schválilo,9,"Zastupitelstvo obce Rochlov schvaluje pořízení křovinořezu v ceně do 20.000,-Kč zapředpokladu získání dotace ve výši 50%",
 11001,11,2013-06-20,ZO schválilo,1,Zastupitelstvo obce Rochlov schvaluje program veřejného zasedání.,
-11002,11,2013-06-20,ZO schválilo,2,Zastupitelstvo obce Rochlov schvaluje bez výhrad závěrečný účet obce Rochlov za
-rok 2012 (příloha č.3) a dále zastupitelstvo projednalo a schvaluje účetní závěrku
-obce Rochlov sestavenou k rozvahovému dni 31.12.2012.,
-11003,11,2013-06-20,ZO schválilo,3,"Zastupitelstvo obce Rochlov projednalo a schvaluje účetní závěrku PO MŠ Rochlov
-sestavenou k rozvahovému dni 31.12.2012. Dále zastupitelstvo rozděluje výsledek
-hospodaření MS Rochlov v částce 9.064,- Kč na 7.411,56 Kč jako úhrada ztráty
-z min. let a 1.625,47 na Rezervní fond.",
-11004,11,2013-06-20,ZO schválilo,4,Zastupitelstvo obce Rochlov schvaluje umístění Informačního poutače na návsi
-vedla památníku padlích a pověřuje starostu obce zajištěním souhlasu majitelů
-okolních pozemků s umístěním tohoto poutače.,
-11005,11,2013-06-20,ZO schválilo,5,"Zastupitelstvo obce Rochlov schvaluje pronájem části půdy a střešních prostor MS
-Rochlov za účelem instalace anténního systému pro přenos dat v pásmu 2,4 5 a 10
-GHz s firmou Noska NET s.r.o. a ForWiFi s.r.o. Dále zastupitelstvo obce pověřuje
-uzavřením nájemní smlouvy starostu obce. Cena nájmu byla stanovena jako
-poskytnutí služby připojení do sítě Internet pro OÚ Rochlov a MS Rochlov pro firmu
-ForWiFi s.r.o. a 400,-Kč/měsíc pro firmu Noska NET s.r.o.",
-11006,11,2013-06-20,ZO schválilo,6,Zastupitelstvo obce Rochlov schvaluje čerpání fondu na VO v plné výši za
-účelem financování I. etapy VO a následné zrušení tohoto fondu (spořícího
-účtu) zřízeného u ČSOB.,
-11007,11,2013-06-20,ZO schválilo,7,Zastupitelstvo obce Rochlov schvaluje zadání veřejné zakázky na VO mimo
-režim pravidel obce Rochlov.,
-11008,11,2013-06-20,ZO schválilo,8,Zastupitelstvo obce Rochlov schvaluje rozpočtové opatření č.4 dle přílohy
-Č.4/VZ21.,
-11009,11,2013-06-20,ZO schválilo,9,"Zastupitelstvo obce Rochlov s účinností od 31.7. 2013 ruší všechny uzavřené
-nájemní smlouvy na pozemky. Dále na pozemky, které zůstali v majetku obce a
-jsou ke dni 20.6.2013 využívány občany jako zahrádky, uzavře nájemní smlouvy
-nové a to s účinností od 1.8. 2013. Výše nájemného je stanovena seznamem
-poplatků obce Rochlov.",
-11010,11,2013-06-20,ZO schválilo,10,"Zastupitelstvo obce Rochlov předloží návrh rozpočet na rok 2014, tak aby obsahoval
-položku, z které by v příštím roce byl financován projekt na vodovod, nebo
-kanalizaci, popřípadě vodovod i kanalizaci.",
-12001,12,2013-10-02,ZO schválilo,1,"Zastupitelstvo obce Rochlov schvaluje přijetí dotace na odstranění prvotních
-povodňových škod od KU Plzeňského kraje ve výši 50.000,-Kč.",
-12002,12,2013-10-02,ZO schválilo,2,"Návrh usnesení:
-Zastupitelstvo obce Rochlov schvaluje mimořádnou odměnu pro ředitelku
-MS Rochlov, příspěvková organizace Plzeň-sever ve výši 2 násobku celkového
-měsíčního platu a ukládá starostovi obce, aby ředitelku MS písemně vyrozuměl.",
-12003,12,2013-10-02,ZO schválilo,3,Zastupitelstvo obce Rochlov schvaluje vyřazení majetku obce a to zametadla (strojní
-koště Magma) z majetku obce,
-12004,12,2013-10-02,ZO schválilo,4,Zastupitelstvo obce Rochlov schvaluje rozpočtové opatření č.5 dle přílohy
-(příloha Č.3/VZ23).,
+11002,11,2013-06-20,ZO schválilo,2,Zastupitelstvo obce Rochlov schvaluje bez výhrad závěrečný účet obce Rochlov zarok 2012 (příloha č.3) a dále zastupitelstvo projednalo a schvaluje účetní závěrkuobce Rochlov sestavenou k rozvahovému dni 31.12.2012.,
+11003,11,2013-06-20,ZO schválilo,3,"Zastupitelstvo obce Rochlov projednalo a schvaluje účetní závěrku PO MŠ Rochlovsestavenou k rozvahovému dni 31.12.2012. Dále zastupitelstvo rozděluje výsledekhospodaření MS Rochlov v částce 9.064,- Kč na 7.411,56 Kč jako úhrada ztrátyz min. let a 1.625,47 na Rezervní fond.",
+11004,11,2013-06-20,ZO schválilo,4,Zastupitelstvo obce Rochlov schvaluje umístění Informačního poutače na návsivedla památníku padlích a pověřuje starostu obce zajištěním souhlasu majitelůokolních pozemků s umístěním tohoto poutače.,
+11005,11,2013-06-20,ZO schválilo,5,"Zastupitelstvo obce Rochlov schvaluje pronájem části půdy a střešních prostor MSRochlov za účelem instalace anténního systému pro přenos dat v pásmu 2,4 5 a 10GHz s firmou Noska NET s.r.o. a ForWiFi s.r.o. Dále zastupitelstvo obce pověřujeuzavřením nájemní smlouvy starostu obce. Cena nájmu byla stanovena jakoposkytnutí služby připojení do sítě Internet pro OÚ Rochlov a MS Rochlov pro firmuForWiFi s.r.o. a 400,-Kč/měsíc pro firmu Noska NET s.r.o.",
+11006,11,2013-06-20,ZO schválilo,6,Zastupitelstvo obce Rochlov schvaluje čerpání fondu na VO v plné výši zaúčelem financování I. etapy VO a následné zrušení tohoto fondu (spořícíhoúčtu) zřízeného u ČSOB.,
+11007,11,2013-06-20,ZO schválilo,7,Zastupitelstvo obce Rochlov schvaluje zadání veřejné zakázky na VO mimorežim pravidel obce Rochlov.,
+11008,11,2013-06-20,ZO schválilo,8,Zastupitelstvo obce Rochlov schvaluje rozpočtové opatření č.4 dle přílohyČ.4/VZ21.,
+11009,11,2013-06-20,ZO schválilo,9,"Zastupitelstvo obce Rochlov s účinností od 31.7. 2013 ruší všechny uzavřenénájemní smlouvy na pozemky. Dále na pozemky, které zůstali v majetku obce ajsou ke dni 20.6.2013 využívány občany jako zahrádky, uzavře nájemní smlouvynové a to s účinností od 1.8. 2013. Výše nájemného je stanovena seznamempoplatků obce Rochlov.",
+11010,11,2013-06-20,ZO schválilo,10,"Zastupitelstvo obce Rochlov předloží návrh rozpočet na rok 2014, tak aby obsahovalpoložku, z které by v příštím roce byl financován projekt na vodovod, nebokanalizaci, popřípadě vodovod i kanalizaci.",
+12001,12,2013-10-02,ZO schválilo,1,"Zastupitelstvo obce Rochlov schvaluje přijetí dotace na odstranění prvotníchpovodňových škod od KU Plzeňského kraje ve výši 50.000,-Kč.",
+12002,12,2013-10-02,ZO schválilo,2,"Návrh usnesení:Zastupitelstvo obce Rochlov schvaluje mimořádnou odměnu pro ředitelkuMS Rochlov, příspěvková organizace Plzeň-sever ve výši 2 násobku celkovéhoměsíčního platu a ukládá starostovi obce, aby ředitelku MS písemně vyrozuměl.",
+12003,12,2013-10-02,ZO schválilo,3,Zastupitelstvo obce Rochlov schvaluje vyřazení majetku obce a to zametadla (strojníkoště Magma) z majetku obce,
+12004,12,2013-10-02,ZO schválilo,4,Zastupitelstvo obce Rochlov schvaluje rozpočtové opatření č.5 dle přílohy(příloha Č.3/VZ23).,
 12005,12,2013-10-02,ZO schválilo,5,"Zastupitelstvo obce Rochlov schvaluje nákup nového křovinořezu v cca 20.000,-Jřč",
-12006,12,2013-10-02,ZO schválilo,6,"Zastupitelstvo obce Rochlov schvaluje nákup párty stanu 10x5m v cca 26.000,-
-Kč",
-13001,13,2013-10-16,ZO schválilo,1,"Zastupitelstvo obce Rochlov, na základě posouzení a hodnocení nabídek dle
-záznamu z posuzování a hodnocení nabídek ze dne 20.8.2013, a na základě
-doporučení v ní obsaženého a dále na základě neposkytnutí součinnosti pří podpisu
-smlouvy firmou Bártek rozhlasy, rozhoduje o přidělení veřejné zakázky zadávané
-pod názvem „Protipovodňový výstražný systém obce Rochlov" firmě SUPTel a.s.,
-IČ:25229397.
-Zastupitelstvo obce dále revokuje usnesení č.219/13 ze dne 28.8.2013",
-13002,13,2013-10-16,ZO schválilo,2,Zastupitelstvo obce Rochlov schvaluje rozpočtové opatření č.6 dle přílohy
-Č.3/VZ24.,
-14001,14,2013-10-30,ZO schválilo,1,"Zastupitelstvo obce Rochlov schvaluje přijetí účelové finanční dotace v rámci
-podpory na odstraňování škod způsobených povodněmi v roce 2013 určená na akci
-„oprava MK a propustku MK «a pozemku 755/1 v k.ú. Rochlov" a to ve výši
-680.000,-Jřč.",
-14002,14,2013-10-30,ZO schválilo,2,Zastupitelstvo obce Rochlov schvaluje zadávací podklady pro veřejnou zakázka
-malého rozsahu (příloha Č.3/VZ25),
-14003,14,2013-10-30,ZO schválilo,3,Zastupitelstvo obce Rochlov schvaluje rozpočtové opatření č.7 dle přílohy
-Č.4/VZ25.,
-15001,15,2014-04-24,ZO schválilo,1,Zastupitelstvo obce Rochlov schvaluje bez výhrad závěrečný účet obce Rochlov za
-rok 2013 (příloha Č.3/VZ29),
-15002,15,2014-04-24,ZO schválilo,2,"Zastupitelstvo obce Rochlov projednalo a schvaluje účetní závěrku obce Rochlov
-sestavenou k rozvahovému dni 31.12, 2013 bez připomínek. Dále souhlasí se
-zněním protokolu o schválení účetní závěrky (příloha Č.4/VZ29",
-15003,15,2014-04-24,ZO schválilo,3,"Zastupitelstvo obce Rochlov projednalo a schvaluje účetní závěrku PO Mateřské
-školy Rochlov sestavenou k rozvahovému dni 31.12. 2013 bez připomínek.Dále
-zastupitelstvo obce schvaluje převedení výsledku hospodařeni MS Rochlov v částce
-4253,54 Kč na rezervní fond. Dále souhlasí se zněním protokolu o schválení
-uzávěrky příspěvkově organizace MS Rochlov (příloha Č.5/VZ29",
-15004,15,2014-04-24,ZO schválilo,4,"Zastupitelstvo obce Rochlov schvaluje uzavření smluv na zřízení věcného břemeneslužebnosti
-a to v rozsahu geometrického plánu č.214-13601/2012 schváleném KÚ PK,
-Plzeň-sever dne 6. 2. 2013, č.81/13 za jednorázovou náhradu 4.000,-Kč a v rozsahu
-geometrického plánu č.220-88/2013 schváleném KÚ PK, Plzeň-sever dne 25. 11. 2013,
-č.917/13 za jednorázovou náhradu 1.210,-Kč.",
-15005,15,2014-04-24,ZO schválilo,5,Zastupitelstvo obce Rochlov schvaluje uzavřeni smlouvy o zajištění zpětného odběru a
-využití odpadů z obalů s firmou EKOKOM a.s.,
-15006,15,2014-04-24,ZO schválilo,6,"Zastupitelstvo obce Rochlov schvaluje přijetí dotace ve výši 100.00,-Kč z programu
-stabilizace a obnovy venkova PK za účelem opravy oploceni pozemku MS Rochlov a
-revitalizaci zeleně.",
-15007,15,2014-04-24,ZO schválilo,7,"Zastupitelstvo obce Rochlov schvaluje vytvoření pracovní příležitosti v rámci VPP a
-poskytnutí příspěvku 11.390,-Kč/měsíc pro obec Rochlov za jedno pracovní místo",
-15008,15,2014-04-24,ZO schválilo,8,"Zastupitelstvo obce Rochlov schvaluje přijetí daru ve výši 4.000,-Kč od honebního
-slolečensťva KBEROCH",
-15009,15,2014-04-24,ZO schválilo,9,Zastupitelstvo obce Rochlov souhlasí se záměrem odprodat pozemek č. 723/18 v k.ú.
-Rochlov a ukládá starostovi vyvěsit tento záměr na úředních deskách obce,
-15010,15,2014-04-24,ZO schválilo,10,"Zastupitelstvo obce Rochlov schvaluje příspěvek na DČOV pro p. Václava ve výši
-20.000,-KČ.",
-15011,15,2014-04-24,ZO schválilo,11,Zastupitelstvo obce Rochlov schvaluje pořízení změny ÚPD č.2 za účelem
-aktualizace a pročištění stávající ÚPD. Jako pořizovatele této změny požádá
-v termínu do 31. 5. 2014 MěÚ Nýřany - odbor územního plánování. Zastupitelstvo
-obce Rochlov jmenuje starostu obce jako pověřeného zastupitele v jednání ohledně
-ÚPD Rochlov.,
-15012,15,2014-04-24,ZO schválilo,12,"Zastupitelstvo obce Rochlov vyřazuje z evidence majetku stolní PC, které bylo
-pořízeno pro pracoviště CZECHPOINT. Toto PC bude zlikvidováno jako
-vyřazený elektrospotřebič.",
-15013,15,2014-04-24,ZO schválilo,13,Zastupitelstvo obce Rochlov schvaluje rozpočtové opatření č.1/2014 dle přílohy
-Č.7/VZ29.,
-17001,17,2014-07-28,ZO schválilo,1,Zastupitelstvo obce Rochlov projednalo a schvaluje bezúplatný převod pozemků od
-Státního pozemkového úřadu a to pozemků č.399/15 a 399/14 v k. ú. Rochlov.,
-17002,17,2014-07-28,ZO schválilo,2,"Zastupitelstvo obce Rochlov revokuje usnesení č. 282/14 ze dne 26.6.2014 a schvaluje
-poskytnutí daru ve výši 15.000,-Kč Stodské nemocnici, a.s. pro gynekologicko-porodnické
-oddělení na nákup 3D ultrazvuku.",
-17003,17,2014-07-28,ZO schválilo,3,Zastupitelstvo obce Rochlov ruší fond «a DČOVa zbyléfinančníprostředky převede
-na účet zřízený u ČSOB.,
-17004,17,2014-07-28,ZO schválilo,4,"Zastupitelstvo obce Rochlov projedná na pracovní schůzce zastupitelů dne 4.8.2014
-přípravu hlukové vyhlášky, která by časově omezovala některé vykonávané, hlukem rušící
-činnosti. O výsledku bude informovat starosta na dalším VZ.",
-17005,17,2014-07-28,ZO ukládá,5,"Zastupitelstvo obce Rochlov projedná na pracovní schůzce zastupitelů dne 4.8.2014
-přípravu hlukové vyhlášky, která by časově omezovala některé vykonávané, hlukem rušící
-činnosti. O výsledku bude informovat starosta na dalším VZ.",
-18001,18,2014-09-18,ZO schválilo,1,"Zastupitelstvo obce Rochlov schvaluje Výzvu občanům k omezení hluku. Dále
-pověřuje starostu, aby tuto výzvu zveřejnit formou letáků všem občanům do
-schránky a vyhlásil v místním rozhlase a formou SMS",
+12006,12,2013-10-02,ZO schválilo,6,"Zastupitelstvo obce Rochlov schvaluje nákup párty stanu 10x5m v cca 26.000,-Kč",
+13001,13,2013-10-16,ZO schválilo,1,"Zastupitelstvo obce Rochlov, na základě posouzení a hodnocení nabídek dlezáznamu z posuzování a hodnocení nabídek ze dne 20.8.2013, a na základědoporučení v ní obsaženého a dále na základě neposkytnutí součinnosti pří podpisusmlouvy firmou Bártek rozhlasy, rozhoduje o přidělení veřejné zakázky zadávanépod názvem „Protipovodňový výstražný systém obce Rochlov' firmě SUPTel a.s.,IČ:25229397.Zastupitelstvo obce dále revokuje usnesení č.219/13 ze dne 28.8.2013",
+13002,13,2013-10-16,ZO schválilo,2,Zastupitelstvo obce Rochlov schvaluje rozpočtové opatření č.6 dle přílohyČ.3/VZ24.,
+14001,14,2013-10-30,ZO schválilo,1,"Zastupitelstvo obce Rochlov schvaluje přijetí účelové finanční dotace v rámcipodpory na odstraňování škod způsobených povodněmi v roce 2013 určená na akci„oprava MK a propustku MK «a pozemku 755/1 v k.ú. Rochlov' a to ve výši680.000,-Jřč.",
+14002,14,2013-10-30,ZO schválilo,2,Zastupitelstvo obce Rochlov schvaluje zadávací podklady pro veřejnou zakázkamalého rozsahu (příloha Č.3/VZ25),
+14003,14,2013-10-30,ZO schválilo,3,Zastupitelstvo obce Rochlov schvaluje rozpočtové opatření č.7 dle přílohyČ.4/VZ25.,
+15001,15,2014-04-24,ZO schválilo,1,Zastupitelstvo obce Rochlov schvaluje bez výhrad závěrečný účet obce Rochlov zarok 2013 (příloha Č.3/VZ29),
+15002,15,2014-04-24,ZO schválilo,2,"Zastupitelstvo obce Rochlov projednalo a schvaluje účetní závěrku obce Rochlovsestavenou k rozvahovému dni 31.12, 2013 bez připomínek. Dále souhlasí sezněním protokolu o schválení účetní závěrky (příloha Č.4/VZ29",
+15003,15,2014-04-24,ZO schválilo,3,"Zastupitelstvo obce Rochlov projednalo a schvaluje účetní závěrku PO Mateřskéškoly Rochlov sestavenou k rozvahovému dni 31.12. 2013 bez připomínek.Dálezastupitelstvo obce schvaluje převedení výsledku hospodařeni MS Rochlov v částce4253,54 Kč na rezervní fond. Dále souhlasí se zněním protokolu o schváleníuzávěrky příspěvkově organizace MS Rochlov (příloha Č.5/VZ29",
+15004,15,2014-04-24,ZO schválilo,4,"Zastupitelstvo obce Rochlov schvaluje uzavření smluv na zřízení věcného břemeneslužebnostia to v rozsahu geometrického plánu č.214-13601/2012 schváleném KÚ PK,Plzeň-sever dne 6. 2. 2013, č.81/13 za jednorázovou náhradu 4.000,-Kč a v rozsahugeometrického plánu č.220-88/2013 schváleném KÚ PK, Plzeň-sever dne 25. 11. 2013,č.917/13 za jednorázovou náhradu 1.210,-Kč.",
+15005,15,2014-04-24,ZO schválilo,5,Zastupitelstvo obce Rochlov schvaluje uzavřeni smlouvy o zajištění zpětného odběru avyužití odpadů z obalů s firmou EKOKOM a.s.,
+15006,15,2014-04-24,ZO schválilo,6,"Zastupitelstvo obce Rochlov schvaluje přijetí dotace ve výši 100.00,-Kč z programustabilizace a obnovy venkova PK za účelem opravy oploceni pozemku MS Rochlov arevitalizaci zeleně.",
+15007,15,2014-04-24,ZO schválilo,7,"Zastupitelstvo obce Rochlov schvaluje vytvoření pracovní příležitosti v rámci VPP aposkytnutí příspěvku 11.390,-Kč/měsíc pro obec Rochlov za jedno pracovní místo",
+15008,15,2014-04-24,ZO schválilo,8,"Zastupitelstvo obce Rochlov schvaluje přijetí daru ve výši 4.000,-Kč od honebníhoslolečensťva KBEROCH",
+15009,15,2014-04-24,ZO schválilo,9,Zastupitelstvo obce Rochlov souhlasí se záměrem odprodat pozemek č. 723/18 v k.ú.Rochlov a ukládá starostovi vyvěsit tento záměr na úředních deskách obce,
+15010,15,2014-04-24,ZO schválilo,10,"Zastupitelstvo obce Rochlov schvaluje příspěvek na DČOV pro p. Václava ve výši20.000,-KČ.",
+15011,15,2014-04-24,ZO schválilo,11,Zastupitelstvo obce Rochlov schvaluje pořízení změny ÚPD č.2 za účelemaktualizace a pročištění stávající ÚPD. Jako pořizovatele této změny požádáv termínu do 31. 5. 2014 MěÚ Nýřany - odbor územního plánování. Zastupitelstvoobce Rochlov jmenuje starostu obce jako pověřeného zastupitele v jednání ohledněÚPD Rochlov.,
+15012,15,2014-04-24,ZO schválilo,12,"Zastupitelstvo obce Rochlov vyřazuje z evidence majetku stolní PC, které bylopořízeno pro pracoviště CZECHPOINT. Toto PC bude zlikvidováno jakovyřazený elektrospotřebič.",
+15013,15,2014-04-24,ZO schválilo,13,Zastupitelstvo obce Rochlov schvaluje rozpočtové opatření č.1/2014 dle přílohyČ.7/VZ29.,
+17001,17,2014-07-28,ZO schválilo,1,Zastupitelstvo obce Rochlov projednalo a schvaluje bezúplatný převod pozemků odStátního pozemkového úřadu a to pozemků č.399/15 a 399/14 v k. ú. Rochlov.,
+17002,17,2014-07-28,ZO schválilo,2,"Zastupitelstvo obce Rochlov revokuje usnesení č. 282/14 ze dne 26.6.2014 a schvalujeposkytnutí daru ve výši 15.000,-Kč Stodské nemocnici, a.s. pro gynekologicko-porodnickéoddělení na nákup 3D ultrazvuku.",
+17003,17,2014-07-28,ZO schválilo,3,Zastupitelstvo obce Rochlov ruší fond «a DČOVa zbyléfinančníprostředky převedena účet zřízený u ČSOB.,
+17004,17,2014-07-28,ZO schválilo,4,"Zastupitelstvo obce Rochlov projedná na pracovní schůzce zastupitelů dne 4.8.2014přípravu hlukové vyhlášky, která by časově omezovala některé vykonávané, hlukem rušícíčinnosti. O výsledku bude informovat starosta na dalším VZ.",
+17005,17,2014-07-28,ZO ukládá,5,"Zastupitelstvo obce Rochlov projedná na pracovní schůzce zastupitelů dne 4.8.2014přípravu hlukové vyhlášky, která by časově omezovala některé vykonávané, hlukem rušícíčinnosti. O výsledku bude informovat starosta na dalším VZ.",
+18001,18,2014-09-18,ZO schválilo,1,"Zastupitelstvo obce Rochlov schvaluje Výzvu občanům k omezení hluku. Dálepověřuje starostu, aby tuto výzvu zveřejnit formou letáků všem občanům doschránky a vyhlásil v místním rozhlase a formou SMS",
 18002,18,2014-09-18,ZO schválilo,2,Zastupitelstvo obce Rochlov revokuje usnesení č. 208/,
-18003,18,2014-09-18,ZO schválilo,3,Zastupitelstvo obce Rochlov schvaluje umístěni reklamního poutače bez laviček
-na návsi na pravou stranu od památníku,
-18004,18,2014-09-18,ZO schválilo,4,"Zastupitelstvo obce Rochlov schvaluje poskytnutí příspěvku na DČOVpro paní
-Oldřišku Čejkovou ve výši 20000,-Kč",
-18005,18,2014-09-18,ZO schválilo,5,"Zastupitelstvo obce Rochlov schvaluje odkup nemovitosti v k.ú. Rochlov stp.č. 22/20
-- 122 m' za cenu 50000,-Kč + poplatků s tím souvisejících",
-18006,18,2014-09-18,ZO schválilo,6,"Zastupitelstvo obce Rochlov schvaluje odkup části pozemku č. 22/1 v k.ú. Rochlov
-do 150 m" za cenu 280,-Kč/l m~ a poplatků s tím souvisejících. Dále Obec Rochlov
-uhradí náklady za přesun oplocení. Zajistí změnu užívání pozemku ze zahrady na
-místní komunikaci a zřízeni předkupního práva pro paní Kaslovou v případě, že
-bychom chtěli nově koupené pozemky prodat",
-19001,19,2014-09-19,ZO schválilo,7,Zastupitelstvo obce Rochlov schvaluje rozpočtové opatření č.4/2014 dle přílohy
-Č.5/VZ33.,
-16001,16,2014-07-26,ZO schválilo,1,"Zastupitelstvo obce Rochlov schvaluje bez výhrad Povodňový plán obce Rochlov,
-vypracovaný ve spolupráci s f. ENVIPARTNER s.r.o. v rámci projektu Místní
-informační systém a povodňový plán Rochlov.",
-16002,16,2014-07-26,ZO schválilo,2,"Zastupitelstvo obce Rochlov schvaluje odprodej pozemku č. 723/18 - travní porost
-v k.ú. Rochlov o celkové výměře 81m2 p. Jiřímu Pechovi, U Poradny 9, 330 00
-Plzeň, za cenu 100,-Kč/lm2 a poplatků s tímto prodejem spojených",
-16003,16,2014-07-26,ZO schválilo,3,"Zastupitelstvo obce Rochlov schvaluje vytvoření pracovní příležitosti v rámci VPPa
-poskytnutí příspěvku 11.390,-Kč/měsíc pro obec Rochlov za druhé pracovní místo",
-16004,16,2014-07-26,ZO schválilo,4,"Zastupitelstvo obce Rochlov schvaluje přijetí daru ve výši 5.000,-Kč od f. In kasta
-s.r.o., 1.000,-Kč od f. Beránek Bohemia s.r.o. a 5.805,- od občanů obce Rochlov",
-16005,16,2014-07-26,ZO schválilo,5,"Zastupitelstvo obce Rochlov schvaluje poskytnutí daru ve výši 15.000,-Kč Nemocnici
-Stod a.s. za účelem pořízení CT.",
-16006,16,2014-07-26,ZO schválilo,6,"Zastupitelstvo obce Rochlov potvrzuje do funkce ředitelky MŠ Rochlov, okres Plzeň
-- sever příspěvková organizace MgrJanu Šauerovou na dalších 6 let",
+18003,18,2014-09-18,ZO schválilo,3,Zastupitelstvo obce Rochlov schvaluje umístěni reklamního poutače bez lavičekna návsi na pravou stranu od památníku,
+18004,18,2014-09-18,ZO schválilo,4,"Zastupitelstvo obce Rochlov schvaluje poskytnutí příspěvku na DČOVpro paníOldřišku Čejkovou ve výši 20000,-Kč",
+18005,18,2014-09-18,ZO schválilo,5,"Zastupitelstvo obce Rochlov schvaluje odkup nemovitosti v k.ú. Rochlov stp.č. 22/20- 122 m' za cenu 50000,-Kč + poplatků s tím souvisejících",
+18006,18,2014-09-18,ZO schválilo,6,"Zastupitelstvo obce Rochlov schvaluje odkup části pozemku č. 22/1 v k.ú. Rochlovdo 150 m' za cenu 280,-Kč/l m~ a poplatků s tím souvisejících. Dále Obec Rochlovuhradí náklady za přesun oplocení. Zajistí změnu užívání pozemku ze zahrady namístní komunikaci a zřízeni předkupního práva pro paní Kaslovou v případě, žebychom chtěli nově koupené pozemky prodat",
+19001,19,2014-09-19,ZO schválilo,7,Zastupitelstvo obce Rochlov schvaluje rozpočtové opatření č.4/2014 dle přílohyČ.5/VZ33.,
+16001,16,2014-07-26,ZO schválilo,1,"Zastupitelstvo obce Rochlov schvaluje bez výhrad Povodňový plán obce Rochlov,vypracovaný ve spolupráci s f. ENVIPARTNER s.r.o. v rámci projektu Místníinformační systém a povodňový plán Rochlov.",
+16002,16,2014-07-26,ZO schválilo,2,"Zastupitelstvo obce Rochlov schvaluje odprodej pozemku č. 723/18 - travní porostv k.ú. Rochlov o celkové výměře 81m2 p. Jiřímu Pechovi, U Poradny 9, 330 00Plzeň, za cenu 100,-Kč/lm2 a poplatků s tímto prodejem spojených",
+16003,16,2014-07-26,ZO schválilo,3,"Zastupitelstvo obce Rochlov schvaluje vytvoření pracovní příležitosti v rámci VPPaposkytnutí příspěvku 11.390,-Kč/měsíc pro obec Rochlov za druhé pracovní místo",
+16004,16,2014-07-26,ZO schválilo,4,"Zastupitelstvo obce Rochlov schvaluje přijetí daru ve výši 5.000,-Kč od f. In kastas.r.o., 1.000,-Kč od f. Beránek Bohemia s.r.o. a 5.805,- od občanů obce Rochlov",
+16005,16,2014-07-26,ZO schválilo,5,"Zastupitelstvo obce Rochlov schvaluje poskytnutí daru ve výši 15.000,-Kč NemocniciStod a.s. za účelem pořízení CT.",
+16006,16,2014-07-26,ZO schválilo,6,"Zastupitelstvo obce Rochlov potvrzuje do funkce ředitelky MŠ Rochlov, okres Plzeň- sever příspěvková organizace MgrJanu Šauerovou na dalších 6 let",
 16007,16,2014-07-26,ZO schválilo,7,Zastupitelstvo obce Rochlov schvaluje zápis do obecní kroniky za rok,
-16008,16,2014-07-26,ZO schválilo,8,Zastupitelstvo obce Rochlov schvaluje dle § 67 a 68 zákona o obcích č.
-128/2000Sb.t počet členů Zastupitelstva pro volební období 2014 - 2018 na 7.
-členů.,
-16009,16,2014-07-26,ZO schválilo,9,"Zastupitelstvo obce Rochlov schvaluje Obecně závaznou vyhlášku č. 1/2014 kterou se
-mění a doplňuje OZVo volném pohybu psů č.2/2009. Dále pověřit starostu, aby
-připravil informaci pro občany a tuto informaci vhodným způsobem zveřejnil",
-16010,16,2014-07-26,ZO schválilo,10,"Zastupitelstvo obce Rochlov pověřuje starostu, aby zjistil přesné informace a
-podmínky elektronické aukce na dodavatele elektrické energie pro Obec Rochlov a
-Mateřskou školu Rochlov.",
-16011,16,2014-07-26,ZO schválilo,11,Zastupitelstvo obce Rochlov schvaluje rozpočtové opatření č.3/2014 dle přílohy
-Č.S/VZ3L,
+16008,16,2014-07-26,ZO schválilo,8,Zastupitelstvo obce Rochlov schvaluje dle § 67 a 68 zákona o obcích č.128/2000Sb.t počet členů Zastupitelstva pro volební období 2014 - 2018 na 7.členů.,
+16009,16,2014-07-26,ZO schválilo,9,"Zastupitelstvo obce Rochlov schvaluje Obecně závaznou vyhlášku č. 1/2014 kterou semění a doplňuje OZVo volném pohybu psů č.2/2009. Dále pověřit starostu, abypřipravil informaci pro občany a tuto informaci vhodným způsobem zveřejnil",
+16010,16,2014-07-26,ZO schválilo,10,"Zastupitelstvo obce Rochlov pověřuje starostu, aby zjistil přesné informace apodmínky elektronické aukce na dodavatele elektrické energie pro Obec Rochlov aMateřskou školu Rochlov.",
+16011,16,2014-07-26,ZO schválilo,11,Zastupitelstvo obce Rochlov schvaluje rozpočtové opatření č.3/2014 dle přílohyČ.S/VZ3L,

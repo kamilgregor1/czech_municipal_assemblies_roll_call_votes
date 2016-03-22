@@ -1,17 +1,6 @@
 ﻿id,legislative_session:number,start_date,item:title,item:number,motion:title,
 1001,1,2014-11-06,"Určení ověřovatelů zápisu a zapisovatele, schválení programu",3,ZM schvaluje Ing. Miloše Bílého a Mgr. Martina Poděbradského ověřovateli zápisu.,
-1002,1,2014-11-06,"Určení ověřovatelů zápisu a zapisovatele, schválení programu",3,"ZM schvaluje následující program ustavujícího zasedání:
-1. Zahájení
-2. Složení slibu členy zastupitelstva
-3. Určení ověřovatelů zápisu a zapisovatele, schválení programu
-4. Určení funkcí, pro které budou členové zastupitelstva uvolněni
-5. Schválení volebního řádu
-6. Volba volební komise
-7. Volba starosty městyse
-8. Volba místostarosty městyse
-9. Zřízení výborů zastupitelstva, určení počtu jejich členů a volba jejich předsedů
-10. Volba zástupce městyse ve „Svazku vodovodů a kanalizací“ měst a obcí
-11. Odměňování neuvolněných členů zastupitelstva",
+1002,1,2014-11-06,"Určení ověřovatelů zápisu a zapisovatele, schválení programu",3,"ZM schvaluje následující program ustavujícího zasedání:1. Zahájení2. Složení slibu členy zastupitelstva3. Určení ověřovatelů zápisu a zapisovatele, schválení programu4. Určení funkcí, pro které budou členové zastupitelstva uvolněni5. Schválení volebního řádu6. Volba volební komise7. Volba starosty městyse8. Volba místostarosty městyse9. Zřízení výborů zastupitelstva, určení počtu jejich členů a volba jejich předsedů10. Volba zástupce městyse ve „Svazku vodovodů a kanalizací“ měst a obcí11. Odměňování neuvolněných členů zastupitelstva",
 1003,1,2014-11-06,"Určení funkcí, pro které budou členové zastupitelstva uvolněni",4,"ZM v souladu § 84 odst. 2 písm. k) zákona o obcích určuje, že pro výkon funkce starosty městyse",
 1004,1,2014-11-06,Schválení volebního řádu,5,ZM schvaluje Volební řád Zastupitelstva městyse Černá Hora.,
 1005,1,2014-11-06,Volba volební komise,6,"ZM schvaluje volební komisi ve složení JUDr. Pavel Hlaváček, Ing. Aleš Lukš a pan Jan Štrof.",
@@ -20,12 +9,7 @@
 1008,1,2014-11-06,"Zřízení výborů zastupitelstva, určení počtu jejich členů a volba jejich předsedů",9,"Zastupitelstvo městyse Černá Hora zřizuje výbor bytový a sociální, stanovuje, že bude mít 3 členy a jeho předsedou volí pana Františka Trtílka.",
 1009,1,2014-11-06,"Zřízení výborů zastupitelstva, určení počtu jejich členů a volba jejich předsedů",9,"Zastupitelstvo městyse Černá Hora zřizuje výbor pro kulturu a sport, stanovuje, že bude mít 5 členů a jeho předsedou volí Ing. Františka Virdzeka.",
 1010,1,2014-11-06,Volba zástupce městyse ve Svazku vodovodů a kanalizací měst a obcí,10,"Zastupitelstvo městyse Černá Hora pověřuje Ing. Ondřeje Měšťana zastupováním městyse Černá Hora ve „Svazku vodovodů a kanalizací“ měst a obcí se sídlem 17. listopadu 14, 680 19 Boskovice ve volebním období 2014 – 2018.",
-1011,1,2014-11-06,Odměňování neuvolněných členů zastupitelstva,11,"Zastupitelstvo městyse Černá Hora schvaluje v souladu s nařízením vlády č. 37/2003 Sb., o odměnách za výkon funkce členům zastupitelstev, ve znění pozdějších předpisů, měsíční odměny poskytované za výkon jednotlivých funkcí neuvolněným členům ZM v této výši:
-- místostarostka 9.653 Kč,
-- předseda výboru ZM 1.300 Kč,
-- člen výboru ZM 1.060 Kč,
-- člen ZM bez dalších funkcí 540 Kč
-s tím, že při souběhu výkonu několika funkcí se odměna neuvolněnému členovi ZM poskytne pouze za výkon funkce, za niž náleží nejvyšší odměna a s tím, že odměny se budou poskytovat ode dne přijetí tohoto usnesení a v případě nového zvolení do funkce místostarosty, předsedy výboru nebo člena výboru ode dne zvolení do této funkce.",
+1011,1,2014-11-06,Odměňování neuvolněných členů zastupitelstva,11,"Zastupitelstvo městyse Černá Hora schvaluje v souladu s nařízením vlády č. 37/2003 Sb., o odměnách za výkon funkce členům zastupitelstev, ve znění pozdějších předpisů, měsíční odměny poskytované za výkon jednotlivých funkcí neuvolněným členům ZM v této výši:- místostarostka 9.653 Kč,- předseda výboru ZM 1.300 Kč,- člen výboru ZM 1.060 Kč,- člen ZM bez dalších funkcí 540 Kčs tím, že při souběhu výkonu několika funkcí se odměna neuvolněnému členovi ZM poskytne pouze za výkon funkce, za niž náleží nejvyšší odměna a s tím, že odměny se budou poskytovat ode dne přijetí tohoto usnesení a v případě nového zvolení do funkce místostarosty, předsedy výboru nebo člena výboru ode dne zvolení do této funkce.",
 2001,2,2014-12-30,"Zahájaní, schválení ověřovatelů a programu",1,ZM schvaluje Ing. Ludmilu Slavíčkovou a Františka Trtílka ověřovateli zápisu.,
 2002,2,2014-12-30,"Zahájaní, schválení ověřovatelů a programu",1,ZM souhlasí s programem jednání v navržené podobě.,
 2003,2,2014-12-30,Kontrola úkolů,2,ZM ruší usnesení ZM č. 11 z 28.8.2014 a s ním související úkol č. 7.,
@@ -76,10 +60,7 @@ s tím, že při souběhu výkonu několika funkcí se odměna neuvolněnému č
 3015,3,2015-02-26,Zřízení věcných břemen,8,"ZM souhlasí se smlouvou o zřízení věcného břemene č. PV-014330029043/001 mezi městysem Černá Hora jako povinným a společností E.ON Distribuce, a.s. se sídlem F.A.Gerstnera 2151/6, 370 49 České Budějovice zastoupenou na základě plné moci ze dne 2.7.2008 společností E.ON Česká republika, s.r.o. se sídlem F.A.Gerstnera 2151/6, 370 49 České Budějovice jako oprávněnou, kterou městys Černá Hora zřizuje ve prospěch oprávněné právo odpovídající věcnému břemenu umožňující využití pozemku p.č. 545 v katastrálním území a obci Černá Hora pro účely zřízení, provozování, provádění oprav a udržování distribuční soustavy – stavby s názvem „Černá Hora – úprava DS, B.“ a ukládá starostovi smlouvu podepsat.",
 3016,3,2015-02-26,Zřízení věcných břemen,8,"ZM souhlasí se smlouvou o zřízení věcného břemene č. PV-014330030723/001 mezi městysem Černá Hora jako povinným a společností E.ON Distribuce, a.s. se sídlem F.A.Gerstnera 2151/6, 370 49 České Budějovice zastoupenou na základě plné moci ze dne 2.7.2008 společností E.ON Česká republika, s.r.o. se sídlem F.A.Gerstnera 2151/6, 370 49 České Budějovice jako oprávněnou, kterou městys Černá Hora zřizuje ve prospěch oprávněné právo odpovídající věcnému břemenu umožňující využití pozemků p.č. 1235/1 a p.č. 1236/3 v katastrálním území a obci Černá Hora pro účely zřízení, provozování, provádění oprav a udržování distribuční soustavy – stavby s názvem „Černá Hora – přeložka NN, B.“ a ukládá starostovi smlouvu podepsat.",
 3017,3,2015-02-26,Volba člena výboru pro vodohospodářství ZM a zpráva výboru,9,ZM volí Ing. Antonína Musila členem výboru pro vodohospodářství.,
-3018,3,2015-02-26,Volba člena výboru pro vodohospodářství ZM a zpráva výboru,9,"Zastupitelstvo městyse Černá Hora pověřuje svého člena, předsedu Výboru pro vodohospodářství, Ing. Miloše Bílého, nar. 29.7.1983, bytem Na Škrku 162, 679 21 Černá Hora, aby za městys jednal se „Svazkem vodovodů a kanalizací“ měst a obcí, IČ: 49468952, se sídlem 17. listopadu 138/14, 680 01 Boskovice (dále jen Svazek) a Vodárenskou akciovou společností, a.s., Soběšická 820/156, 638 01 Brno, IČ: 4945584 v následujících záležitostech:
-- přebírání veškerých informací a dokumentů, souvisejících s vodohospodářskou infrastrukturou na území městyse Černá Hora,
-- příprava návrhů dohod o vzájemném vypořádání mezi městysem Černá Hora a Svazkem v souvislosti s vystoupením městyse ze Svazku.
-Toto pověření se nevztahuje na přijímání jakýchkoliv rozhodnutí ani k vyjadřování stanovisek jménem městyse.",
+3018,3,2015-02-26,Volba člena výboru pro vodohospodářství ZM a zpráva výboru,9,"Zastupitelstvo městyse Černá Hora pověřuje svého člena, předsedu Výboru pro vodohospodářství, Ing. Miloše Bílého, nar. 29.7.1983, bytem Na Škrku 162, 679 21 Černá Hora, aby za městys jednal se „Svazkem vodovodů a kanalizací“ měst a obcí, IČ: 49468952, se sídlem 17. listopadu 138/14, 680 01 Boskovice (dále jen Svazek) a Vodárenskou akciovou společností, a.s., Soběšická 820/156, 638 01 Brno, IČ: 4945584 v následujících záležitostech:- přebírání veškerých informací a dokumentů, souvisejících s vodohospodářskou infrastrukturou na území městyse Černá Hora,- příprava návrhů dohod o vzájemném vypořádání mezi městysem Černá Hora a Svazkem v souvislosti s vystoupením městyse ze Svazku.Toto pověření se nevztahuje na přijímání jakýchkoliv rozhodnutí ani k vyjadřování stanovisek jménem městyse.",
 3019,3,2015-02-26,Poskytnutí dotací z rozpočtu městyse Černá Hora,10,Zastupitelstvo městyse Černá Hora schvaluje poskytnutí dotací na činnost zájmových organizací z rozpočtu městyse Černá Hora podle návrhu uvedeného v bodech 5.1 a 5.3 zápisu z jednání výboru pro kulturu a sport ze dne 20.02.2015 s výjímkou dotace pro TJ Sokol Černá Hora a ukládá starostovi podepsat příslušné veřejnoprávní smlouvy o poskytnutí dotace.,
 3020,3,2015-02-26,Poskytnutí dotací z rozpočtu městyse Černá Hora,10,Zastupitelstvo městyse Černá Hora bere na vědomí zápis ze zasedání výboru pro kulturu a sport ze dne 20.02.2015.,
 3021,3,2015-02-26,Poskytnutí dotací z rozpočtu městyse Černá Hora,10,Zastupitelstvo městyse Černá Hora schvaluje poskytnutí dotací na činnost zájmových organizací z rozpočtu městyse Černá Hora podle návrhu uvedeného v bodech 5.1 a 5.3 zápisu z jednání výboru pro kulturu a sport ze dne 20.02.2015 a ukládá starostovi podepsat příslušné veřejnoprávní smlouvy o poskytnutí dotace.,
@@ -111,23 +92,15 @@ Toto pověření se nevztahuje na přijímání jakýchkoliv rozhodnutí ani k v
 4024,4,2015-04-23,Zpráva výboru pro kulturu a sport ZM,9,"ZM bere na vědomí informaci výboru pro kulturu a sport o zajištění předškolní péče v Černé Hoře a pověřuje starostu a výbor pro kulturu a sport, aby zjistili konkrétní požadavky na zřízení 4. třídy MŠ a nultého ročníku ZŠ. Dále zastupitelstvo pověřuje starostu a výbor pro kulturu a sport, aby zjistili předběžný zájem rodičů předškolních dětí o nultý ročník ZŠ.",
 4025,4,2015-04-23,Zpráva výboru pro kulturu a sport ZM,9,"ZM pověřuje starostu a výbor pro kulturu a sport, aby sledovali dotační tituly pro podporu dětských skupin a v případě neúspěchů v jednáních podle usnesní č. 24 se pokusili zajistit pro následující školní rok provoz dětské skupiny.",
 4026,4,2015-04-23,Smlouva o sdružení prostředků na společnou jednotku požární ochrany,10,"ZM souhlasí se smlouvou o sdružení prostředků na společnou jednotku požární ochrany mezi městysem Černá Hora a obcí Lubě se sídlem Lubě 15, IČ: 00637301 s tím, že do návrhu smlouvy se doplňuje, že smlouva je uzavřena na dobu neurčitou a že úhrada za splnění účelu dle smlouvy v prvním roce trvání smlouvy bude provedena v alikvotní výši v závislosti na termínu nabytí účinnosti smlouvy a ukládá starostovi smlouvu podepsat.",
-4027,4,2015-04-23,Odměňování neuvolněných členů ZM,11,"ZM schvaluje v souladu s nařízením vlády č. 37/2003 Sb., o odměnách za výkon funkce členům zastupitelstev, ve znění pozdějších předpisů, měsíční odměny poskytované za výkon jednotlivých funkcí neuvolněným členům ZM v této výši:
-- místostarostka 9.991 Kč,
-- předseda výboru ZM 1.345 Kč,
-- člen výboru ZM 1.097 Kč,
-- člen ZM bez dalších funkcí 559 Kč
-s tím, že při souběhu výkonu několika funkcí se odměna neuvolněnému členovi ZM poskytne pouze za výkon funkce, za niž náleží nejvyšší odměna a s tím, že odměny se budou poskytovat od 1.5.2015 a v případě nového zvolení do funkce místostarosty, předsedy výboru nebo člena výboru ode dne zvolení do této funkce.",
+4027,4,2015-04-23,Odměňování neuvolněných členů ZM,11,"ZM schvaluje v souladu s nařízením vlády č. 37/2003 Sb., o odměnách za výkon funkce členům zastupitelstev, ve znění pozdějších předpisů, měsíční odměny poskytované za výkon jednotlivých funkcí neuvolněným členům ZM v této výši:- místostarostka 9.991 Kč,- předseda výboru ZM 1.345 Kč,- člen výboru ZM 1.097 Kč,- člen ZM bez dalších funkcí 559 Kčs tím, že při souběhu výkonu několika funkcí se odměna neuvolněnému členovi ZM poskytne pouze za výkon funkce, za niž náleží nejvyšší odměna a s tím, že odměny se budou poskytovat od 1.5.2015 a v případě nového zvolení do funkce místostarosty, předsedy výboru nebo člena výboru ode dne zvolení do této funkce.",
 5001,5,2015-06-11,"Zahájení, schválení ověřovatelů a programu",1,ZM schvaluje Radka Stejskala a Františka Trtílka ověřovateli zápisu.,
 5002,5,2015-06-11,"Zahájení, schválení ověřovatelů a programu",1,ZM souhlasí s doplněním programu jednání o bod 11. Různé – vyhláška o zákazu podomního a pochůzkového prodeje,
 5003,5,2015-06-11,"Zahájení, schválení ověřovatelů a programu",1,ZM souhlasí s doplněním programu jednání o bod 11. Různé – situace na stavebním úřadu.,
 5004,5,2015-06-11,"Zahájení, schválení ověřovatelů a programu",1,ZM souhlasí s programem jednání v navržené podobě.,
-5005,5,2015-06-11,Kontrola úkolů,2,"ZM ukládá starostovi oslovit majitele stavby opěrné zdi na pozemku p.č. 1364/153 v k.ú. Černá Hora, aby zjistil její stav, případně zajistil její údržbu.
-",
+5005,5,2015-06-11,Kontrola úkolů,2,"ZM ukládá starostovi oslovit majitele stavby opěrné zdi na pozemku p.č. 1364/153 v k.ú. Černá Hora, aby zjistil její stav, případně zajistil její údržbu.",
 5006,5,2015-06-11,Kontrola úkolů,2,ZM bere na vědomí zprávu o plnění úkolů z minulých zasedání.,
-5007,5,2015-06-11,Rozpočtové opatření městyse Černá Hora č. 2,3,"ZM schvaluje rozpočtové opatření městyse Černá Hora č. 2, kterým se příjmy zvyšují o 5.000 Kč a výdaje zvyšují o 550.000 Kč.
-",
-5008,5,2015-06-11,Závěrečný účet městyse Černá Hora za rok 2014,4,"ZM projednalo Závěrečný účet městyse Černá Hora za rok 2014 a souhlasí s celoročním hospodařením, a to bez výhrad.
-",
+5007,5,2015-06-11,Rozpočtové opatření městyse Černá Hora č. 2,3,"ZM schvaluje rozpočtové opatření městyse Černá Hora č. 2, kterým se příjmy zvyšují o 5.000 Kč a výdaje zvyšují o 550.000 Kč.",
+5008,5,2015-06-11,Závěrečný účet městyse Černá Hora za rok 2014,4,"ZM projednalo Závěrečný účet městyse Černá Hora za rok 2014 a souhlasí s celoročním hospodařením, a to bez výhrad.",
 5009,5,2015-06-11,Závěrečný účet Svazku obcí Černohorsko za rok 2014,5,ZM bere na vědomí Závěrečný účet Svazku obcí Černohorsko za rok 2014.,
 5010,5,2015-06-11,"Účetní závěrky Základní školy Černá Hora, Mateřské školy Černá Hora a městyse Černá Hora za rok 2014",6,ZM schvaluje Účetní závěrku Základní školy Černá Hora za rok 2014.,
 5011,5,2015-06-11,"Účetní závěrky Základní školy Černá Hora, Mateřské školy Černá Hora a městyse Černá Hora za rok 2014",6,"ZM schvaluje Účetní závěrku Mateřské školy Černá Hora, okres Blansko za rok 2014.",
@@ -139,9 +112,7 @@ s tím, že při souběhu výkonu několika funkcí se odměna neuvolněnému č
 5017,5,2015-06-11,Návrh výboru pro vodohospodářství ZM,9,"Zastupitelstvo městyse Černá Hora souhlasí, aby osobních schůzek se zástupci VAS, a.s. divize Boskovice, Svazku vodovodů a kanalizací se sídlem v Boskovicích a právní kanceláře zastupující městys při vystoupení ze Svazku vodovodů a kanalizací se sídlem v Boskovicích při jednáních o vystoupení městyse ze svazku se na pozvání starosty městyse mohli účastnit všichni členové výboru pro vodohospodářství městyse Černá Hora.",
 5018,5,2015-06-11,Zpráva výboru pro kulturu a sport ZM,10,"ZM souhlasí s otevřením 4. třídy MŠ s tím, že budou přijímány děti z Černé Hory od 2 a půl roku věku.",
 5019,5,2015-06-11,Zpráva výboru pro kulturu a sport ZM,10,ZM bere na vědomí zápis ze zasedání výboru pro kulturu a sport ze dne 4.6.2015.,
-5020,5,2015-06-11,Zpráva výboru pro kulturu a sport ZM,10,"ZM pověřuje starostu, aby v souladu s body 4.3 a 4.5 zápisu z jednání VKS ze dne 4.6.2015 zadal zpracování projektové dokumentace:
-- Zvýšení kapacity kuchyně Mateřské školy Černá Hora na 95 strávníků,
-- 4. třída Mateřské školy Černá Hora.",
+5020,5,2015-06-11,Zpráva výboru pro kulturu a sport ZM,10,"ZM pověřuje starostu, aby v souladu s body 4.3 a 4.5 zápisu z jednání VKS ze dne 4.6.2015 zadal zpracování projektové dokumentace:- Zvýšení kapacity kuchyně Mateřské školy Černá Hora na 95 strávníků,- 4. třída Mateřské školy Černá Hora.",
 5021,5,2015-06-11,Zpráva výboru pro kulturu a sport ZM,10,"ZM pověřuje starostu a VKS, aby dále sledovali případné vyhlášení dotačního titulu podle bodu 4.5.5 a v případě, že maximální výše dotace převýší 500.000 Kč, pokusili se získat dotaci a zajistit provoz dětské skupiny v Černé Hoře.",
 5022,5,2015-06-11,Zpráva výboru pro kulturu a sport ZM,10,"ZM pověřuje starostu, aby provedl potřebné úkony pro zvýšení kapacity kuchyně v MŠ na 95 strávníků, aby byly splněny další podmínky pro zajištění stravování pro dětskou skupinu. ",
 5023,5,2015-06-11,Zpráva výboru pro kulturu a sport ZM,10,"ZM schvaluje poskytnutí dotace Centru pro rodinu Veselá beruška se sídlem Skleníky 573, 679 21 Černá Hora, IČ: 26563886 na projekt V Hoře a nahoře ve výši 10.700 Kč a ukládá starostovi podepsat veřejnoprávní smlouvu o poskytnutí dotace.",

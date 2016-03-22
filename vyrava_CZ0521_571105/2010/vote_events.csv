@@ -1,1136 +1,236 @@
 ﻿id,legislative_session:number,start_date,item:title,item:number,motion:title,
-1001,1,2010-11-08,Určeni ověřovatelů zápisu (§ 95 odst. 1 zákona o obcích) a zapisovatele,3,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Pavla Jurčíka a zapisovatelem
-pani Ivu Komínkovou,
-1002,1,2010-11-08,Schváleni programu,4,"Zastupitelstvo obce schvaluje následující program ustavujícího zasedání:
-
-Volba starosty obce a místostarosty obce 
-
-- určeni počtu místostarostů 
-
-- určení, které funkce budou členové zastupitelstva vykonávat jako dlouhodobě uvolněni (§ 71 zákona o 
-
-- určení způsobu volby starosty obce a místostarosty obce 
-
-- navrhování kandidátů na funkci starosty a volba starosty obce 
-
-- navrhování kandidátů na funkci místostarosty a volba místostarosty obce 
-
-Zřízení finančního a kontrolního výboru 
-
-- Zřízení a určeni počtu členů finančního a kontrolního výboru 
-
-- volba předsedy finančního výboru 
-
-- volba předsedy kontrolního výboru 
-
-- volba členů finančního výboru 
-
-- volba členů kontrolního výboru 
-
-Rozhodnuti o odměnách za výkon funkci neuvolněných členů zastupitelstva (§ 72 zákona o obcích) 
-
-- Stanovení výše odměny neuvolněným členům zastupitelstva obce 
-
-- Stanovení výše odměny při souběhu několika funkcí jako neuvolněného člena zastupitelstva 
-
-- Stanovení výše odměny za funkci místostarosty jako neuvolněného člena zastupitelstva 
-obcích) 
-
-- Stanovení výše odměny za funkci předsedy výboru zastupitelstva jako neuvolněného člena zastupitelstva
-
-- Stanovení výše odměny za funkci člena výboru zastupitelstva jako neuvolněného člena zastupitelstva 
-
-- Stanovení výše odměny za funkci člena výboru zastupitelstva, který není členem zastupitelstva 
-
-Diskuse-organizační a doplňující údaje k zápisu-závěr 
-zastupitelstva",
+1001,1,2010-11-08,Určeni ověřovatelů zápisu (§ 95 odst. 1 zákona o obcích) a zapisovatele,3,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Pavla Jurčíka a zapisovatelempani Ivu Komínkovou,
+1002,1,2010-11-08,Schváleni programu,4,"Zastupitelstvo obce schvaluje následující program ustavujícího zasedání:Volba starosty obce a místostarosty obce - určeni počtu místostarostů - určení, které funkce budou členové zastupitelstva vykonávat jako dlouhodobě uvolněni (§ 71 zákona o - určení způsobu volby starosty obce a místostarosty obce - navrhování kandidátů na funkci starosty a volba starosty obce - navrhování kandidátů na funkci místostarosty a volba místostarosty obce Zřízení finančního a kontrolního výboru - Zřízení a určeni počtu členů finančního a kontrolního výboru - volba předsedy finančního výboru - volba předsedy kontrolního výboru - volba členů finančního výboru - volba členů kontrolního výboru Rozhodnuti o odměnách za výkon funkci neuvolněných členů zastupitelstva (§ 72 zákona o obcích) - Stanovení výše odměny neuvolněným členům zastupitelstva obce - Stanovení výše odměny při souběhu několika funkcí jako neuvolněného člena zastupitelstva - Stanovení výše odměny za funkci místostarosty jako neuvolněného člena zastupitelstva obcích) - Stanovení výše odměny za funkci předsedy výboru zastupitelstva jako neuvolněného člena zastupitelstva- Stanovení výše odměny za funkci člena výboru zastupitelstva jako neuvolněného člena zastupitelstva - Stanovení výše odměny za funkci člena výboru zastupitelstva, který není členem zastupitelstva Diskuse-organizační a doplňující údaje k zápisu-závěr zastupitelstva",
 1003,1,2010-11-08,Volba starosty obce a místostarosty obce,5,Zastupitelstvo obce schválilo volení jednoho místostarosty.,
-1004,1,2010-11-08,Volba starosty obce a místostarosty obce,5,"Zastupitelstvo obce v souladu s § 84 odst. 2 písm. k) zákona o obcích určuje, že všechny funkce budou
-vykonávány jako neuvolněný člen zastupitelstva obce.",
-1005,1,2010-11-08,Volba starosty obce a místostarosty obce,5,Zastupitelstvo obce schvaluje tajný způsob volby starosty a místostarosty postupem uvedeným
-předsedajícím.,
-1006,1,2010-11-08,Volba starosty obce a místostarosty obce,5,Zastupitelstvo obce schvaluje veřejný způsob volby starosty a místostarosty postupem uvedeným 
-předsedajícím.,
+1004,1,2010-11-08,Volba starosty obce a místostarosty obce,5,"Zastupitelstvo obce v souladu s § 84 odst. 2 písm. k) zákona o obcích určuje, že všechny funkce budouvykonávány jako neuvolněný člen zastupitelstva obce.",
+1005,1,2010-11-08,Volba starosty obce a místostarosty obce,5,Zastupitelstvo obce schvaluje tajný způsob volby starosty a místostarosty postupem uvedenýmpředsedajícím.,
+1006,1,2010-11-08,Volba starosty obce a místostarosty obce,5,Zastupitelstvo obce schvaluje veřejný způsob volby starosty a místostarosty postupem uvedeným předsedajícím.,
 1007,1,2010-11-08,Volba starosty obce a místostarosty obce,5,Zastupitelstvo obce volí starostou obce p. Pavla Jurčíka,
 1008,1,2010-11-08,Volba starosty obce a místostarosty obce,5,Zastupitelstvo obce volí místostarostu obce p. Pavla Jurčíka,
-1009,1,2010-11-08,Organizační a doplňující údaje k zápisu. Diskuze – závěr,8,"Zastupitelstvo obce souhlasí s přijetím dotace ve výši 400 tis.Kč na akci „Rekonstrukce a oprava vodní
-plochy, obnovy a zřízení veřejné zeleně v okolí vodní plochy“ a pověřuje dosavadního starostu obce 
-podepsáním dohody o přidělení.",
-2001,2,2011-01-17,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a
-schvaluje upravený program zasedání:",
-2002,2,2011-01-17,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Pavla Jurčíka a sestavením zápisu p. Ing.
-Františka Schwarzera a pani Ivu Komínkovou,
-2003,2,2011-01-17,Dodatečné schválení jmenování členů starostou zřizovaných komisí,2,Zastupitelstvo obce schvaluje jmenování člena komise pro občanské záležitosti paní Jaroslavu 
-Hejcmanovou.,
-2004,2,2011-01-17,Dodatečné schválení jmenování členů starostou zřizovaných komisí,2,Zastupitelstvo obce schvaluje jmenování členů komise místní samosprávy pro Dolní Černilov p. Josefa
-Hrocha a p. Milana Procko,
-2005,2,2011-01-17,Hospodaření obce,4,"Zastupitelstvo obce schvaluje rozpočet 2011 takto:
-
-Celkové příjmy rozpočtu ve výši 3 487,83 tis.Kč
-
-Financování ve výši -500,00 tis.Kč
-
-Celkové zdroje ve výši 2 987,83 tis.Kč
-
-Běžné výdaje ve výši 3 462,49 tis.Kč
-
-Kapitálové výdaje ve výši 582,83 tis.Kč
-
-Celkové výdaje rozpočtu ve výši 4 045,32 tis.Kč
-
-a ukládá starostovi obce zveřejnit rozpočet 2011 v závazných ukazatelích na fyzické a elektronické úřední 
-desce v termínu od 18.1. do 14.2.2011, ukládá starostovi obce dopracovat položkový (v plné rozpočtové skladbě) rozpočet 2011; zveřejnit na webu 
-a předat účetní obecního úřadu – termín do 14.2.2011",
+1009,1,2010-11-08,Organizační a doplňující údaje k zápisu. Diskuze – závěr,8,"Zastupitelstvo obce souhlasí s přijetím dotace ve výši 400 tis.Kč na akci „Rekonstrukce a oprava vodníplochy, obnovy a zřízení veřejné zeleně v okolí vodní plochy“ a pověřuje dosavadního starostu obce podepsáním dohody o přidělení.",
+2001,2,2011-01-17,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) aschvaluje upravený program zasedání:",
+2002,2,2011-01-17,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Pavla Jurčíka a sestavením zápisu p. Ing.Františka Schwarzera a pani Ivu Komínkovou,
+2003,2,2011-01-17,Dodatečné schválení jmenování členů starostou zřizovaných komisí,2,Zastupitelstvo obce schvaluje jmenování člena komise pro občanské záležitosti paní Jaroslavu Hejcmanovou.,
+2004,2,2011-01-17,Dodatečné schválení jmenování členů starostou zřizovaných komisí,2,Zastupitelstvo obce schvaluje jmenování členů komise místní samosprávy pro Dolní Černilov p. JosefaHrocha a p. Milana Procko,
+2005,2,2011-01-17,Hospodaření obce,4,"Zastupitelstvo obce schvaluje rozpočet 2011 takto:Celkové příjmy rozpočtu ve výši 3 487,83 tis.KčFinancování ve výši -500,00 tis.KčCelkové zdroje ve výši 2 987,83 tis.KčBěžné výdaje ve výši 3 462,49 tis.KčKapitálové výdaje ve výši 582,83 tis.KčCelkové výdaje rozpočtu ve výši 4 045,32 tis.Kča ukládá starostovi obce zveřejnit rozpočet 2011 v závazných ukazatelích na fyzické a elektronické úřední desce v termínu od 18.1. do 14.2.2011, ukládá starostovi obce dopracovat položkový (v plné rozpočtové skladbě) rozpočet 2011; zveřejnit na webu a předat účetní obecního úřadu – termín do 14.2.2011",
 2006,2,2011-01-17,Hospodaření obce,4,Zastupitelstvo obce schvaluje rozpočtová opatření č. 11 až 15,
-2007,2,2011-01-17,Program rozvoje a obnovy venkova –obce Výravy,5,Zastupitelstvo obce bere na vědomí informaci o zařazení investičních a neinvestičních akcí a doporučuje
-změnit rozpočtový výhled na léta 2011÷13 v souladu s předloženým návrhem. 
-Ukládá starostovi obce zpracovat rozpočtový výhled po schválení rozpočtu v závazných ukazatelích na rok 
-2011 a dopracování rozpočtu v plné rozpočtové skladbě – termín do 14.3.2011
-a zastupitelstvo obce schvaluje předložený návrh projektové dokumentace na změnu - úprava a dostavba 
-víceúčelové budovy Obecního domu - vnitřní část 1. patro a předložený návrh na zpracování studie 
-(projektové dokumentace) se zahrnutím připomínky k zajištění průchodu k umyvárce a WC na přístavba 
-víceúčelové budovy Spolkového domu - hasičská zbrojnice a úpravu hřiště na malou kopanou 
-Ukládá starostovi obce projednat a objednat zpracování studie (projektové dokumentace) ve stanovených 
-termínech v souladu s termíny pro předkládání žádostí o dotace (předpoklad vyhlášení termínů jednotlivých 
-dotačních titulů a to: oprava a přístavba Spolkového domu /přístavba hasičská zbrojnice a oprava střechy obecního 
-úřadu/ - říjen 2011; obnova či přestavba hřiště na malou kopanou – duben 2011; úprava a dostavba Obecního domu 
-bude jako součást kompletní dokumentace před dokončením – prosinec 2011) – termín do 14.2.2011,
-2008,2,2011-01-17,Organizační a doplňující údaje k zápisu – diskuze – závěr,6,"Zastupitelstvo obce schvaluje v souladu s § 102, odst.2, písm. a) zákona č. 128/2000 Sb. o obcích, ve znění
-pozdějších předpisů stanovení kompetencí starosty obce k provádění jednotlivých rozpočtových opatření, 
-které jsou upřesněny ve vydaném Opatření č.1/2011",
-2009,2,2011-01-17,Organizační a doplňující údaje k zápisu – diskuze – závěr,6,"Zastupitelstvo obce schvaluje v souladu se zákonem č. 128/2000 Sb. o obcích, ve znění pozdějších předpisů
-stanovení kompetencí zastupitelstva obce a starosty obce ke schválení operací v majetkoprávních úkonech, 
-které jsou upřesněny ve vydaném Opatření č.1/2011",
-2010,2,2011-01-17,Organizační a doplňující údaje k zápisu – diskuze – závěr,6,"Zastupitelstvo obce schvaluje v souladu s §§ 84 a 102 zákona č. 128/2000 Sb. o obcích, ve znění pozdějších 
-předpisů stanovení kompetencí zastupitelstva obce a starosty obce ke schválení operací k dalším úkonům, 
-které jsou upřesněny ve vydaném Opatření č.1/2011",
-2011,2,2011-01-17,Organizační a doplňující údaje k zápisu – diskuze – závěr,6,"Zastupitelstvo obce schvaluje předložený návrh OZV č.1/2011 obce Výrava o poplatku za komunální odpad. 
-Ukládá starostovi obce zapracovat připomínky do přílohy č.2 k OZV č.1/2011 a zveřejnit OZV č.1/2011 na 
-fyzické a elektronické úřední desce v termínu od 18.1. do 28.2.2011 a schválenou vyhlášku odeslat na MV, 
-odbor dozoru a kontroly – termín do 14.2.2011
-Ukládá místostarostovi obce realizovat úkoly stanovené vyhláškou – kontrola 10.2.2011",
-2012,2,2011-01-17,Organizační a doplňující údaje k zápisu – diskuze – závěr,6,"Zastupitelstvo obce schvaluje předložený návrh Smlouvy o zajištění svozu a odstraňování komunálního
-odpadu s firmou Marius Pedersen a.s., včetně příloh na směsný odpad; separovaný odpad; nebezpečný 
-odpad a na rozměrný a těžký odpad. 
-Ukládá starostovi obce doplnit Smlouvu o předložené návrhy, předat firmě MP a odsouhlasenou Smlouvu 
-podepsat – kontrola 21.1.2011",
-2013,2,2011-01-17,Organizační a doplňující údaje k zápisu – diskuze – závěr,6,"Zastupitelstvo obce schvaluje výroční zprávu o poskytování informací za rok 2010 v souladu se zákonem
-č.106/1999 Sb., o svobodném přístupu k informacím.",
-2014,2,2011-01-17,Organizační a doplňující údaje k zápisu – diskuze – závěr,6,"Zastupitelstvo obce schvaluje roční zprávu o výsledcích finančních kontrol ve zkráceném rozsahu za rok 2010 
-v rozsahu vyhlášky č.416/2004 Sb., přílohy 1b.",
-2015,2,2011-01-17,Organizační a doplňující údaje k zápisu – diskuze – závěr,6,Zastupitelstvo obce schvaluje předložený požadavek do žádosti o dotaci z POV Dt 3 přes MČ na 2 ks branky
-na malou kopanou s možností s eventuální možností záměny za 2 ks radarového měření rychlosti.,
-2016,2,2011-01-17,Organizační a doplňující údaje k zápisu – diskuze – závěr,6,Zastupitelstvo obce schvaluje odměnu starostovi obce od 1.1.2011 v souladu s přílohou č.1 k nařízení vlády
-č.37/2003 Sb.,
-2017,2,2011-01-17,Organizační a doplňující údaje k zápisu – diskuze – závěr,6,Zastupitelstvo obce schvaluje Dodatek č.1 k dohodě o partnerství k projektu „technologické centrum ORP 
-HK“,
-3001,3,2011-02-14,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a
-schvaluje upravený program zasedání:",
-3002,3,2011-02-14,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Jiřího Hájka a sestavením zápisu p. Ing.
-Františka Schwarzera a pani Ivu Komínkovou,
-3003,3,2011-02-14,Hospodaření obce,3,Zastupitelstvo obce schvaluje předložený položkový rozpočet 2011 v plné rozpočtové skladbě a mění termín
-zpracování rozpočtového výhledu na konec měsíce listopadu 2011.,
-4001,4,2011-03-14,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a 
-schvaluje upravený program zasedání:",
-4002,4,2011-03-14,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Pavla Jurčíka a sestavením zápisu p. Ing.
-Františka Schwarzera a pani Mgr. Jitka Hrubá.,
-4003,4,2011-03-14,Hospodaření obce,3,Zastupitelstvo obce projednalo a schvaluje výsledek inventarizace stavu majetku a závazků ke dni
-31.12.2010 s výrokem „nebyly zjištěny žádné inventarizační rozdíly“. Údaje v plném znění zprávy o provedené 
-inventarizaci budou přiloženy k závěrečnému účtu za rok 2010.,
-4004,4,2011-03-14,Hospodaření obce,3,"Zastupitelstvo obce projednalo a schvaluje rozpočtová opatření č.1 až 3, v celkové rozpočtové změně 26,51
-tis. Kč.",
-4005,4,2011-03-14,Program rozvoje a obnovy venkova – obce Výravy,4,"Zastupitelstvo obce projednalo předložené cenové návrhy a
-rozhodlo upustit od další možné formy poptávkového řízení na zpracování technické dokumentace pro 
-územní a stavební řízení stavby chodníků IV/b. etapy a VII. etapy. Jedním z důvodu je dodržení termínů
-dalšího zpracování do závazného termínu podání žádosti o dotaci. Zpracovatele vybrat na základě 
-předložených cenových návrhů. 
-Schvaluje vybraného zpracovatele technické dokumentace „Dopravní a inženýrské stavby, Ing. Ivan Paulus, 
-kpt. Nálepky 652, Jaroměř“ za podmínek předložení nejnižší nabídkové ceny; navíc zpracování výkazu výměr; 
-celkové dobré reference. 
-Žádá starostu obce o zpřesnění zadání a předání vybranému zpracovateli – termín do 18.3.2011",
-4006,4,2011-03-14,Program rozvoje a obnovy venkova – obce Výravy,4,"Zastupitelstvo obce projednalo a schvaluje podat žádost o zrušení předkupního práva k pozemkům 1936/2; 
-1950/1; 1950/2 a 2144/10, formou „Potvrzení o zániku věcného práva předkupního“ na listu vlastnictví 
-60000, vlastnické právo ČR. 
-Žádá starostu obce vypracovat žádost a předat ji na KÚ HK a kopií informovat zpracovatele územního plánu 
-Ing.arch. Karla Novotného – kontrola 18.4.2011",
-4007,4,2011-03-14,Program rozvoje a obnovy venkova – obce Výravy,4,Zastupitelstvo obce projednalo a schvaluje vypracování projektové dokumentace pro trasu A vodovodní
-přípojky k zázemí sportoviště včetně vypracování návrhu na rozvod uvnitř a vně zázemí. 
-Žádá starostu obce informovat zpracovatele projektové dokumentace – kontrola 18.3.2011,
-5001,5,2011-04-18,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a
-schvaluje upravený program zasedání:",
-5002,5,2011-04-18,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Pavla Jurčíka a sestavením zápisu p. Ing. 
-Františka Schwarzera a paní Ivu Komínkovou.,
-5003,5,2011-04-18,Hospodaření obce,3,"Zastupitelstvo obce schválilo již projednaný a zveřejněný Závěrečný účet za rok 2010 „bez výhrad“, jehož 
-součástí je celoroční hospodaření obce; inventarizace majetku a závazků k 31.12.2010; zpráva o výsledku 
-přezkoumání hospodaření obce za rok 2010.",
-5004,5,2011-04-18,Hospodaření obce,3,"Zastupitelstvo obce projednalo a schvaluje rozpočtová opatření č.4 až 6, v celkové rozpočtové změně 1,94
-tis. Kč.",
-5005,5,2011-04-18,Program rozvoje a obnovy venkova – obce Výravy,4,"Zastupitelstvo obce bere na vědomí podanou informaci a souhlasí s návrhem Zřizovací listiny „Klubu
-sportovních a volnočasových aktivit“ a navrženým postupem zapojení občanů na rozvoji různých druhů 
-sportu a volnočasových aktivit. 
-Žádá předsedu komise SKSVA p. Jiřího Hájka o provedení průzkumu mezi občany s aktivním zapojením do 
-sportovních a volnočasových oddílů – termín do 30.4.2011
-Žádá starostu obce o provedení inovační změny v aktivním zapojení občanů, všech věkových kategorií, do 
-sportovních a volnočasových aktivit, formou výzvy zveřejněné na fyzické a elektronické úřední desce – 
-termín do 30.4.2011
-Zastupitelstvo obce schvaluje vypracování Žádosti o dotaci z PRV III.2.1.2. Občanské vybavení a služby – 
-hřiště na malou kopanou. 
-Ukládá starostovi obce vypracovat Žádost o dotaci z PRV a v termínu pro příjem Žádostí ji předložit 
-v přejímací kanceláři MAS nad Orlicí – kontrola 30.5.2011",
-5006,5,2011-04-18,Program rozvoje a obnovy venkova – obce Výravy,4,Zastupitelstvo obce projednalo nově podanou informaci a schválilo podepsání Dohody o poskytnutí dotace
-z PRV a souhlasí s podepsáním smlouvy o dílo se ZDV Výrava. 
-Žádá starostu obce podepsat Dohodu – termín 20.4.2011,
-5007,5,2011-04-18,Program rozvoje a obnovy venkova – obce Výravy,4,Zastupitelstvo obce bere na vědomí předloženou informaci a souhlasí s dohodnutými pozměněnými 
-podmínkami o výpůjčce velkoprostorového stanu a schvaluje smlouvu o výpůjčce s MČ 
-Ukládá starostovi obce podepsat smlouvu o výpůjčce s půjčitelem MČ – termín 20.4.2011,
-6001,6,2011-05-09,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a
-schvaluje upravený program zasedání:",
-6002,6,2011-05-09,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Pavla Jurčíka a sestavením zápisu p. Ing. 
-Františka Schwarzera a paní Ivu Komínkovou.,
-6003,6,2011-05-09,Program rozvoje a obnovy venkova – obce Výravy,4,"Zastupitelstvo obce rozpečetilo předané nabídky, projednalo, vyhodnotilo výběrové řízení a schválilo
-vybraného dodavatele PEKASS a.s., středisko Rychnov nad Kněžnou, Javornická 1188, Rychnov nad Kněžnou 
-Žádá starostu obce informovat uchazeče o výsledku výběrového řízení – termín do 13.5.2011",
-7001,7,2011-06-15,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a
-schvaluje program zasedání:",
-7002,7,2011-06-15,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Jiřího Hájka a sestavením zápisu p. Ing.
-Františka Schwarzera a paní Ivu Komínkovou.,
-7003,7,2011-06-15,Program rozvoje a obnovy venkova – obce Výravy,4,"Zastupitelstvo obce schvaluje poskytnutí příspěvku MAS nad Orlicí ve výši 3 % z obdržené dotace na Zázemí
-sportoviště tj. 10 451,-Kč 
-Ukládá starostovi obce uvedený příspěvek předložit k proplacení – termín 15.6.2011",
-7004,7,2011-06-15,Program rozvoje a obnovy venkova – obce Výravy,4,"Zastupitelstvo obce bere na vědomí informaci o technické a projektové přípravě stavby IV/b. etapy a VII.
-etapy zpevněných chodníků po obci 
-
-Pověřuje starostu obce, který vykonává pravomoc rady obce, dle § 102, odst. (4), zákona o obcích 
-
-- uzavřít a podepsat Smlouvu o právu provést stavbu na p.č. 2144/10 pro zjednodušené územní a 
-stavební řízení s ÚZSVM; 
-
-- vypracovat a uzavřít Smlouvu o právu provést stavbu pro zjednodušené územní a stavební řízení 
-s vlastníky pozemků p. Zdeněk Panenka p.č. 2144/1; Vladimír a Iva Panenkovi p.č. 2144/9",
-8001,8,2011-07-18,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a
-schvaluje program zasedání:",
-8002,8,2011-07-18,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Pavla Vejmana a sestavením zápisu p.
-Ing. Františka Schwarzera a paní Ivu Komínkovou.,
-8003,8,2011-07-18,Program rozvoje a obnovy venkova – obce Výravy,4,Zastupitelstvo obce schvaluje cenovou nabídku podanou paní Sinkoviczovou na obnovu zeleně na vybraných
-veřejných prostranství obce. 
-Žádá starostu obce informovat o výsledku cenové nabídky paní Sinkoviczovou – termín 19.7.2011,
-8004,8,2011-07-18,Program rozvoje a obnovy venkova – obce Výravy,4,"Zastupitelstvo obce schvaluje podání žádosti na Obecní úřad ve Výravě, jako věcně příslušný silniční správní
-úřad o zařazení komunikací – ostatních ploch, které jsou současně ve vlastnictví ČR, do kategorie místních 
-komunikací – parc. čísel 2132; 1936/2 a 2429. 
-Žádá starostu obce projednat na nadřízeném silničním správním úřadu a to hlavně s Krajským úřadem u 
-pozemku 1936/2, který je zapsán jako silnice - termín kontroly 19.8.2011
-Žádá starostu obce o zajištění převodu dle doporučeného postupu – termín kontroly 19.8.2011",
-9001,9,2011-09-12,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a
-schvaluje program zasedání:",
-9002,9,2011-09-12,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Pavla Jurčíka a sestavením zápisu p. Ing.
-Františka Schwarzera a paní Ivu Komínkovou.,
+2007,2,2011-01-17,Program rozvoje a obnovy venkova –obce Výravy,5,Zastupitelstvo obce bere na vědomí informaci o zařazení investičních a neinvestičních akcí a doporučujezměnit rozpočtový výhled na léta 2011÷13 v souladu s předloženým návrhem. Ukládá starostovi obce zpracovat rozpočtový výhled po schválení rozpočtu v závazných ukazatelích na rok 2011 a dopracování rozpočtu v plné rozpočtové skladbě – termín do 14.3.2011a zastupitelstvo obce schvaluje předložený návrh projektové dokumentace na změnu - úprava a dostavba víceúčelové budovy Obecního domu - vnitřní část 1. patro a předložený návrh na zpracování studie (projektové dokumentace) se zahrnutím připomínky k zajištění průchodu k umyvárce a WC na přístavba víceúčelové budovy Spolkového domu - hasičská zbrojnice a úpravu hřiště na malou kopanou Ukládá starostovi obce projednat a objednat zpracování studie (projektové dokumentace) ve stanovených termínech v souladu s termíny pro předkládání žádostí o dotace (předpoklad vyhlášení termínů jednotlivých dotačních titulů a to: oprava a přístavba Spolkového domu /přístavba hasičská zbrojnice a oprava střechy obecního úřadu/ - říjen 2011; obnova či přestavba hřiště na malou kopanou – duben 2011; úprava a dostavba Obecního domu bude jako součást kompletní dokumentace před dokončením – prosinec 2011) – termín do 14.2.2011,
+2008,2,2011-01-17,Organizační a doplňující údaje k zápisu – diskuze – závěr,6,"Zastupitelstvo obce schvaluje v souladu s § 102, odst.2, písm. a) zákona č. 128/2000 Sb. o obcích, ve zněnípozdějších předpisů stanovení kompetencí starosty obce k provádění jednotlivých rozpočtových opatření, které jsou upřesněny ve vydaném Opatření č.1/2011",
+2009,2,2011-01-17,Organizační a doplňující údaje k zápisu – diskuze – závěr,6,"Zastupitelstvo obce schvaluje v souladu se zákonem č. 128/2000 Sb. o obcích, ve znění pozdějších předpisůstanovení kompetencí zastupitelstva obce a starosty obce ke schválení operací v majetkoprávních úkonech, které jsou upřesněny ve vydaném Opatření č.1/2011",
+2010,2,2011-01-17,Organizační a doplňující údaje k zápisu – diskuze – závěr,6,"Zastupitelstvo obce schvaluje v souladu s §§ 84 a 102 zákona č. 128/2000 Sb. o obcích, ve znění pozdějších předpisů stanovení kompetencí zastupitelstva obce a starosty obce ke schválení operací k dalším úkonům, které jsou upřesněny ve vydaném Opatření č.1/2011",
+2011,2,2011-01-17,Organizační a doplňující údaje k zápisu – diskuze – závěr,6,"Zastupitelstvo obce schvaluje předložený návrh OZV č.1/2011 obce Výrava o poplatku za komunální odpad. Ukládá starostovi obce zapracovat připomínky do přílohy č.2 k OZV č.1/2011 a zveřejnit OZV č.1/2011 na fyzické a elektronické úřední desce v termínu od 18.1. do 28.2.2011 a schválenou vyhlášku odeslat na MV, odbor dozoru a kontroly – termín do 14.2.2011Ukládá místostarostovi obce realizovat úkoly stanovené vyhláškou – kontrola 10.2.2011",
+2012,2,2011-01-17,Organizační a doplňující údaje k zápisu – diskuze – závěr,6,"Zastupitelstvo obce schvaluje předložený návrh Smlouvy o zajištění svozu a odstraňování komunálníhoodpadu s firmou Marius Pedersen a.s., včetně příloh na směsný odpad; separovaný odpad; nebezpečný odpad a na rozměrný a těžký odpad. Ukládá starostovi obce doplnit Smlouvu o předložené návrhy, předat firmě MP a odsouhlasenou Smlouvu podepsat – kontrola 21.1.2011",
+2013,2,2011-01-17,Organizační a doplňující údaje k zápisu – diskuze – závěr,6,"Zastupitelstvo obce schvaluje výroční zprávu o poskytování informací za rok 2010 v souladu se zákonemč.106/1999 Sb., o svobodném přístupu k informacím.",
+2014,2,2011-01-17,Organizační a doplňující údaje k zápisu – diskuze – závěr,6,"Zastupitelstvo obce schvaluje roční zprávu o výsledcích finančních kontrol ve zkráceném rozsahu za rok 2010 v rozsahu vyhlášky č.416/2004 Sb., přílohy 1b.",
+2015,2,2011-01-17,Organizační a doplňující údaje k zápisu – diskuze – závěr,6,Zastupitelstvo obce schvaluje předložený požadavek do žádosti o dotaci z POV Dt 3 přes MČ na 2 ks brankyna malou kopanou s možností s eventuální možností záměny za 2 ks radarového měření rychlosti.,
+2016,2,2011-01-17,Organizační a doplňující údaje k zápisu – diskuze – závěr,6,Zastupitelstvo obce schvaluje odměnu starostovi obce od 1.1.2011 v souladu s přílohou č.1 k nařízení vládyč.37/2003 Sb.,
+2017,2,2011-01-17,Organizační a doplňující údaje k zápisu – diskuze – závěr,6,Zastupitelstvo obce schvaluje Dodatek č.1 k dohodě o partnerství k projektu „technologické centrum ORP HK“,
+3001,3,2011-02-14,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) aschvaluje upravený program zasedání:",
+3002,3,2011-02-14,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Jiřího Hájka a sestavením zápisu p. Ing.Františka Schwarzera a pani Ivu Komínkovou,
+3003,3,2011-02-14,Hospodaření obce,3,Zastupitelstvo obce schvaluje předložený položkový rozpočet 2011 v plné rozpočtové skladbě a mění termínzpracování rozpočtového výhledu na konec měsíce listopadu 2011.,
+4001,4,2011-03-14,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvaluje upravený program zasedání:",
+4002,4,2011-03-14,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Pavla Jurčíka a sestavením zápisu p. Ing.Františka Schwarzera a pani Mgr. Jitka Hrubá.,
+4003,4,2011-03-14,Hospodaření obce,3,Zastupitelstvo obce projednalo a schvaluje výsledek inventarizace stavu majetku a závazků ke dni31.12.2010 s výrokem „nebyly zjištěny žádné inventarizační rozdíly“. Údaje v plném znění zprávy o provedené inventarizaci budou přiloženy k závěrečnému účtu za rok 2010.,
+4004,4,2011-03-14,Hospodaření obce,3,"Zastupitelstvo obce projednalo a schvaluje rozpočtová opatření č.1 až 3, v celkové rozpočtové změně 26,51tis. Kč.",
+4005,4,2011-03-14,Program rozvoje a obnovy venkova – obce Výravy,4,"Zastupitelstvo obce projednalo předložené cenové návrhy arozhodlo upustit od další možné formy poptávkového řízení na zpracování technické dokumentace pro územní a stavební řízení stavby chodníků IV/b. etapy a VII. etapy. Jedním z důvodu je dodržení termínůdalšího zpracování do závazného termínu podání žádosti o dotaci. Zpracovatele vybrat na základě předložených cenových návrhů. Schvaluje vybraného zpracovatele technické dokumentace „Dopravní a inženýrské stavby, Ing. Ivan Paulus, kpt. Nálepky 652, Jaroměř“ za podmínek předložení nejnižší nabídkové ceny; navíc zpracování výkazu výměr; celkové dobré reference. Žádá starostu obce o zpřesnění zadání a předání vybranému zpracovateli – termín do 18.3.2011",
+4006,4,2011-03-14,Program rozvoje a obnovy venkova – obce Výravy,4,"Zastupitelstvo obce projednalo a schvaluje podat žádost o zrušení předkupního práva k pozemkům 1936/2; 1950/1; 1950/2 a 2144/10, formou „Potvrzení o zániku věcného práva předkupního“ na listu vlastnictví 60000, vlastnické právo ČR. Žádá starostu obce vypracovat žádost a předat ji na KÚ HK a kopií informovat zpracovatele územního plánu Ing.arch. Karla Novotného – kontrola 18.4.2011",
+4007,4,2011-03-14,Program rozvoje a obnovy venkova – obce Výravy,4,Zastupitelstvo obce projednalo a schvaluje vypracování projektové dokumentace pro trasu A vodovodnípřípojky k zázemí sportoviště včetně vypracování návrhu na rozvod uvnitř a vně zázemí. Žádá starostu obce informovat zpracovatele projektové dokumentace – kontrola 18.3.2011,
+5001,5,2011-04-18,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) aschvaluje upravený program zasedání:",
+5002,5,2011-04-18,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Pavla Jurčíka a sestavením zápisu p. Ing. Františka Schwarzera a paní Ivu Komínkovou.,
+5003,5,2011-04-18,Hospodaření obce,3,"Zastupitelstvo obce schválilo již projednaný a zveřejněný Závěrečný účet za rok 2010 „bez výhrad“, jehož součástí je celoroční hospodaření obce; inventarizace majetku a závazků k 31.12.2010; zpráva o výsledku přezkoumání hospodaření obce za rok 2010.",
+5004,5,2011-04-18,Hospodaření obce,3,"Zastupitelstvo obce projednalo a schvaluje rozpočtová opatření č.4 až 6, v celkové rozpočtové změně 1,94tis. Kč.",
+5005,5,2011-04-18,Program rozvoje a obnovy venkova – obce Výravy,4,"Zastupitelstvo obce bere na vědomí podanou informaci a souhlasí s návrhem Zřizovací listiny „Klubusportovních a volnočasových aktivit“ a navrženým postupem zapojení občanů na rozvoji různých druhů sportu a volnočasových aktivit. Žádá předsedu komise SKSVA p. Jiřího Hájka o provedení průzkumu mezi občany s aktivním zapojením do sportovních a volnočasových oddílů – termín do 30.4.2011Žádá starostu obce o provedení inovační změny v aktivním zapojení občanů, všech věkových kategorií, do sportovních a volnočasových aktivit, formou výzvy zveřejněné na fyzické a elektronické úřední desce – termín do 30.4.2011Zastupitelstvo obce schvaluje vypracování Žádosti o dotaci z PRV III.2.1.2. Občanské vybavení a služby – hřiště na malou kopanou. Ukládá starostovi obce vypracovat Žádost o dotaci z PRV a v termínu pro příjem Žádostí ji předložit v přejímací kanceláři MAS nad Orlicí – kontrola 30.5.2011",
+5006,5,2011-04-18,Program rozvoje a obnovy venkova – obce Výravy,4,Zastupitelstvo obce projednalo nově podanou informaci a schválilo podepsání Dohody o poskytnutí dotacez PRV a souhlasí s podepsáním smlouvy o dílo se ZDV Výrava. Žádá starostu obce podepsat Dohodu – termín 20.4.2011,
+5007,5,2011-04-18,Program rozvoje a obnovy venkova – obce Výravy,4,Zastupitelstvo obce bere na vědomí předloženou informaci a souhlasí s dohodnutými pozměněnými podmínkami o výpůjčce velkoprostorového stanu a schvaluje smlouvu o výpůjčce s MČ Ukládá starostovi obce podepsat smlouvu o výpůjčce s půjčitelem MČ – termín 20.4.2011,
+6001,6,2011-05-09,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) aschvaluje upravený program zasedání:",
+6002,6,2011-05-09,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Pavla Jurčíka a sestavením zápisu p. Ing. Františka Schwarzera a paní Ivu Komínkovou.,
+6003,6,2011-05-09,Program rozvoje a obnovy venkova – obce Výravy,4,"Zastupitelstvo obce rozpečetilo předané nabídky, projednalo, vyhodnotilo výběrové řízení a schválilovybraného dodavatele PEKASS a.s., středisko Rychnov nad Kněžnou, Javornická 1188, Rychnov nad Kněžnou Žádá starostu obce informovat uchazeče o výsledku výběrového řízení – termín do 13.5.2011",
+7001,7,2011-06-15,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) aschvaluje program zasedání:",
+7002,7,2011-06-15,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Jiřího Hájka a sestavením zápisu p. Ing.Františka Schwarzera a paní Ivu Komínkovou.,
+7003,7,2011-06-15,Program rozvoje a obnovy venkova – obce Výravy,4,"Zastupitelstvo obce schvaluje poskytnutí příspěvku MAS nad Orlicí ve výši 3 % z obdržené dotace na Zázemísportoviště tj. 10 451,-Kč Ukládá starostovi obce uvedený příspěvek předložit k proplacení – termín 15.6.2011",
+7004,7,2011-06-15,Program rozvoje a obnovy venkova – obce Výravy,4,"Zastupitelstvo obce bere na vědomí informaci o technické a projektové přípravě stavby IV/b. etapy a VII.etapy zpevněných chodníků po obci Pověřuje starostu obce, který vykonává pravomoc rady obce, dle § 102, odst. (4), zákona o obcích - uzavřít a podepsat Smlouvu o právu provést stavbu na p.č. 2144/10 pro zjednodušené územní a stavební řízení s ÚZSVM; - vypracovat a uzavřít Smlouvu o právu provést stavbu pro zjednodušené územní a stavební řízení s vlastníky pozemků p. Zdeněk Panenka p.č. 2144/1; Vladimír a Iva Panenkovi p.č. 2144/9",
+8001,8,2011-07-18,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) aschvaluje program zasedání:",
+8002,8,2011-07-18,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Pavla Vejmana a sestavením zápisu p.Ing. Františka Schwarzera a paní Ivu Komínkovou.,
+8003,8,2011-07-18,Program rozvoje a obnovy venkova – obce Výravy,4,Zastupitelstvo obce schvaluje cenovou nabídku podanou paní Sinkoviczovou na obnovu zeleně na vybranýchveřejných prostranství obce. Žádá starostu obce informovat o výsledku cenové nabídky paní Sinkoviczovou – termín 19.7.2011,
+8004,8,2011-07-18,Program rozvoje a obnovy venkova – obce Výravy,4,"Zastupitelstvo obce schvaluje podání žádosti na Obecní úřad ve Výravě, jako věcně příslušný silniční správníúřad o zařazení komunikací – ostatních ploch, které jsou současně ve vlastnictví ČR, do kategorie místních komunikací – parc. čísel 2132; 1936/2 a 2429. Žádá starostu obce projednat na nadřízeném silničním správním úřadu a to hlavně s Krajským úřadem u pozemku 1936/2, který je zapsán jako silnice - termín kontroly 19.8.2011Žádá starostu obce o zajištění převodu dle doporučeného postupu – termín kontroly 19.8.2011",
+9001,9,2011-09-12,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) aschvaluje program zasedání:",
+9002,9,2011-09-12,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Pavla Jurčíka a sestavením zápisu p. Ing.Františka Schwarzera a paní Ivu Komínkovou.,
 9003,9,2011-09-12,Hospodaření obce,3,Zastupitelstvo obce schvaluje rozpočtová opatření č. 15; 16 a 17,
-9004,9,2011-09-12,Program rozvoje a obnovy venkova – obce Výravy,4,"Zastupitelstvo obce bere na vědomí informaci o hodnocení nabídek a schvaluje s vybraného dodavatele
-STAVIBET s.r.o., České Meziříčí, na projekt „Obnova hřbitovní zdi, chodníků a stavba přístřešku kolumbária“. 
-Žádá starostu obce o podání informace účastníkům výběrového řízení a podepsání Smlouvy o dílo 
-s vybraným dodavatelem – kontrola září 2011",
-9005,9,2011-09-12,Organizační a doplňující údaje k zápisu – diskuze – závěr,6,Zastupitelstvo obce po projednání schvaluje Povodňový plán obce Výravy 
-Žádá členy povodňové komise obce o přijetí a podepsání jmenovacího dekretu – termín září 2011
-Žádá starostu obce o vyjádření Povodí Labe k povodňovému plánu obce – termín září 2011
-Žádá starostu obce o vydání potvrzení souladu povodňového plánu obce Výrava s povodňovým plánem ORP 
-– termín říjen 2011
-Žádá místostarostu obce o zveřejnění jmenovacího dekretu na web obce – termín září 2011,
-9006,9,2011-09-12,Organizační a doplňující údaje k zápisu – diskuze – závěr,6,Zastupitelstvo obce po projednání schvaluje dodatek č.4/11 – souhrnný sazebník – ceník pronájmů pozemků
-ve vlastnictví obce.,
-10001,10,2011-10-13,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a
-schvaluje program zasedání:",
-10002,10,2011-10-13,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje zapisovatelkou paní Ivu Komínkovou; ověřovateli zápisu p. Václava Šípka a p.
-Jiřího Hájka a pověřuje sestavením usnesení paní Mgr. Jitku Hrubou a pana Pavla Vejmana,
-10003,10,2011-10-13,Řešení operativních úkolů zastupitelstva obce,2,"Zastupitelstvo obce bere na vědomí podanou informaci o smlouvách o dílo na „Opravu stropu v čp. 104“
-firmy Stavibet 
-
-pověřuje starostu obce k projednání připomínek zastupitelstva obce k položkovému rozpočtu a smlouvy o 
-dílo 
-
-schvaluje předaný návrh smlouvy o dílo na výkon autorského dozoru 
-
-Ukládá starostovi obce, po projednání připomínek, uzavřít smlouvu – termín do 21.10.2011",
-10004,10,2011-10-13,Řešení operativních úkolů zastupitelstva obce,2,"Zastupitelstvo obce projednalo a schválilo předložený cenový návrh na rekonstrukci oplocení u čp. 104 
-(pískování a úprava kovaného plotu; část pletivo a sloupky kovové), podezdívka a sloupky, vrata, oprava 
-schodů a ostatní úpravy okolí Obecního domu firmou STAVIBET s.r.o.České Meziříčí. 
-
-a schválilo předložený návrh na odprodej plotových bloků 
-
-ukládá starostovi obce, po projednání připomínek, uzavřít smlouvu s firmou Stavibet s.r.o. České Meziříčí –
-termín do 21.10.2011",
-10005,10,2011-10-13,Řešení operativních úkolů zastupitelstva obce,2,Zastupitelstvo obce projednalo a schválilo předložený cenový návrh na úpravu veřejného prostranství okolí
-Obecního domu (na pokládku betonových dlažeb před budovou Obecního domu a přemístění pomníku 
-padlých v 1. a 2. světové válce) firmou STAVIBET s.r.o.České Meziříčí.,
-10006,10,2011-10-13,Řešení operativních úkolů zastupitelstva obce,2,Zastupitelstvo obce projednalo a schválilo předložené mimorozpočtové náklady na zázemí sportoviště
-
-Ukládá předsedovi KV provést fyzickou – pohledovou kontrolu stavby - Termín: do 27.10.2011 
-
-ukládá předsedovi KV komplexní kontrolu provedených prací dle předložených faktur na zázemí sportoviště 
-- termín: do 30.11.2011,
-10007,10,2011-10-13,Řešení operativních úkolů zastupitelstva obce,2,"Zastupitelstvo obce projednalo a schválilo předloženou smlouvu o dílo na „Opravu hřbitovní zdi a chodníku,
-stavba přístřešku kolumbária“ 
-
-pověřuje starostu obce, po projednání připomínek, uzavření smlouvy o dílo – termín do 21.10.2011",
+9004,9,2011-09-12,Program rozvoje a obnovy venkova – obce Výravy,4,"Zastupitelstvo obce bere na vědomí informaci o hodnocení nabídek a schvaluje s vybraného dodavateleSTAVIBET s.r.o., České Meziříčí, na projekt „Obnova hřbitovní zdi, chodníků a stavba přístřešku kolumbária“. Žádá starostu obce o podání informace účastníkům výběrového řízení a podepsání Smlouvy o dílo s vybraným dodavatelem – kontrola září 2011",
+9005,9,2011-09-12,Organizační a doplňující údaje k zápisu – diskuze – závěr,6,Zastupitelstvo obce po projednání schvaluje Povodňový plán obce Výravy Žádá členy povodňové komise obce o přijetí a podepsání jmenovacího dekretu – termín září 2011Žádá starostu obce o vyjádření Povodí Labe k povodňovému plánu obce – termín září 2011Žádá starostu obce o vydání potvrzení souladu povodňového plánu obce Výrava s povodňovým plánem ORP – termín říjen 2011Žádá místostarostu obce o zveřejnění jmenovacího dekretu na web obce – termín září 2011,
+9006,9,2011-09-12,Organizační a doplňující údaje k zápisu – diskuze – závěr,6,Zastupitelstvo obce po projednání schvaluje dodatek č.4/11 – souhrnný sazebník – ceník pronájmů pozemkůve vlastnictví obce.,
+10001,10,2011-10-13,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) aschvaluje program zasedání:",
+10002,10,2011-10-13,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje zapisovatelkou paní Ivu Komínkovou; ověřovateli zápisu p. Václava Šípka a p.Jiřího Hájka a pověřuje sestavením usnesení paní Mgr. Jitku Hrubou a pana Pavla Vejmana,
+10003,10,2011-10-13,Řešení operativních úkolů zastupitelstva obce,2,"Zastupitelstvo obce bere na vědomí podanou informaci o smlouvách o dílo na „Opravu stropu v čp. 104“firmy Stavibet pověřuje starostu obce k projednání připomínek zastupitelstva obce k položkovému rozpočtu a smlouvy o dílo schvaluje předaný návrh smlouvy o dílo na výkon autorského dozoru Ukládá starostovi obce, po projednání připomínek, uzavřít smlouvu – termín do 21.10.2011",
+10004,10,2011-10-13,Řešení operativních úkolů zastupitelstva obce,2,"Zastupitelstvo obce projednalo a schválilo předložený cenový návrh na rekonstrukci oplocení u čp. 104 (pískování a úprava kovaného plotu; část pletivo a sloupky kovové), podezdívka a sloupky, vrata, oprava schodů a ostatní úpravy okolí Obecního domu firmou STAVIBET s.r.o.České Meziříčí. a schválilo předložený návrh na odprodej plotových bloků ukládá starostovi obce, po projednání připomínek, uzavřít smlouvu s firmou Stavibet s.r.o. České Meziříčí –termín do 21.10.2011",
+10005,10,2011-10-13,Řešení operativních úkolů zastupitelstva obce,2,Zastupitelstvo obce projednalo a schválilo předložený cenový návrh na úpravu veřejného prostranství okolíObecního domu (na pokládku betonových dlažeb před budovou Obecního domu a přemístění pomníku padlých v 1. a 2. světové válce) firmou STAVIBET s.r.o.České Meziříčí.,
+10006,10,2011-10-13,Řešení operativních úkolů zastupitelstva obce,2,Zastupitelstvo obce projednalo a schválilo předložené mimorozpočtové náklady na zázemí sportovištěUkládá předsedovi KV provést fyzickou – pohledovou kontrolu stavby - Termín: do 27.10.2011 ukládá předsedovi KV komplexní kontrolu provedených prací dle předložených faktur na zázemí sportoviště - termín: do 30.11.2011,
+10007,10,2011-10-13,Řešení operativních úkolů zastupitelstva obce,2,"Zastupitelstvo obce projednalo a schválilo předloženou smlouvu o dílo na „Opravu hřbitovní zdi a chodníku,stavba přístřešku kolumbária“ pověřuje starostu obce, po projednání připomínek, uzavření smlouvy o dílo – termín do 21.10.2011",
 11001,11,2011-10-17,Řešení operativních úkolů zastupitelstva obce,2,Zastupitelstvo obce schvaluje výběr dodavatele na kuchyňskou a pracovní linku na míru pro obecní dům.,
-12001,12,2012-01-16,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvaluje
-program zasedání:",
-12002,12,2012-01-16,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje zapisovatelkou paní Ivu Komínkovou; ověřovateli zápisu p. Václava Šípka a p. Jiřího Hájka
-a pověřuje sestavením usnesení pana Pavla Vejmana.,
-12003,12,2012-01-16,Řešení operativních úkolů zastupitelstva obce.,2,"Zastupitelstvo obce po projednání schvaluje Přílohu č.2 k OZV č.1/2011 – poplatek za komunální odpad pro kalendářní
-rok 2012, která nabývá účinnosti následný den po schválení. 
-
-Žádá místostarostu obce o zveřejnění schválené přílohy č.2 na fyzické a elektronické úřední desce. 
-
-Žádá místostarostu obce o zajištění výběru poplatku a předání tomu odpovídající známky na svoz – termín od
-17.1.2012 do 31.1.2012. Informaci o výběru byla zveřejněna veřejným rozhlasem v termínu od 2.1. do 16.1.2012.",
-12004,12,2012-01-16,Řešení operativních úkolů zastupitelstva obce.,2,"Zastupitelstvo obce bere na vědomí podanou informaci o zpracované Žádosti o poskytnutí dotace na „Výstavba areálu 
-pro sport a volnočasové aktivity – hřiště na malou kopanou“ včetně povinných a nepovinných příloh. 
-
-Schvaluje předložený návrh Žádosti o poskytnutí dotace na rok 2012 z podprogramu 117D815 – podpora obnovy a 
-rozvoje venkova, dotační titul č.2 Ministerstva pro místní rozvoj na „Výstavba areálu pro sport a volnočasové aktivity – 
-hřiště na malou kopanou“, včetně povinných a nepovinných příloh. 
-
-Žádá starostu obce vyplnění elektronického formuláře Žádosti o poskytnutí dotace, uložení dat a následné vytištění. 
-
-Pověřuje starostu obce listinnou podobu Žádosti podepsat a doručit spolu se všemi přílohami do podatelny 
-Ministerstva pro místní rozvoj ve lhůtě stanovené pro doručování Žádostí.",
-12005,12,2012-01-16,Řešení operativních úkolů zastupitelstva obce.,2,"Zastupitelstvo obce bere na vědomí podanou informaci o návrhu na zpracovaní Žádosti o dotaci na „Rekonstrukci
-veřejného rozhlasu v obci Výrava a místní části Dolní Černilov“ 
-
-- z rozpočtu Královéhradeckého kraje z podprogramu Protipovodňová ochrana; termín výzvy od 1.2. do 
-9.3.2012 do které lze mj. zahrnout vybudování měřících a hlásných míst, 
-
-- z OPŽP v oblasti podpory 1.3.1. Zlepšování systému povodňové služby a preventivní protipovodňové ochrany 
-zaměřené na systémy předpovědní a hlásné služby; předpokládaný termín výzvy leden ÷ březen 2012. 
-
-Žádá členy zastupitelstva obce a jejich prostřednictvím občany o předání příslušných podkladů o povodních za 
-posledních 20 let v daném území vč. zapůjčení fotodokumentace aj. – termín do 15.2.2012
-
-Žádá starostu obce o vypracování Žádostí včetně požadovaných povinných a nepovinných příloh. 
-
-Schvaluje podání Žádostí o dotaci na „Rekonstrukci veřejného rozhlasu v obci Výrava a místní části Dolní Černilov“ 
-
-Pověřuje starostu obce listinnou podobu Žádosti podepsat a doručit spolu se všemi přílohami do místa příjmu, ve lhůtě 
-stanovené pro doručování Žádostí. Současně předat, pokud je požadována, podobu Žádosti v elektronické podobě.",
-12006,12,2012-01-16,Řešení operativních úkolů zastupitelstva obce.,2,Zastupitelstvo obce schvaluje předložený návrh zpracované Výroční zprávy o poskytování informací za rok 2011. 
-
- Pověřuje starostu obce listinnou podobu Výroční zprávy podepsat. 
-
-Žádá místostarostu obce zveřejnit Výroční zprávu na webové stránky do „ .. veřejná zpráva/dokumenty“ – termín od 
-17.1.2012 a zařadit Výroční zprávu na webové stránky do „ ../veřejná správa/základní informace – pol.16“,
-12007,12,2012-01-16,Řešení operativních úkolů zastupitelstva obce.,2,Zastupitelstvo obce schvaluje předložený návrh zpracované Roční zprávy o výsledcích finančních kontrol za rok 2011 a
-přílohy č.2 k vyhlášce č.416/2004 Sb. 
-
-Pověřuje starostu obce listinnou podobu Roční zprávy a přílohu č.2 podepsat a odeslat dle pokynů KÚ KHK. 
-
-Žádá místostarostu obce zveřejnit Roční zprávu na webové stránky do „ .. veřejná zpráva/dokumenty“ – termín od 
-17.1.2012,
-12008,12,2012-01-16,Řešení operativních úkolů zastupitelstva obce.,2,Zastupitelstvo obce schvaluje předložený návrh Smlouvy o bezúplatném převodu nemovitostí bez omezujících 
-podmínek č. UZSVM/H/27982/2011-HMSU do vlastnictví obce Výrava.
-
-Pověřuje starostu obce listinnou podobu Smlouvy podepsat včetně doložky a odeslat dle pokynů ÚZSVM.,
-12009,12,2012-01-16,Řešení operativních úkolů zastupitelstva obce.,2,"Zastupitelstvo obce projednalo a schvaluje rozpočtová opatření č. 22 – ke konci roku 2011, v celkové rozpočtové změně
-v příjmech – 331,42 tis. Kč a ve výdajích + 809,24 tis. Kč a RO č. 23 a 24",
-12010,12,2012-01-16,Řešení operativních úkolů zastupitelstva obce.,2,Zastupitelstvo obce projednalo a schvaluje výsledek inventarizace stavu majetku a závazků ke dni 31.12.2011 
-s výrokem „nebyly zjištěny žádné inventarizační rozdíly“. Údaje v plném znění zprávy o provedené inventarizaci budou 
-přiloženy k závěrečnému účtu za rok 2011.,
-13001,13,2012-02-20,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvaluje
-program zasedání:",
-13002,13,2012-02-20,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Pavla Vejmana; sestavením zápisu p. Ing. Františka
-Schwarzera a paní Ivu Komínkovou; sestavením návrhu usnesení paní Mgr. Jitku Hrubou.,
+12001,12,2012-01-16,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvalujeprogram zasedání:",
+12002,12,2012-01-16,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje zapisovatelkou paní Ivu Komínkovou; ověřovateli zápisu p. Václava Šípka a p. Jiřího Hájkaa pověřuje sestavením usnesení pana Pavla Vejmana.,
+12003,12,2012-01-16,Řešení operativních úkolů zastupitelstva obce.,2,"Zastupitelstvo obce po projednání schvaluje Přílohu č.2 k OZV č.1/2011 – poplatek za komunální odpad pro kalendářnírok 2012, která nabývá účinnosti následný den po schválení. Žádá místostarostu obce o zveřejnění schválené přílohy č.2 na fyzické a elektronické úřední desce. Žádá místostarostu obce o zajištění výběru poplatku a předání tomu odpovídající známky na svoz – termín od17.1.2012 do 31.1.2012. Informaci o výběru byla zveřejněna veřejným rozhlasem v termínu od 2.1. do 16.1.2012.",
+12004,12,2012-01-16,Řešení operativních úkolů zastupitelstva obce.,2,"Zastupitelstvo obce bere na vědomí podanou informaci o zpracované Žádosti o poskytnutí dotace na „Výstavba areálu pro sport a volnočasové aktivity – hřiště na malou kopanou“ včetně povinných a nepovinných příloh. Schvaluje předložený návrh Žádosti o poskytnutí dotace na rok 2012 z podprogramu 117D815 – podpora obnovy a rozvoje venkova, dotační titul č.2 Ministerstva pro místní rozvoj na „Výstavba areálu pro sport a volnočasové aktivity – hřiště na malou kopanou“, včetně povinných a nepovinných příloh. Žádá starostu obce vyplnění elektronického formuláře Žádosti o poskytnutí dotace, uložení dat a následné vytištění. Pověřuje starostu obce listinnou podobu Žádosti podepsat a doručit spolu se všemi přílohami do podatelny Ministerstva pro místní rozvoj ve lhůtě stanovené pro doručování Žádostí.",
+12005,12,2012-01-16,Řešení operativních úkolů zastupitelstva obce.,2,"Zastupitelstvo obce bere na vědomí podanou informaci o návrhu na zpracovaní Žádosti o dotaci na „Rekonstrukciveřejného rozhlasu v obci Výrava a místní části Dolní Černilov“ - z rozpočtu Královéhradeckého kraje z podprogramu Protipovodňová ochrana; termín výzvy od 1.2. do 9.3.2012 do které lze mj. zahrnout vybudování měřících a hlásných míst, - z OPŽP v oblasti podpory 1.3.1. Zlepšování systému povodňové služby a preventivní protipovodňové ochrany zaměřené na systémy předpovědní a hlásné služby; předpokládaný termín výzvy leden ÷ březen 2012. Žádá členy zastupitelstva obce a jejich prostřednictvím občany o předání příslušných podkladů o povodních za posledních 20 let v daném území vč. zapůjčení fotodokumentace aj. – termín do 15.2.2012Žádá starostu obce o vypracování Žádostí včetně požadovaných povinných a nepovinných příloh. Schvaluje podání Žádostí o dotaci na „Rekonstrukci veřejného rozhlasu v obci Výrava a místní části Dolní Černilov“ Pověřuje starostu obce listinnou podobu Žádosti podepsat a doručit spolu se všemi přílohami do místa příjmu, ve lhůtě stanovené pro doručování Žádostí. Současně předat, pokud je požadována, podobu Žádosti v elektronické podobě.",
+12006,12,2012-01-16,Řešení operativních úkolů zastupitelstva obce.,2,Zastupitelstvo obce schvaluje předložený návrh zpracované Výroční zprávy o poskytování informací za rok 2011.  Pověřuje starostu obce listinnou podobu Výroční zprávy podepsat. Žádá místostarostu obce zveřejnit Výroční zprávu na webové stránky do „ .. veřejná zpráva/dokumenty“ – termín od 17.1.2012 a zařadit Výroční zprávu na webové stránky do „ ../veřejná správa/základní informace – pol.16“,
+12007,12,2012-01-16,Řešení operativních úkolů zastupitelstva obce.,2,Zastupitelstvo obce schvaluje předložený návrh zpracované Roční zprávy o výsledcích finančních kontrol za rok 2011 apřílohy č.2 k vyhlášce č.416/2004 Sb. Pověřuje starostu obce listinnou podobu Roční zprávy a přílohu č.2 podepsat a odeslat dle pokynů KÚ KHK. Žádá místostarostu obce zveřejnit Roční zprávu na webové stránky do „ .. veřejná zpráva/dokumenty“ – termín od 17.1.2012,
+12008,12,2012-01-16,Řešení operativních úkolů zastupitelstva obce.,2,Zastupitelstvo obce schvaluje předložený návrh Smlouvy o bezúplatném převodu nemovitostí bez omezujících podmínek č. UZSVM/H/27982/2011-HMSU do vlastnictví obce Výrava.Pověřuje starostu obce listinnou podobu Smlouvy podepsat včetně doložky a odeslat dle pokynů ÚZSVM.,
+12009,12,2012-01-16,Řešení operativních úkolů zastupitelstva obce.,2,"Zastupitelstvo obce projednalo a schvaluje rozpočtová opatření č. 22 – ke konci roku 2011, v celkové rozpočtové změněv příjmech – 331,42 tis. Kč a ve výdajích + 809,24 tis. Kč a RO č. 23 a 24",
+12010,12,2012-01-16,Řešení operativních úkolů zastupitelstva obce.,2,Zastupitelstvo obce projednalo a schvaluje výsledek inventarizace stavu majetku a závazků ke dni 31.12.2011 s výrokem „nebyly zjištěny žádné inventarizační rozdíly“. Údaje v plném znění zprávy o provedené inventarizaci budou přiloženy k závěrečnému účtu za rok 2011.,
+13001,13,2012-02-20,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvalujeprogram zasedání:",
+13002,13,2012-02-20,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Pavla Vejmana; sestavením zápisu p. Ing. FrantiškaSchwarzera a paní Ivu Komínkovou; sestavením návrhu usnesení paní Mgr. Jitku Hrubou.,
 13003,13,2012-02-20,Hospodaření obce,3,Zastupitelstvo obce schvaluje rozpočtová opatření č. 23; 24 a 25/2011; 1/2012.,
-13004,13,2012-02-20,Hospodaření obce,3,"Zastupitelstvo obce schvaluje, podle ustanovení §84, odst.(2), písm. b), Rozpočet 2012 v závazných ukazatelích.
-
-Žádá p. Vejmana o zařazení rozpočtu 2012 v závazných ukazatelích na web „Hospodaření obce/Rozpočty/Rozpočet na 
-kalendářní rok“ – termín do 29.02.2012.",
-13005,13,2012-02-20,Hospodaření obce,3,"Zastupitelstvo obce schvaluje měsíční odměny poskytované neuvolněným členům zastupitelstva obce, členům výborů a
-komisí s platností a účinností od 01.03.2012; 
-
-Ukládá starostovi obce provést jmenný rozpis podle zvolených funkcí a předat účetní obecního úřadu – termín do 
-01.03.2012",
-13006,13,2012-02-20,Organizační a další působnost zastupitelstva obce,5,"Zastupitelstvo obce bere na vědomí podanou informaci o zimní údržbě pozemních komunikací v obci a schvaluje
-
-uvedený „Plán zimní údržby“ v následném znění: 
-
-Rozsah a časové lhůty pro zajišťování sjízdnosti a schůdnosti průjezdních úseků silnic, místních komunikací a chodníků 
-
-jsou následující: 
-
-a) Průjezdní úsek silnice III. tř. od křižovatky III/2991 na Libníkovice po konec obce Výrava směrem Jílovice a po 
-
-konec obce směrem Libníkovice. 
-
-- Zajištění sjízdnosti průjezdního místa silnice (pluhováním), pokud nebude zajištěn SÚS KHK a.s. Hradec Králové 
-
-– Plačice, jako oprávněného hospodařit se svěřeným majetkem – zajistit od 12 hod. po spadu sněhu, nejpozději 
-
-do 15 hod. Prováděno v průběhu spadu sněhu a podle potřeby i po jeho skončení. Zajišťuje ZDV Výrava na
-
-základě „smlouvy o výpomoci při provádění zimní údržby sinice v zimním období“ ze dne 1.12.2010. 
-
-- Zajištění schůdnosti průjezdního místa (posypem pískem) po ošetření pluhováním - zajistit nejpozději do 18 
-
-hod. Zajišťují zaměstnanci obecního úřadu za technické spolupráce (zapůjčení traktoru a přívěsného vozíku) 
-
-ZDV Výrava. 
-
-b) Důležité obslužné místní komunikace a to: celá Malá strana, komunikace kolem pohostinství u Hrubých, 
-
-parkoviště před Obecním domem a parkoviště před Obecním úřadem. 
-
-- Zajištění sjízdnosti uvedených místních komunikací (pluhováním) – zajistit do 12 hod. Zajišťuje ZDV Výrava na 
-
-základě „smlouvy o výpomoci při provádění zimní údržby silnice v zimním období“ ze dne 1.12.2010. 
-
-- Zajištění schůdnosti uvedených místních komunikací (posypem pískem) po ošetření pluhováním - zajistit 
-
-nejpozději do 18 hod. Zajišťují zaměstnanci obecního úřadu za technické spolupráce (zapůjčení traktoru a 
-
-přívěsného vozíku) ZDV Výrava. 
-
-c) Důležité obslužné místní komunikace a to: na Dolním Černilově. 
-
-- Zajištění sjízdnosti uvedených místních komunikací (pluhováním) – zajistit do 12 hod. Zajištění schůdnosti 
-
-uvedených místních komunikací (posypem pískem) po ošetření pluhováním - zajistit nejpozději do 18 hod.
-
-Zajišťuje pan Josef Hroch na základě „smlouvy o výpomoci při provádění zimní údržby silnice v zimním 
-
-období“ ze dne 1.12.2010. 
-
-d) Chodníky po obci. 
-
-- Zajištění schůdnosti chodníků – pluhováním do 7 hod. již v průběhu spadu sněhu a podle potřeby i po jeho 
-
-skončení; - posypem po ošetření pluhováním - zajistit do 12 hod. nejpozději do 18 hod. 
-
-e) V případě náhlého dlouhodobého sněžení (sněhové kalamity), nebo vzniku souvislé námrazy – zajistit sjízdnost 
-
-a schůdnost průjezdního úseku silnice III. tř.; důležité obslužné místní komunikace a chodníků po obci do 6 
-
-hod. 
-
-Ukládá starostovi obce provést výpis z přijatých usnesení a doručit panu Josefu Hrochovi a předsedovi ZDV Výrava 
-
-panu Vladimíru Panenkovi jako návrh dodatku k uvedeným smlouvám o zimní výpomoci 
-
-a zaměstnancům obecního úřadu, kteří mají ve svém předmětu činnosti provádění uvedených prací jako přílohu k DoPP 
-
-– termín kdo 01.03.2012",
-13007,13,2012-02-20,Organizační a další působnost zastupitelstva obce,5,"Zastupitelstvo obce Výrava po projednání návrhu Zprávy o uplatňování Územního plánu Výrava, zpracovaného a
-předloženého odborem hlavního architekta Magistrátu města Hradec Králové (dále jen: pořizovatelem). 
-
-I. Bere na vědomí:
-Vyhodnocení výsledků konzultace návrhu Zprávy o uplatňování Územního plánu Výrava, zpracované pořizovatelem a 
-předložené v Předkládací zprávě.
-
-II. Schvaluje:
-Podle § 6, odst. 5, písm. e) zákona č. 183/2006 Sb., o územním plánování a stavebním řádu, ve znění pozdějších 
-předpisů Zprávu o uplatňování Územního plánu Výrava za období 2008 ÷ 2011.",
-14001,14,2012-03-21,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvaluje
-program zasedání:",
-14002,14,2012-03-21,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje zapisovatelkou a sestavením zápisu paní Ivu Komínkovou a p. Ing. Františka Schwarzera;
-ověřovateli zápisu p. Václava Šípka a p. Jiřího Hájka a pověřuje sestavením usnesení pana Pavla Vejmana .,
-14003,14,2012-03-21,Řešení operativních úkolů zastupitelstva obce.,2,"Zastupitelstvo obce po projednání bere na vědomí zprávu hodnotící komise o posouzení a hodnocení nabídek,
-podepsanou všemi členy komise a schvaluje vybraného uchazeče na „Technický dozor investora (TDI) a koordinátora 
-bezpečnosti a ochrany zdraví při práci na staveništi (BOZP)“ na stavební práce „.
-
-Žádá starostu obce o zpracování a odeslání oznámení o výběru nejvhodnější nabídky všem uchazečům, kteří nebyli 
-vyloučeni z účasti na poptávkovém řízení – termín od 20.3. do 22.3.2012.",
-14004,14,2012-03-21,Řešení operativních úkolů zastupitelstva obce.,2,"Zastupitelstvo obce bere na vědomí podanou informaci o zpracovaném výběrového řízení a schvaluje předložený návrh
-výběrového řízení - výzva k podání nabídky a k prokázání kvalifikace pro zakázku malého rozsahu, ve zjednodušeném 
-podlimitním řízení na stavební práce „Rekonstrukce objektu čp. 116 ve Výravě – oprava objektu obecního úřadu a 
-přístavba hasičské zbrojnice“
-
-Žádá starostu obce o zaslání výběrového řízení vybraným 11-ti potencionálním uchazečům – termín 23.3.2012
-Žádá místostarostu obce o zveřejnění výběrového řízení na fyzické a elektronické úřední desce – zveřejnění 23.3.2012, ukončení – sejmutí 23.4.2012.",
-14005,14,2012-03-21,Řešení operativních úkolů zastupitelstva obce.,2,"Zastupitelstvo obce schvaluje – jmenuje hodnotící komisi, dle § 79, zákona č. 137/2006 Sb. na posouzení a zhodnocení 
-nabídek a výběru nejvhodnějšího zhotovitele stavebních prací na „Rekonstrukci objektu čp. 116 ve Výravě – oprava 
-objektu obecního úřadu a přístavba hasičské zbrojnice“ ve složení: Ing. František Schwarzer, Václav Šípek, Pavel 
-Vejman, Jiří Hájek a Jaroslav Hejcman.
-
-Žádá starostu obce o zaslání výběrového řízení p. Jaroslavu Hejcmanovi, členu hodnotící komise – termín 23.3.2012",
-14006,14,2012-03-21,Řešení operativních úkolů zastupitelstva obce.,2,"Zastupitelstvo obce schvaluje druhé vydání Povodňového plánu obce Výrava.
-
-Žádá starostu obce předložit, v písemné podobě, druhé vydání Povodňového plánu obce Výrava včetně příloh na ORP 
-Hradec Králové k potvrzení souladu Povodňového plánu obce Výrava s povodňovým plánem ORP HK – termín do 
-26.3.2012",
-14007,14,2012-03-21,Organizační a doplňkové údaje k zápisu – diskuse – závěr,3,"Zastupitelstvo obce schvaluje jmenování paní Mgr. Jitku Hrubou, členku zastupitelstva obce, delegátkou na valnou 
-hromadu společnosti Vodovody a kanalizace Hradec Králové a.s. konanou dne 13.6.2012 
-Žádá paní Mgr. o účast na jednání řádné valné hromady společnosti VaK HK .",
-15001,15,2012-05-17,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvaluje
-program zasedání:",
-15002,15,2012-05-17,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Pavla Vejmana; sestavením zápisu p. Ing. Františka
-Schwarzera a paní Ivu Komínkovou; sestavením návrhu usnesení paní Mgr. Jitku Hrubou;,
-15003,15,2012-05-17,Hospodaření obce,3,Zastupitelstvo obce bere na vědomí podanou informaci a schvaluje celoroční hospodaření obce a závěrečný účet za rok
-2011 včetně zprávy o výsledku přezkoumání hospodaření obce za rok 2011 “bez výhrad“,
-15004,15,2012-05-17,Program rozvoje a obnovy venkova – obce Výravy,4,Zastupitelstvo obce schvaluje rozpočtový výhled do roku 2014 s dotacemi smluvně zajištěnými a bere na vědomí
-informaci k možnosti další změny rozpočtového výhledu do roku 2014 včetně uvažovaných dotací. 
-
-Žádá p. Vejmana o zveřejnění rozpočtového výhledu do roku 2014 s dotacemi smluvně zajištěnými na webových 
-stránkách obce – termín do 28.5.2012.,
-15005,15,2012-05-17,Program rozvoje a obnovy venkova – obce Výravy,4,Zastupitelstvo obce schvaluje předání Žádosti o dotaci na část projektu „Rekonstrukce objektu čp.116 - oprava
-obecního úřadu a přístavba hasičské zbrojnice“,
-15006,15,2012-05-17,Program rozvoje a obnovy venkova – obce Výravy,4,Zastupitelstvo obce schvaluje podepsání „smlouvy o poskytnutí dotace z rozpočtu KHK“ ve výši 175 tis. Kč na Varovný a
-informační systém obyvatelstva a protipovodňová opatření.,
-15007,15,2012-05-17,Program rozvoje a obnovy venkova – obce Výravy,4,Zastupitelstvo obce 
-
-- bere na vědomí a souhlasí se zpracováním Výběrového řízení na projekt na Varovný a informační systém 
-obyvatelstva a protipovodňová opatření. 
-
-- schvaluje jmenování hodnotící komise pro Výběrového řízení na projekt na Varovný a informační systém 
-obyvatelstva a protipovodňová opatření ve složení Ing. František Schwarzer; Pavel Vejman; Václav Šípek.,
-15008,15,2012-05-17,Program rozvoje a obnovy venkova – obce Výravy,4,Zastupitelstvo obce schvaluje pozlacení pomníku bez stínování.
-
-Žádá starostu obce o zajištění pozlacení pomníku bez stínování firmou pana Vnuka – termín 22.5.2012,
-16001,16,2012-07-16,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvaluje
-program zasedání:",
-16002,16,2012-07-16,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje zapisovatelkou a sestavením zápisu paní Ivu Komínkovou a p. Ing. Františka Schwarzera; 
-ověřovateli zápisu p. Václava Šípka a p. Pavla Vejmana a pověřuje sestavením usnesení paní Mgr. Jitku Hrubou .,
-16003,16,2012-07-16,Řešení operativních úkolů zastupitelstva obce.,2,"Zastupitelstvo obce po projednání protokolu o jednání hodnotící komise 
-
-Bere na vědomí: Protokol o otevírání obálek, kontrola úplnosti nabídky, posouzení a hodnocení nabídek. 
-
-Schvaluje Výběr nejvhodnější nabídky (nejvhodnějšího uchazeče) a pořadí uchazečů na druhém místě. 
-
- Žádá starostu obce o zpracování a odeslání písemného oznámení Výsledku hodnocení nabídek, z něhož bude zřejmé 
-pořadí nabídek v termínu do 17.7.2012 (námitky mohou být podány do 27.7.2012, 14:00 hod.) 
-
-Žádá starostu obce o vyhodnocení námitek proti rozhodnutí zadavatele a předloží je zastupitelstvu obce, formou e-
-mailového odsouhlasení – v termínu 27.7. 2012 po 14:00 hod..
-
-Žádá starostu obce o zajištění předložení návrhu smlouvy o dílo od vybraného uchazeče a jejího podepsání – v termínu 
-do 30.7.2012 (ne dříve než budou vyhodnoceny námitky uchazečů).
-
-Žádá starostu obce o zpracování a předložení návrhu oznámení zadavatele o výsledku výběrového řízení k uveřejnění 
-na webu obce – v termínu do 15 dnů po uzavření smlouvy o dílo a to po dobu 30 dnů.",
-16004,16,2012-07-16,Řešení operativních úkolů zastupitelstva obce.,2,"Zastupitelstvo obce bere na vědomí informaci o termínech a úkolech před zahájením stavebních prací projektu
-„Rekonstrukce objektu čp. 116 (Spolkového domu – oprava objektu obecního úřadu a přístavba hasičské zbrojnice), 
-zaregistrování na SZIF; 
-
-schvaluje uzavření darovací smlouvy na umořování úroků MAS – termín po podpisu Dohody o realizaci projektu se SZIF.",
-17001,17,2012-08-20,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvaluje
-program zasedání:",
-17002,17,2012-08-20,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Jiřího Hájka; sestavením zápisu p. Ing. Františka 
-Schwarzera; sestavením návrhu usnesení paní Mgr. Jitku Hrubou a p. Pavla Vejmana.,
-18001,18,2012-10-08,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvaluje
-program zasedání:",
-18002,18,2012-10-08,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje zapisovatelkou a sestavením zápisu paní Ivu Komínkovou a p. Ing. Františka Schwarzera; 
-ověřovateli zápisu p. Václava Šípka a p. Pavla Vejmana a pověřuje sestavením usnesení paní Mgr. Jitku Hrubou.,
+13004,13,2012-02-20,Hospodaření obce,3,"Zastupitelstvo obce schvaluje, podle ustanovení §84, odst.(2), písm. b), Rozpočet 2012 v závazných ukazatelích.Žádá p. Vejmana o zařazení rozpočtu 2012 v závazných ukazatelích na web „Hospodaření obce/Rozpočty/Rozpočet na kalendářní rok“ – termín do 29.02.2012.",
+13005,13,2012-02-20,Hospodaření obce,3,"Zastupitelstvo obce schvaluje měsíční odměny poskytované neuvolněným členům zastupitelstva obce, členům výborů akomisí s platností a účinností od 01.03.2012; Ukládá starostovi obce provést jmenný rozpis podle zvolených funkcí a předat účetní obecního úřadu – termín do 01.03.2012",
+13006,13,2012-02-20,Organizační a další působnost zastupitelstva obce,5,"Zastupitelstvo obce bere na vědomí podanou informaci o zimní údržbě pozemních komunikací v obci a schvalujeuvedený „Plán zimní údržby“ v následném znění: Rozsah a časové lhůty pro zajišťování sjízdnosti a schůdnosti průjezdních úseků silnic, místních komunikací a chodníků jsou následující: a) Průjezdní úsek silnice III. tř. od křižovatky III/2991 na Libníkovice po konec obce Výrava směrem Jílovice a po konec obce směrem Libníkovice. - Zajištění sjízdnosti průjezdního místa silnice (pluhováním), pokud nebude zajištěn SÚS KHK a.s. Hradec Králové – Plačice, jako oprávněného hospodařit se svěřeným majetkem – zajistit od 12 hod. po spadu sněhu, nejpozději do 15 hod. Prováděno v průběhu spadu sněhu a podle potřeby i po jeho skončení. Zajišťuje ZDV Výrava nazákladě „smlouvy o výpomoci při provádění zimní údržby sinice v zimním období“ ze dne 1.12.2010. - Zajištění schůdnosti průjezdního místa (posypem pískem) po ošetření pluhováním - zajistit nejpozději do 18 hod. Zajišťují zaměstnanci obecního úřadu za technické spolupráce (zapůjčení traktoru a přívěsného vozíku) ZDV Výrava. b) Důležité obslužné místní komunikace a to: celá Malá strana, komunikace kolem pohostinství u Hrubých, parkoviště před Obecním domem a parkoviště před Obecním úřadem. - Zajištění sjízdnosti uvedených místních komunikací (pluhováním) – zajistit do 12 hod. Zajišťuje ZDV Výrava na základě „smlouvy o výpomoci při provádění zimní údržby silnice v zimním období“ ze dne 1.12.2010. - Zajištění schůdnosti uvedených místních komunikací (posypem pískem) po ošetření pluhováním - zajistit nejpozději do 18 hod. Zajišťují zaměstnanci obecního úřadu za technické spolupráce (zapůjčení traktoru a přívěsného vozíku) ZDV Výrava. c) Důležité obslužné místní komunikace a to: na Dolním Černilově. - Zajištění sjízdnosti uvedených místních komunikací (pluhováním) – zajistit do 12 hod. Zajištění schůdnosti uvedených místních komunikací (posypem pískem) po ošetření pluhováním - zajistit nejpozději do 18 hod.Zajišťuje pan Josef Hroch na základě „smlouvy o výpomoci při provádění zimní údržby silnice v zimním období“ ze dne 1.12.2010. d) Chodníky po obci. - Zajištění schůdnosti chodníků – pluhováním do 7 hod. již v průběhu spadu sněhu a podle potřeby i po jeho skončení; - posypem po ošetření pluhováním - zajistit do 12 hod. nejpozději do 18 hod. e) V případě náhlého dlouhodobého sněžení (sněhové kalamity), nebo vzniku souvislé námrazy – zajistit sjízdnost a schůdnost průjezdního úseku silnice III. tř.; důležité obslužné místní komunikace a chodníků po obci do 6 hod. Ukládá starostovi obce provést výpis z přijatých usnesení a doručit panu Josefu Hrochovi a předsedovi ZDV Výrava panu Vladimíru Panenkovi jako návrh dodatku k uvedeným smlouvám o zimní výpomoci a zaměstnancům obecního úřadu, kteří mají ve svém předmětu činnosti provádění uvedených prací jako přílohu k DoPP – termín kdo 01.03.2012",
+13007,13,2012-02-20,Organizační a další působnost zastupitelstva obce,5,"Zastupitelstvo obce Výrava po projednání návrhu Zprávy o uplatňování Územního plánu Výrava, zpracovaného apředloženého odborem hlavního architekta Magistrátu města Hradec Králové (dále jen: pořizovatelem). I. Bere na vědomí:Vyhodnocení výsledků konzultace návrhu Zprávy o uplatňování Územního plánu Výrava, zpracované pořizovatelem a předložené v Předkládací zprávě.II. Schvaluje:Podle § 6, odst. 5, písm. e) zákona č. 183/2006 Sb., o územním plánování a stavebním řádu, ve znění pozdějších předpisů Zprávu o uplatňování Územního plánu Výrava za období 2008 ÷ 2011.",
+14001,14,2012-03-21,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvalujeprogram zasedání:",
+14002,14,2012-03-21,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje zapisovatelkou a sestavením zápisu paní Ivu Komínkovou a p. Ing. Františka Schwarzera;ověřovateli zápisu p. Václava Šípka a p. Jiřího Hájka a pověřuje sestavením usnesení pana Pavla Vejmana .,
+14003,14,2012-03-21,Řešení operativních úkolů zastupitelstva obce.,2,"Zastupitelstvo obce po projednání bere na vědomí zprávu hodnotící komise o posouzení a hodnocení nabídek,podepsanou všemi členy komise a schvaluje vybraného uchazeče na „Technický dozor investora (TDI) a koordinátora bezpečnosti a ochrany zdraví při práci na staveništi (BOZP)“ na stavební práce „.Žádá starostu obce o zpracování a odeslání oznámení o výběru nejvhodnější nabídky všem uchazečům, kteří nebyli vyloučeni z účasti na poptávkovém řízení – termín od 20.3. do 22.3.2012.",
+14004,14,2012-03-21,Řešení operativních úkolů zastupitelstva obce.,2,"Zastupitelstvo obce bere na vědomí podanou informaci o zpracovaném výběrového řízení a schvaluje předložený návrhvýběrového řízení - výzva k podání nabídky a k prokázání kvalifikace pro zakázku malého rozsahu, ve zjednodušeném podlimitním řízení na stavební práce „Rekonstrukce objektu čp. 116 ve Výravě – oprava objektu obecního úřadu a přístavba hasičské zbrojnice“Žádá starostu obce o zaslání výběrového řízení vybraným 11-ti potencionálním uchazečům – termín 23.3.2012Žádá místostarostu obce o zveřejnění výběrového řízení na fyzické a elektronické úřední desce – zveřejnění 23.3.2012, ukončení – sejmutí 23.4.2012.",
+14005,14,2012-03-21,Řešení operativních úkolů zastupitelstva obce.,2,"Zastupitelstvo obce schvaluje – jmenuje hodnotící komisi, dle § 79, zákona č. 137/2006 Sb. na posouzení a zhodnocení nabídek a výběru nejvhodnějšího zhotovitele stavebních prací na „Rekonstrukci objektu čp. 116 ve Výravě – oprava objektu obecního úřadu a přístavba hasičské zbrojnice“ ve složení: Ing. František Schwarzer, Václav Šípek, Pavel Vejman, Jiří Hájek a Jaroslav Hejcman.Žádá starostu obce o zaslání výběrového řízení p. Jaroslavu Hejcmanovi, členu hodnotící komise – termín 23.3.2012",
+14006,14,2012-03-21,Řešení operativních úkolů zastupitelstva obce.,2,"Zastupitelstvo obce schvaluje druhé vydání Povodňového plánu obce Výrava.Žádá starostu obce předložit, v písemné podobě, druhé vydání Povodňového plánu obce Výrava včetně příloh na ORP Hradec Králové k potvrzení souladu Povodňového plánu obce Výrava s povodňovým plánem ORP HK – termín do 26.3.2012",
+14007,14,2012-03-21,Organizační a doplňkové údaje k zápisu – diskuse – závěr,3,"Zastupitelstvo obce schvaluje jmenování paní Mgr. Jitku Hrubou, členku zastupitelstva obce, delegátkou na valnou hromadu společnosti Vodovody a kanalizace Hradec Králové a.s. konanou dne 13.6.2012 Žádá paní Mgr. o účast na jednání řádné valné hromady společnosti VaK HK .",
+15001,15,2012-05-17,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvalujeprogram zasedání:",
+15002,15,2012-05-17,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Pavla Vejmana; sestavením zápisu p. Ing. FrantiškaSchwarzera a paní Ivu Komínkovou; sestavením návrhu usnesení paní Mgr. Jitku Hrubou;,
+15003,15,2012-05-17,Hospodaření obce,3,Zastupitelstvo obce bere na vědomí podanou informaci a schvaluje celoroční hospodaření obce a závěrečný účet za rok2011 včetně zprávy o výsledku přezkoumání hospodaření obce za rok 2011 “bez výhrad“,
+15004,15,2012-05-17,Program rozvoje a obnovy venkova – obce Výravy,4,Zastupitelstvo obce schvaluje rozpočtový výhled do roku 2014 s dotacemi smluvně zajištěnými a bere na vědomíinformaci k možnosti další změny rozpočtového výhledu do roku 2014 včetně uvažovaných dotací. Žádá p. Vejmana o zveřejnění rozpočtového výhledu do roku 2014 s dotacemi smluvně zajištěnými na webových stránkách obce – termín do 28.5.2012.,
+15005,15,2012-05-17,Program rozvoje a obnovy venkova – obce Výravy,4,Zastupitelstvo obce schvaluje předání Žádosti o dotaci na část projektu „Rekonstrukce objektu čp.116 - opravaobecního úřadu a přístavba hasičské zbrojnice“,
+15006,15,2012-05-17,Program rozvoje a obnovy venkova – obce Výravy,4,Zastupitelstvo obce schvaluje podepsání „smlouvy o poskytnutí dotace z rozpočtu KHK“ ve výši 175 tis. Kč na Varovný ainformační systém obyvatelstva a protipovodňová opatření.,
+15007,15,2012-05-17,Program rozvoje a obnovy venkova – obce Výravy,4,Zastupitelstvo obce - bere na vědomí a souhlasí se zpracováním Výběrového řízení na projekt na Varovný a informační systém obyvatelstva a protipovodňová opatření. - schvaluje jmenování hodnotící komise pro Výběrového řízení na projekt na Varovný a informační systém obyvatelstva a protipovodňová opatření ve složení Ing. František Schwarzer; Pavel Vejman; Václav Šípek.,
+15008,15,2012-05-17,Program rozvoje a obnovy venkova – obce Výravy,4,Zastupitelstvo obce schvaluje pozlacení pomníku bez stínování.Žádá starostu obce o zajištění pozlacení pomníku bez stínování firmou pana Vnuka – termín 22.5.2012,
+16001,16,2012-07-16,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvalujeprogram zasedání:",
+16002,16,2012-07-16,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje zapisovatelkou a sestavením zápisu paní Ivu Komínkovou a p. Ing. Františka Schwarzera; ověřovateli zápisu p. Václava Šípka a p. Pavla Vejmana a pověřuje sestavením usnesení paní Mgr. Jitku Hrubou .,
+16003,16,2012-07-16,Řešení operativních úkolů zastupitelstva obce.,2,"Zastupitelstvo obce po projednání protokolu o jednání hodnotící komise Bere na vědomí: Protokol o otevírání obálek, kontrola úplnosti nabídky, posouzení a hodnocení nabídek. Schvaluje Výběr nejvhodnější nabídky (nejvhodnějšího uchazeče) a pořadí uchazečů na druhém místě.  Žádá starostu obce o zpracování a odeslání písemného oznámení Výsledku hodnocení nabídek, z něhož bude zřejmé pořadí nabídek v termínu do 17.7.2012 (námitky mohou být podány do 27.7.2012, 14:00 hod.) Žádá starostu obce o vyhodnocení námitek proti rozhodnutí zadavatele a předloží je zastupitelstvu obce, formou e-mailového odsouhlasení – v termínu 27.7. 2012 po 14:00 hod..Žádá starostu obce o zajištění předložení návrhu smlouvy o dílo od vybraného uchazeče a jejího podepsání – v termínu do 30.7.2012 (ne dříve než budou vyhodnoceny námitky uchazečů).Žádá starostu obce o zpracování a předložení návrhu oznámení zadavatele o výsledku výběrového řízení k uveřejnění na webu obce – v termínu do 15 dnů po uzavření smlouvy o dílo a to po dobu 30 dnů.",
+16004,16,2012-07-16,Řešení operativních úkolů zastupitelstva obce.,2,"Zastupitelstvo obce bere na vědomí informaci o termínech a úkolech před zahájením stavebních prací projektu„Rekonstrukce objektu čp. 116 (Spolkového domu – oprava objektu obecního úřadu a přístavba hasičské zbrojnice), zaregistrování na SZIF; schvaluje uzavření darovací smlouvy na umořování úroků MAS – termín po podpisu Dohody o realizaci projektu se SZIF.",
+17001,17,2012-08-20,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvalujeprogram zasedání:",
+17002,17,2012-08-20,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Jiřího Hájka; sestavením zápisu p. Ing. Františka Schwarzera; sestavením návrhu usnesení paní Mgr. Jitku Hrubou a p. Pavla Vejmana.,
+18001,18,2012-10-08,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvalujeprogram zasedání:",
+18002,18,2012-10-08,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje zapisovatelkou a sestavením zápisu paní Ivu Komínkovou a p. Ing. Františka Schwarzera; ověřovateli zápisu p. Václava Šípka a p. Pavla Vejmana a pověřuje sestavením usnesení paní Mgr. Jitku Hrubou.,
 18003,18,2012-10-08,výběr z PROV – obce Výravy,3,Var. A vs var. B,
-19001,19,2012-11-05,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvaluje
-program zasedání:",
-19002,19,2012-11-05,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje zapisovatelkou a sestavením zápisu paní Ivu Komínkovou a p. Ing. Františka Schwarzera; 
-ověřovateli zápisu p. Václava Šípka a p. Jiřího Hájka a pověřuje sestavením usnesení pana Pavla Vejmana a paní Mgr. 
-Jitku Hrubou .,
-19003,19,2012-11-05,Řešení operativních úkolů zastupitelstva obce.,2,"Zastupitelstvo obce po projednání návrhu schvaluje podání Žádosti o poskytnutí finanční podpory z POV KHK dotačního
-titulu Dt 2 na projekt „Stavba VII. etapy a dokončení IV. b) etapy zpevněných chodníků po obci Výrava“ a prohlašuje, že 
-má zajištěné finanční krytí na spolufinancování projektu v minimální výši 50 % celkových nákladů projektu; schvaluje
-přijetí dotace v případě, že Krajské zastupitelstvo dotaci schválí. 
-
-Ukládá starostovi obce podání Žádosti o dotaci prostřednictvím administrátorky POV ORP HK v tištěné i elektronické 
-podobě spolu se všemi požadovanými přílohami – termín 20.11.2012.
-Pověřuje starostu obce podepsat smlouvu o dotaci – termín po vyzvání k podpisu",
-20001,20,2012-11-19,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvaluje
-program zasedání:",
-20002,20,2012-11-19,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Jiřího Hájka; sestavením zápisu p. Ing. Františka 
-Schwarzera a paní Ivu Komínkovou; sestavením návrhu usnesení paní Mgr. Jitku Hrubou a p. Pavla Vejmana.,
+19001,19,2012-11-05,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvalujeprogram zasedání:",
+19002,19,2012-11-05,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje zapisovatelkou a sestavením zápisu paní Ivu Komínkovou a p. Ing. Františka Schwarzera; ověřovateli zápisu p. Václava Šípka a p. Jiřího Hájka a pověřuje sestavením usnesení pana Pavla Vejmana a paní Mgr. Jitku Hrubou .,
+19003,19,2012-11-05,Řešení operativních úkolů zastupitelstva obce.,2,"Zastupitelstvo obce po projednání návrhu schvaluje podání Žádosti o poskytnutí finanční podpory z POV KHK dotačníhotitulu Dt 2 na projekt „Stavba VII. etapy a dokončení IV. b) etapy zpevněných chodníků po obci Výrava“ a prohlašuje, že má zajištěné finanční krytí na spolufinancování projektu v minimální výši 50 % celkových nákladů projektu; schvalujepřijetí dotace v případě, že Krajské zastupitelstvo dotaci schválí. Ukládá starostovi obce podání Žádosti o dotaci prostřednictvím administrátorky POV ORP HK v tištěné i elektronické podobě spolu se všemi požadovanými přílohami – termín 20.11.2012.Pověřuje starostu obce podepsat smlouvu o dotaci – termín po vyzvání k podpisu",
+20001,20,2012-11-19,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvalujeprogram zasedání:",
+20002,20,2012-11-19,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Jiřího Hájka; sestavením zápisu p. Ing. Františka Schwarzera a paní Ivu Komínkovou; sestavením návrhu usnesení paní Mgr. Jitku Hrubou a p. Pavla Vejmana.,
 20003,20,2012-11-19,Hospodaření obce,3,Zastupitelstvo obce bere na vědomí informaci a schvaluje rozpočtová opatření RO 22 ÷27,
-20004,20,2012-11-19,Hospodaření obce,3,Zastupitelstvo obce bere na vědomí informaci a schvaluje Časový harmonogram rozpočtového a informačního procesu 
-pro rok 2013 a souhlasí o jeho vydání ve formě Opatření č.2/2012. 
-Žádá místostarostu o zveřejnění Opatření na elektronickou ÚD – termín od 19.11.2012 do 18.2.2013,
-20005,20,2012-11-19,Hospodaření obce,3,Zastupitelstvo obce bere na vědomí informaci a schvaluje Pravidla rozpočtového provizoria a rozpočtové provizorium 
-2013 a výhled 2014 a souhlasí s vydáním Pravidel ve formě Opatření č.1/2012.
-
-Žádá místostarostu o zveřejnění Pravidel ve formě Opatření na elektronickou ÚD – termín od 19.11.2012 do 18.2.2013
-
-Žádá místostarostu o zveřejnění na fyzickou a elektronickou ÚD Rozpočtové provizorium 2013 a výhled 2014 – termín 
-od 19.11.2012 do schválení rozpočtu 2013,
-20006,20,2012-11-19,Program rozvoje a obnovy venkova – obce Výravy,4,Zastupitelstvo obce bere na vědomí informaci k možnosti podání žádosti o podporu z OPŽP projektu „Zakládání a
-obnova sídelní zeleně“ souhlasí s odstoupení od podání žádosti a schvaluje zrušení přijatého usnesení ze dne 5.11.2012 
-č. 21-11/2012 bod 2.2.,
-20007,20,2012-11-19,Program rozvoje a obnovy venkova – obce Výravy,4,Zastupitelstvo obce bere na vědomí předložený návrh na podání žádosti o dotaci z PRV -MAS na projekt „Hřiště na
-malou kopanou“ 
-
-Žádá starostu obce zpracovat návrh na podání žádosti o dotaci z PRV -MAS na projekt „Hřiště na malou kopanou“ 
-a schvaluje podání žádosti o dotaci z PRV – MAS na projekt „Hřiště na malou kopanou“ 
- – termín v souladu se 7. výzvou.,
-20008,20,2012-11-19,Organizační a další působnost zastupitelstva obce,5,Zastupitelstvo obce po projednání bere na vědomí a souhlasí s vydáním „Pokyn č.1 / 2012 k provedení řádné 
-inventarizace majetku a závazků obce Výrava k 31.12.2012“ vydaný starostou obce a schvaluje vydání „Směrnice č. 1 / 
-2012 k provádění vyřazování majetku obce Výravy“ včetně upraveného formuláře „Návrh na vyřazený majetek 
-z evidence“ 
-
-Žádá inventarizační komisi; likvidační komisi a účetní obce o zajištění úkolů vyplývajících z Pokynu k inventarizaci. 
-Vyvěsit 19.11.2012; svěsit 31.1.2013 
-
-Žádá místostarostu obce o zveřejnění Pokynu č.1/2012 na ÚD a zařazení Směrnic č. 1/2012 na web do složky Vyhlášky 
-atd. – termín do 20.11.2012,
-20009,20,2012-11-19,Organizační a další působnost zastupitelstva obce,5,"Zastupitelstvo obce určuje v souladu s § 84 odst. 2 písm. k) zákona o obcích, že funkci starosty obce bude vykonávat 
-jako uvolněný člen zastupitelstva s účinností od 1.1.2013. Současně rušíme platnost usnesení č. 01-11 / 2010, bod 5.2 
-pro funkci starosty obce. Výpočet měsíční odměny uvolněnému starostovi obce bude provedena v souladu s přílohou č. 
-1 k nařízení vlády č. 37 / 2003 Sb., o odměnách za výkon funkce členům zastupitelstev, platné pro rok 2012 vydané ve 
-Sbírce zákonů č. 375 / 2010 Sb., částka 136.",
-21001,21,2012-11-26,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvaluje
-program zasedání:",
-21002,21,2012-11-26,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje zapisovatelkou a sestavením zápisu paní Ivu Komínkovou a p. Ing. Františka Schwarzera; 
-ověřovateli zápisu p. Václava Šípka a p. Jiřího Hájka a pověřuje sestavením usnesení pana Pavla Vejmana a paní Mgr.
-Jitku Hrubou .,
-21003,21,2012-11-26,Řešení operativních úkolů zastupitelstva obce,2,"Zastupitelstvo obce po projednání návrhu schvaluje zrušení přijatého usnesení č.22-11/2012, pod bodem 5.12., ze dne
-19.11.2012 v plném rozsahu a určuje i nadále v souladu s § 84 odst. 2 písm. k) zákona o obcích, vykonávat funkci 
-starosty obce jako neuvolněný člen zastupitelstva.",
-21004,21,2012-11-26,Řešení operativních úkolů zastupitelstva obce,2,"Zastupitelstvo obce po projednání návrhu schvaluje v souladu s § 85, písm. b), zákona č. 128/2000 Sb., o obcích
-peněžitý dar panu Ing. Františku Schwarzerovi, ve výši jeden a půl násobku měsíční odměny za mimořádné práce ve 
-prospěch obce nad rámec zákonných povinností v období roku 2012.",
-22001,22,2012-12-28,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce
-
-1) konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) 
-
-2) schvaluje program zasedání:",
-22002,22,2012-12-28,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce
-
-1) určuje zapisovatelkou a sestavením zápisu paní Ivu Komínkovou a p. Ing. Františka Schwarzera; ověřovateli zápisu p. 
-Václava Šípka a p. Jiřího Hájka 
-
-2) pověřuje sestavením usnesení pana Pavla Vejmana a paní Mgr. Jitku Hrubou .,
-22003,22,2012-12-28,Řešení operativních úkolů zastupitelstva obce.,2,"Zastupitelstvo obce 
-
-1) bere na vědomí informaci z jednání VH MAS NAD ORLICÍ 
-
-2) schvaluje roční územní příspěvek MAS NAD ORLICÍ ve výši 20,- Kč / obyvatele a to nejméně na tři následující roky. 
-
-3) Doporučuje starostovi obce podat informaci o schválení územního příspěvku ve výši 20,-Kč/obyvatele a současně 
-předat dotaz zastupitelů obce týkající se příspěvku ve výši 3 % z požadované dotace.",
-22004,22,2012-12-28,Řešení operativních úkolů zastupitelstva obce.,2,"Zastupitelstvo obce
-
-1) bere na vědomí 
-
-- informaci o zveřejnění MAS nad Orlicí 7. výzvy k předkládání žádostí o dotaci ze dne 17.12.2012 
-
-- propočet příjmů a výdajů k žádosti o dotaci „areál pro sport a volnočasové aktivity“ ve formě 1. Návrhu rozpočtu 
-2013, ve variantě „A“ 
-
-2) schvaluje zpracování a podání žádosti o dotaci (po konzultaci na MAS) na projekt „Areál pro sport a volnočasové
-aktivity – dokončení“, ve stanoveném termínu pro příjem žádostí. 
-
-3) Ukládá starostovi obce 
-
-- zpracovat a předat žádost o dotaci – termín od 2.1.2013 do 22.1.2013 
-
-– zpracovat nové oznámení o záměru v území k vydání územního souhlasu (pro hřiště na malou kopanou) – termín po 
-předání prodloužení stanovisek 
-
-– zpracovat nové ohlášení stavby (pro hřiště na malou kopanou) – termín po předání prodloužení stanovisek 
-
-– zpracovat nové ohlášení stavby (pro vodovodní přípojku k zázemí sportoviště) – termín po předání prodloužení 
-stanovisek 
-
-– vyžádat prodloužení stanovisek (pro hřiště na malou kopanou a pro vodovodní přípojku k zázemí sportoviště) u 
-dotčených orgánů ( ČEZ Distribuce a.s., Benešov; Královéhradecká provozní, HK; RWE Distribuční služby s.r.o., Brno) – 
-termín do podání nového oznámení a nového ohlášení stavby 
-
-4) Doporučuje starostovi obce 
-
-- zpracovat Žádost ve variantě „B“ 
-
-- předat ke konzultaci na MAS variantu „A“ i variantu „B“ – termín 3.1.2013",
-22005,22,2012-12-28,Řešení operativních úkolů zastupitelstva obce.,2,"Zastupitelstvo obce
-
-1) schvaluje Přílohu č.2 k OZV č.1/2011 – poplatek za komunální odpad pro kalendářní rok 2013, která nabývá 
-
-účinnosti následný den po schválení. 
-
-2) Ukládá místostarostovi obce 
-
-- zveřejnění schválené přílohy č.2 na fyzické a elektronické úřední desce. 
-
-- zajištění výběru poplatku a předání tomu odpovídající známky na svoz – termín od 16.1.2013 do 31.1.2013. 
-
-3) Doporučuje místostarostovi obce 
-
-- zveřejnit Informaci o výběru veřejným rozhlasem v termínu od 2.1. do 16.1.2013. 
-
-– zajistit doručení přihlášky k registraci všem fyzickým osobám, při jejíž činnosti vzniká komunální odpad a dosud 
-nejsou zaregistrovány - v termínu od 2.1. do 16.1.2013",
-23001,23,2013-02-18,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvaluje
-program zasedání:",
-23002,23,2013-02-18,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Pavla Jurčíka; sestavením zápisu p. Ing. Františka 
-Schwarzera a paní Ivu Komínkovou; sestavením návrhu usnesení paní Mgr. Jitku Hrubou a p. Pavla Vejmana.,
-23003,23,2013-02-18,Hospodaření obce,3,"Zastupitelstvo obce bere na vědomí informaci o provedených rozpočtových opatření v kompetenci starosty obce,
-vykonávající pravomoc rady obce a schvaluje rozpočtová opatření RO 29 ÷ RO 33",
-23004,23,2013-02-18,Hospodaření obce,3,Zastupitelstvo obce bere na vědomí zprávu předsedy inventarizační komise a schvaluje inventarizaci majetku a závazků
-za rok 2012 s výrokem „nebyly zjištěny žádné inventarizační rozdíly“.,
-23005,23,2013-02-18,Hospodaření obce,3,Zastupitelstvo obce bere na vědomí a schvaluje roční účetní závěrku za rok 2012 bez připomínek v plném rozsahu 
-(výkaz pro hodnocení plnění rozpočtu Fin 2-12; výkaz zisků a ztrát a přílohu k účetní závěrce; výkaz bilance). Výkazy 
-v plném rozsahu jsou k nahlédnutí u účetní na obecním úřadu. Zpráva o účetní závěrce bude zařazena do Závěrečného 
-účtu za rok 2012.,
-23006,23,2013-02-18,Hospodaření obce,3,Zastupitelstvo obce bere na vědomí a schvaluje „Výroční zprávu o poskytování informací za rok 2012“. 
-
-Žádá p.Vejmana o zařazení „Výroční zprávy o poskytování informací za rok 2012“ na web „Dokumenty“ – termín do
-20.02.2013.,
-23007,23,2013-02-18,Hospodaření obce,3,Zastupitelstvo obce bere na vědomí a schvaluje „Roční zprávu o výsledcích finančních kontrol za rok 2012 včetně
-přílohy“ 
-
-Žádá p. Vejmana o zařazení „Roční zprávu o výsledcích finančních kontrol za rok 2012 včetně přílohy“ na web 
-„Dokumenty“ – termín do 20.02.2013.,
-23008,23,2013-02-18,Hospodaření obce,3,"Zastupitelstvo obce schvaluje, podle ustanovení §84, odst. (2), písm. b), zákona o obcích, Rozpočet 2013 v závazných 
-ukazatelích a rozpočtový výhled do roku 2014. 
-
-Žádá p. Vejmana o zařazení rozpočtu 2013 v závazných ukazatelích a rozpočtového výhledu do roku 2014 na web 
-„Hospodaření obce/Rozpočty/Rozpočet na kalendářní rok“ – termín do 20.02.2013.",
-23009,23,2013-02-18,Hospodaření obce,3,Zastupitelstvo obce schvaluje Rozpočet 2013 podle rozpočtové skladby.
-
-Žádá starostu obce o doplnění připomínek a předání rozpočtu 2013 podle rozpočtové skladby účetní obce k zařazení do 
-výkazu Fin 2-12 a předsedkyni FV ke zpracování pro rozbory hospodaření – termín do 20.02.2013.,
-23010,23,2013-02-18,Organizační a další působnost zastupitelstva obce,5,"Zastupitelstvo obce schvaluje, odměny neuvolněným členům zastupitelstva, členům výborů z řad občanů, předsedům a
-členům komisí z řad občanů pro rok 2013 ve výši roku 2012. Zastupitelstvo si vyhrazuje právo změnit výši odměn za 
-výkon funkce pro rok 2013, pokud dojde ke změně a vydání přílohy č. 1, k nařízení vlády č. 37/2003 Sb.
-
-Žádá starostu obce o předání předpisu pro odměny neuvolněným členům zastupitelstva, členům výborů z řad občanů, 
-předsedům a členům komisí z řad občanů pro rok 2013 účetní obce – termín 20.2.2013",
-23011,23,2013-02-18,Organizační a další působnost zastupitelstva obce,5,"Zastupitelstvo obce po projednání bere na vědomí a schvaluje aktualizovaný „Souhrnný sazebník úhrad nákladů,
-poplatků a ceníku služeb“. 
-
-Žádá starostu obce o zajištění vypuštění položky dle připomínky „Souhrnný sazebník úhrad nákladů, poplatků a ceníku 
-služeb“ – termín 19.2.2013
-
-Žádá místostarostu obce o zveřejnění „Souhrnný sazebník úhrad nákladů, poplatků a ceníku služeb“ na webu obce 
-„Právní a ostatní předpisy obce“ – termín 19.2.2013",
-24001,24,2013-04-15,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvaluje
-program zasedání:",
-24002,24,2013-04-15,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Jiřího Hájka; sestavením zápisu p. Ing. Františka
-Schwarzera a paní Ivu Komínkovou; sestavením návrhu usnesení paní Mgr. Jitku Hrubou a p. Pavla Vejmana.,
-24003,24,2013-04-15,Hospodaření obce,3,"Zastupitelstvo obce bere na vědomí informaci o provedených rozpočtových opatření v kompetenci starosty obce, 
-vykonávající pravomoc rady obce a schvaluje rozpočtová opatření RO 1 ÷ RO 8",
-24004,24,2013-04-15,Hospodaření obce,3,Zastupitelstvo obce na svém zasedání dne 15.4.2013 a usnesením č. 26-04/2013 schvaluje celoroční hospodaření obce
-a závěrečný účet obce za rok 2012 včetně zprávy o výsledku přezkoumání hospodaření obce za rok 2012 "bez výhrad".
-
-Žádá p. Vejmana o zveřejnění na webu obce „Hospodaření obce / závěrečný účet“,
-24005,24,2013-04-15,Program rozvoje a obnovy venkova – obce Výravy,4,"Zastupitelstvo obce bere na vědomí informaci o námi podané žádosti na projekt „Stavba VII. etapy a IV. b) etapy 
-zpevněných chodníků – dokončení“, která byla doporučena a schválena v celkové požadované výši 800 tis. Kč. Smlouva 
-byla podepsána ze strany příjemce dotace dne 28.3.2013. 
-Technickým dozorem investora byl jmenován zastupitelstvem obce pan Pavel Vejman. 
-
-Zastupitelstvo obce schválilo 
-
-- předložený návrh „Výběrového řízení“ na projekt „Stavba VII. etapy a IV. b) etapy zpevněných chodníků – 
-dokončení“, 
-
-- pěti člennou hodnotící komisi ve složení ze zástupců veřejného zadavatele a z členů s příslušnou odborností ve 
-vztahu k předmětu veřejné zakázky, 
-
-- postup jednání hodnotící komise. 
-
-Žádá starostu obce, vykonávající funkci rady obce, 
-
-- o podepsání a zveřejnění výběrového řízení na profilu zadavatele a zaslání nejméně 5 vybraným zájemcům
-k podání nabídky a k prokázání splnění kvalifikace – termín 16.4.2013,
-
-- zajištění vyhodnocení výběrového řízení hodnotící komisí – termín 2. ÷ 3.5.2013
-
-- oznámení uchazečům o (výsledku) výběru nejvhodnější nabídky – termín 4.5.2013",
-24006,24,2013-04-15,Organizační a další působnost zastupitelstva obce,6,"Zastupitelstvo obce bere na vědomí informaci o Pracovní skupině pro rozvoj a obnovu obce Výravy a schvaluje Směrnici
-č.1/2013. 
-
-Žádá starostu obce o zaslání Směrnice č.1/2013 členům pracovní skupiny, mimo členy zastupitelstva – termín do 
-20.4.2013. 
-
-Žádá místostarostu obce o zveřejnění na web– termín do 20.4.2013.",
-24007,24,2013-04-15,Organizační a další působnost zastupitelstva obce,6,"Zastupitelstvo obce bere na vědomí informaci o dodávce a montáži plastových oken do místností knihovny, 
-internetu, sociálního zařízení a přístavku pro zahradní techniku a schvaluje nabídkovou cenu včetně DPH ve 
-výši 48 844 Kč.",
-24008,24,2013-04-15,Organizační a další působnost zastupitelstva obce,6,"Zastupitelstvo obce projednalo a schválilo podání žádosti včetně barevného provedení výtvarné podoby o 
-změnu vlajky obce na základě §34a, odst.2, zákona č.128/2000 Sb., schválené předsedou Poslanecké 
-sněmovny dne 14.1.2010, s uvedeným odůvodněním, navrhované výtvarné podobě vlajky a s doplňujícím 
-popisem čtvercového emblému. Žádá starostu obce o připravení dopisu na změnu vlajky ve smyslu 
-požadavků, které jsou Poslaneckou sněmovnou vyžadovány tak, jak jsou uvedeny na webu Poslanecké 
-sněmovny, odeslat na Parlament České republiky Poslanecké sněmovny, Podvýbor pro heraldiku a vexilologii 
-
-– termín nejpozději do 31.5.2013",
-24009,24,2013-04-15,Doplňující údaje k zápisu – diskuze – závěr,8,"Zastupitelstvo obce bere na vědomí informaci o zveřejnění vyhlášení záměru o prodeji pozemku st. 170 (pod
-transformátorem u Šípkových) a st.166 (pod transformátorem u Komínkových) a schvaluje prodej a uzavření kupní 
-smlouvy s firmou ČEZ Distribuce, a.s. za cenu dle znaleckého posudku.",
-25001,25,2013-05-03,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvaluje
-program zasedání:",
-25002,25,2013-05-03,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje zapisovatelkou a sestavením zápisu p. Ing. Františka Schwarzera; ověřovateli zápisu p.
-Václava Šípka a p. Pavla Vejmana a pověřuje sestavením usnesení pana Pavla Vejmana a paní Mgr. Jitku Hrubou .,
-25003,25,2013-05-03,Řešení operativních úkolů zastupitelstva obce,2,"bere na vědomí, 
-- předložený “Protokol o otevírání obálek, zprávu o posouzení a hodnocení nabídek a výběr nejvhodnější nabídky“ předsedou 
-hodnotící komise, 
-
-schvaluje, 
-- výběr nejvhodnější nabídky, firmu Stavibet s.r.o., České Meziříčí ; 
-
-- pořadí uchazečů upravené o vyloučené uchazeče, kteří nedoručili požadované vysvětlení ve stanovené lhůtě, 
-pověřuje starostu obce 
-
-- požádat uchazeče o písemné vysvětlení nabídky dle §76, odst.3, zákona č. 137/2006 Sb. – termín 4.5.2013, 
-
-- zveřejnit „Protokol, zprávu o posouzení ...“ bez příloh – termín 4.5.2013 
-
-- projednat návrh smlouvy na „stavební dozor stavebníka“ jako dozorující osoba na stavbě – termín 13.5.2013 
-
-- upřesnit (upravit) pořadí uchazečů po obdržení písemného vysvětlení nabídky – termín 10.5.2013, 
-
-- uveřejnění, oznámení o výběru nejvhodnější nabídky dle § 81, zákona č. 137/2006 Sb. na profilu zadavatele (www.vyrava.cz) – 
-
-termín 13.5.2013, 
-
-- po ukončení doručení námitek proti rozhodnutí o výběru nejvhodnější nabídky provést vyhodnocení námitek a předložit 
-zastupitelstvu obce formou e-mailu – termín 24.5.2013, 
-
-- podepsat smlouvu o dílo dle § 82, zákona č. 137/2006 Sb. s vybraným dodavatelem – termín po 23.5.2013, 
-
-- zpracovat a zveřejnit na profilu zadavatele (www.vyrava.cz), po odsouhlasení zastupitelstvem obce formou e-mailu, písemnou 
-zprávu zadavatele dle § 85, zákona č. 137/2006 Sb. – termín do 15.6.2013",
-26001,26,2013-05-27,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvaluje
-program zasedání:",
-26002,26,2013-05-27,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje zapisovatelkou a sestavením zápisu p. Ing. Františka Schwarzera; ověřovateli zápisu p.
-Václava Šípka a p. Jiřího Hájka a pověřuje sestavením usnesení pana Pavla Vejmana a paní Mgr. Jitku Hrubou .,
-26003,26,2013-05-27,Řešení operativních úkolů zastupitelstva obce,2,"Zastupitelstvo obce po projednání v pracovní skupině 
-
-schvaluje: Program (PRO) bude zpracovávat obec vlastními silami v souladu s ustanoveními zákona č.128/2000 Sb., o 
-obcích za pomoci osob ve vytvořené pracovní skupině, která má úlohu konzultační, zpracovatelskou a připomínkovací; 
-bude projednán s veřejností a veřejnost bude informována v obecním zpravodaji, na webových stránkách obce aj. 
-
-schvaluje: Zkrácenou metodiku zpracování programu rozvoje obce (PRO).",
-26004,26,2013-05-27,Řešení operativních úkolů zastupitelstva obce,2,Zastupitelstvo obce po projednání v pracovní skupině
-
-- schvaluje: 1.návrh „Programové koncepce“. 
-
-- žádá místostarostu obce o zveřejnění 1. návrhu „Programové koncepce“ na webu obce v termínu vyvěšení 
-31.5.2013; svěšení 4.7.2013.,
-26005,26,2013-05-27,Řešení operativních úkolů zastupitelstva obce,2,"Zastupitelstvo obce po projednání v pracovní skupině
-
-- žádá starostu obce o doplnění připomínek a vznesených protinávrhů na dnešním zasedání, k „Anketě - 
-dotazníku“
-
-- schvaluje: Anketu – dotazník; 
-
-- žádá místostarostu obce o zveřejnění Ankety – dotazníku na webu obce v termínu vyvěšení 31.5.2013; svěšení 
-4.7.2013; 
-
-- žádá místostarostu obce o vytištění Ankety – dotazníku v počtu cca 120 kusů a připravit k roznášce – termín do 
-5.6.2013; 
-
-- schvaluje: sestavení skupin pro sběr prostřednictvím osobních kontaktů;",
-26006,26,2013-05-27,Řešení operativních úkolů zastupitelstva obce,2,"Zastupitelstvo obce po projednání v pracovní skupině
-
-- schvaluje: plnění komunikačního plánu - harmonogramu sestavování, projednávání a schvalování 
-„programové koncepce a studie obce Výravy do roku 2020“ k 27.5.2013 a stanovení dalšího postupu;",
-27001,27,2013-07-15,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvaluje
-program zasedání:",
-27002,27,2013-07-15,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Pavel Vejman; sestavením zápisu p. Ing. Františka
-Schwarzera a paní Mgr. Jitka Hrubá; sestavením návrhu usnesení paní Mgr. Jitku Hrubou a p. Pavla Vejmana.,
-27003,27,2013-07-15,Hospodaření obce,3,"Zastupitelstvo obce bere na vědomí informaci o provedených rozpočtových opatření v kompetenci starosty obce, 
-vykonávající pravomoc rady obce a schvaluje rozpočtová opatření RO 9 ÷ RO 19",
-27004,27,2013-07-15,Organizační a další působnost zastupitelstva obce,8,Zastupitelstvo obce bere na vědomí informaci a schvaluje Statut pozemních komunikací v obci Výrava
-
-Žádá starostu obce o vydání ve formě Opatření – termín do 31.7.2013.,
-27005,27,2013-07-15,Organizační a další působnost zastupitelstva obce,8,Zastupitelstvo obce bere na vědomí informaci a schvaluje Statut kulturního dědictví obce Výrava 
-
-Žádá starostu obce o vydání ve formě Opatření – termín do 31.7.2013.,
-27006,27,2013-07-15,Organizační a další působnost zastupitelstva obce,8,Zastupitelstvo obce bere na vědomí informaci a schvaluje Statut veřejného prostranství a péče o vzhled obce
-Výrava
-
-Žádá starostu obce o vydání ve formě Opatření – termín do 31.7.2013. 
-
-Žádá starostu obce o zveřejnění poptávky na obsazení pracovního místa formou DoPP – termín do 31.7.2013.,
-28001,28,2013-10-21,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce schvaluje program zasedání a konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 
-zákona)",
-28002,28,2013-10-21,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Jiří Hájek; sestavením zápisu p. Ing. Františka
-Schwarzera a paní Ivu Komínkovou; sestavením návrhu usnesení paní Mgr. Jitku Hrubou a p. Pavla Vejmana.,
-28003,28,2013-10-21,Hospodaření obce,3,"Zastupitelstvo obce schvaluje rozpočtová opatření RO č. 23 (provedených rozpočtových opatření v kompetenci starosty
-obce, vykonávající pravomoc rady obce)",
-28004,28,2013-10-21,Komunitní plán 2014+,5,"Zastupitelstvo obce
-
-- bere na vědomí předloženou analýzu SWOT členy zastupitelstva obce paní Mgr. Jitkou Hrubou, pány Pavlem 
-Vejmanem, Václavem Šípkem a Ing. Františkem Schwarzerem 
-
-- schvaluje Komunitní (akční) plán 2013+ a pořadí projektů dle jejich priorit; založení do souhrnného 
-„Dokumentu pro plánování rozvoje a obnovy obce Výravy“.",
-28005,28,2013-10-21,Příprava projektů (akcí) pro rozpočet 2014,6,"Zastupitelstvo obce schvaluje upuštění od nového výběrového řízení na zpracovatele projektové dokumentace a vzít 
-v úvahu přijaté usnesení ze dne 14.3.2011, č. 5-3/2011, bod 4.2.4., písm. ab) a předat nabídku-objednávku 
-zpracovateli, který splnil všechny podmínky a předal nejnižší nabídkovou cenu. (jednalo se o stavbu chodníků VII. etapy 
-a dokončení IV. etapy). Žádá starostu obce o zaslání objednávky – poptávky na vybraného zpracovatele projektové 
-dokumentace Ing. Ivana Pauluse, autorizovaný inženýr ČKAIT 0600729, bytem Kpt. Nálepky 652, Jaroměř, na 
-zpracování projektové dokumentace pro územní a stavební řízení, zpracování výkazu výměr a položkového rozpočtu 
-rozsahu a obsahu v předloženém investičním záměru. (navazuje na stavbu V. a VII. etapu) a zaslání objednávky na 
-geodetické zaměření, výškopis a polohopis, Ing. Luděk Hlavatý, Geodézie VČ, s.r.o., Hradec Králové v termínu 09/2013",
-28006,28,2013-10-21,Příprava projektů (akcí) pro rozpočet 2015,6,"Zastupitelstvo obce schvaluje podání žádosti o příspěvek na SFDI na akci investičního charakteru pod názvem 
-„Výstavba VIII. etapy zpevněných chodníků pro chodce podél silnice II. tř.“ v termínu do 7.1.2014. Žádá starostu obce o 
-vypracování žádosti a pověřuje starostu obce její podepsáním a odesláním na SFDI, Sokolovská 278, 190 00 Praha 9.",
-28007,28,2013-10-21,Příprava projektů (akcí) pro rozpočet 2016,6,"Zastupitelstvo obce schvaluje upuštění od nového výběrového řízení na zpracovatele projektové dokumentace a vzít 
-v úvahu přijaté usnesení ze dne 14.3.2011, č. 5-3/2011, bod 4.2.4., písm. ab) a předat nabídku-objednávku 
-zpracovateli, který splnil všechny podmínky a předal nejnižší nabídkovou cenu. Žádá starostu obce o zaslání objednávky 
-– poptávky na vybraného zpracovatele projektové dokumentace Ing. Ivana Pauluse, autorizovaný inženýr ČKAIT 
-0600729, bytem Kpt. Nálepky 652, Jaroměř, na zpracování projektové dokumentace pro územní a stavební řízení, 
-zpracování výkazu výměr a položkového rozpočtu v rozsahu a obsahu v předloženém investičním záměru a zaslání 
-objednávky na geodetické zaměření, výškopis a polohopis, Ing. Luděk Hlavatý, Geodézie VČ, s.r.o., Hradec Králové (v 
-termínu 09/2013)",
-28008,28,2013-10-21,Příprava projektů (akcí) pro rozpočet 2017,6,"Zastupitelstvo obce schvaluje podání žádosti o poskytnutí finanční podpory z Programu obnovy venkova
-Královéhradeckého kraje na akci komplexní úprava veřejných prostranství a místních komunikací, dotační titul 2 pod 
-názvem „Rekonstrukce vodní nádrže s okolní zeleně a místních komunikací“ v termínu dle vyhlášení výzvy (12/2013). 
-Žádá starostu obce o vypracování žádosti a pověřuje starostu obce její podepsáním a odesláním do stanoveného 
-termínu KHK.",
-28009,28,2013-10-21,Příprava projektů (akcí) pro rozpočet 2018,6,"Zastupitelstvo obce schvaluje upuštění od nového výběrového řízení na zpracovatele projektové dokumentace, neboť se 
-jedná o dokončení oprav, obnovy a staveb na obecním hřbitově a vzít v úvahu zpracovatele projektové dokumentace 
-na opravu zdí, obnovu chodníků a stavby kolumbária, dle objednávky ze dne 15.3.2010 a předat nabídku-objednávku 
-zpracovateli, který splnil všechny podmínky a předal odpovídající nabídkovou cenu. Žádá starostu obce o zaslání 
-objednávky – poptávky na zpracovatele projektové dokumentace Ing. arch. Roberta Chládka, SUMA projekt, Jižní 870, 
-503 03 Hradec Králové, na zpracování projektové dokumentace pro územní souhlas, zpracování výkazu výměr a 
-položkového rozpočtu v rozsahu a obsahu v předloženém investičním záměru v termínu 09/2013",
-28010,28,2013-10-21,Příprava projektů (akcí) pro rozpočet 2019,6,"Zastupitelstvo obce schvaluje podání žádosti o poskytnutí finanční podpory z Programu obnovy venkova 
-Královéhradeckého kraje na akci obnova a údržba venkovské zástavby a občanské vybavenosti, dotační titul 1 pod 
-názvem „Veřejné osvětlení obecního hřbitova, obnova budov a zřízení stálé expozice“ v termínu dle vyhlášení výzvy 
-(12/2013). Žádá starostu obce o vypracování žádosti a pověřuje starostu obce její podepsáním a odesláním do 
-stanoveného termínu KHK.",
-28011,28,2013-10-21,Financování investičních a neinvestičních akcí 2013+,7,Zastupitelstvo obce schvaluje financování investičních a neinvestičních akcí 2013+; založení do souhrnného
-„Dokumentu pro plánování rozvoje a obnovy obce Výravy“.,
-28012,28,2013-10-21,Programová koncepce a studie obce Výravy do roku 2020,8,Zastupitelstvo obce schvaluje konečný návrh Programové koncepce a studie obce Výravy do roku 2020 a žádá starostu
-obce o zveřejnění Programové koncepce a studie obce Výravy do roku 2020 na webových stránkách obce– termín do 
-11.11.2013,
-28013,28,2013-10-21,Volby do Poslanecké sněmovny Parlamentu ČR,9,Zastupitelstvo obce schvaluje jmenování zapisovatelky a členů okrskové volební komise pro volby do Poslanecké
-sněmovny.,
-28014,28,2013-10-21,Organizační a další působnost zastupitelstva obce,10,"Zastupitelstvo obce schvaluje zrušení žádosti o vyjmutí pozemních komunikací a zrušení veřejné vyhlášky – Oznámení o 
-zahájení správního řízení č.j. 74/2013 týkající se pozemků p.č. 1936/2 (bývalá silnice u Koblásových); 2429 (hraniční 
-cesta k Hornímu Černilovu) a podání žádosti obce, adresovaný obecnímu úřadu ve Výravě, jako příslušnému silničnímu 
-správnímu úřadu o vydání rozhodnutí o zařazení části pozemku p.č. 1878/62, 150/6 a p.č. 1250/3 do kategorie místní 
-komunikace.",
-28015,28,2013-10-21,Organizační a další působnost zastupitelstva obce,10,Zastupitelstvo obce schvaluje převod pozemku na základě žádosti obce Libníkovice ze dne 9.9.2013 formou smlouvy o
-bezúplatném převodu obci Libníkovice (včetně údaje účetní hodnoty 53 235-Kč) to se všemi součástmi a příslušenstvím 
-ke stavbě (povrchu komunikace). Souhlasí s předloženým návrhem smlouvy o bezúplatném převodu nemovitosti obci 
-Libníkovice; podáním informace o přijatém usnesení obci Libníkovice; zveřejněním dle § 39 zákona o obcích záměr o 
-převodu vlastnictví pozemku (s doplněním Platnost usnesení nabývá právní moci dnem 7.11.2013 za stanovených 
-podmínek) – v termínu do 23.10.2013; Pověřuje starostu obce podepsáním smlouvy o bezúplatném převodu 
-nemovitosti – v termínu do 30.11.2013;,
-28016,28,2013-10-21,Organizační a další působnost zastupitelstva obce,10,"Zastupitelstvo obce po projednání schvaluje Smlouvu o upsání akcií a Dohodu o započtení. Pověřuje starostu obce o
-podepsání Smlouvy a Dohody, odeslání na VaK HK včetně výpisu z usnesení–termín do 23.10.2013.",
-28017,28,2013-10-21,Organizační a další působnost zastupitelstva obce,10,"Zastupitelstvo obce schvaluje vypracováný dodatek k nájemní smlouvě na rybník „Ve Vrbičkách“ a „V Ráji“ s p. Ing.
-Pavlem Blažíčkem k článku VIII.; vypracovaný záměr o pronájmu rybníků dle § 39, zákona č. 128/2000 Sb. (s doplněním 
-Platnost usnesení nabývá právní moci dnem 7.11.2013 za stanovených podmínek) a jeho zveřejnění na ÚD; 
-vypracovanou Smlouvu o budoucí smlouvě vč. návrhu nájemních smluv na rybník „Ve Vrbičkách“ a „V Ráji“. Pověřuje
-starostu obce podepsáním dodatku č. 1 k nájemní smlouvě na rybník „Ve Vrbičkách“ a „V Ráji“ s p. Ing. Pavlem 
-Blažíčkem k článku VIII a podepsáním Smlouvy o budoucí smlouvě vč. návrhu nájemních smluv na rybník „Ve Vrbičkách“ 
-a „V Ráji“. s Karlem Dunasem, Rybářství Holohlavy v termínu do 30.11.2013;",
-29001,29,2013-12-30,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce schvaluje program 31. Zasedání zastupitelstva obce a konstatuje, že zastupitelstvo je
-usnášeníschopné (§ 92 odst. 3 zákona o obcích).",
-29002,29,2013-12-30,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce schvaluje zapisovatelkou a sestavením zápisu p. Ing. Františka Schwarzera a pí Ivu Komínkovou
-ověřovateli zápisu p. Václava Šípka a p. Jiřího Hájka a pověřuje sestavením usnesení pana Pavla Vejmana.,
-29003,29,2013-12-30,Hospodaření obce,2,"Zastupitelstvo obce schvaluje rozpočtová opatření RO č. 27÷33 (provedených rozpočtových opatření v kompetenci
-starosty obce, vykonávající pravomoc rady obce)",
+20004,20,2012-11-19,Hospodaření obce,3,Zastupitelstvo obce bere na vědomí informaci a schvaluje Časový harmonogram rozpočtového a informačního procesu pro rok 2013 a souhlasí o jeho vydání ve formě Opatření č.2/2012. Žádá místostarostu o zveřejnění Opatření na elektronickou ÚD – termín od 19.11.2012 do 18.2.2013,
+20005,20,2012-11-19,Hospodaření obce,3,Zastupitelstvo obce bere na vědomí informaci a schvaluje Pravidla rozpočtového provizoria a rozpočtové provizorium 2013 a výhled 2014 a souhlasí s vydáním Pravidel ve formě Opatření č.1/2012.Žádá místostarostu o zveřejnění Pravidel ve formě Opatření na elektronickou ÚD – termín od 19.11.2012 do 18.2.2013Žádá místostarostu o zveřejnění na fyzickou a elektronickou ÚD Rozpočtové provizorium 2013 a výhled 2014 – termín od 19.11.2012 do schválení rozpočtu 2013,
+20006,20,2012-11-19,Program rozvoje a obnovy venkova – obce Výravy,4,Zastupitelstvo obce bere na vědomí informaci k možnosti podání žádosti o podporu z OPŽP projektu „Zakládání aobnova sídelní zeleně“ souhlasí s odstoupení od podání žádosti a schvaluje zrušení přijatého usnesení ze dne 5.11.2012 č. 21-11/2012 bod 2.2.,
+20007,20,2012-11-19,Program rozvoje a obnovy venkova – obce Výravy,4,Zastupitelstvo obce bere na vědomí předložený návrh na podání žádosti o dotaci z PRV -MAS na projekt „Hřiště namalou kopanou“ Žádá starostu obce zpracovat návrh na podání žádosti o dotaci z PRV -MAS na projekt „Hřiště na malou kopanou“ a schvaluje podání žádosti o dotaci z PRV – MAS na projekt „Hřiště na malou kopanou“  – termín v souladu se 7. výzvou.,
+20008,20,2012-11-19,Organizační a další působnost zastupitelstva obce,5,Zastupitelstvo obce po projednání bere na vědomí a souhlasí s vydáním „Pokyn č.1 / 2012 k provedení řádné inventarizace majetku a závazků obce Výrava k 31.12.2012“ vydaný starostou obce a schvaluje vydání „Směrnice č. 1 / 2012 k provádění vyřazování majetku obce Výravy“ včetně upraveného formuláře „Návrh na vyřazený majetek z evidence“ Žádá inventarizační komisi; likvidační komisi a účetní obce o zajištění úkolů vyplývajících z Pokynu k inventarizaci. Vyvěsit 19.11.2012; svěsit 31.1.2013 Žádá místostarostu obce o zveřejnění Pokynu č.1/2012 na ÚD a zařazení Směrnic č. 1/2012 na web do složky Vyhlášky atd. – termín do 20.11.2012,
+20009,20,2012-11-19,Organizační a další působnost zastupitelstva obce,5,"Zastupitelstvo obce určuje v souladu s § 84 odst. 2 písm. k) zákona o obcích, že funkci starosty obce bude vykonávat jako uvolněný člen zastupitelstva s účinností od 1.1.2013. Současně rušíme platnost usnesení č. 01-11 / 2010, bod 5.2 pro funkci starosty obce. Výpočet měsíční odměny uvolněnému starostovi obce bude provedena v souladu s přílohou č. 1 k nařízení vlády č. 37 / 2003 Sb., o odměnách za výkon funkce členům zastupitelstev, platné pro rok 2012 vydané ve Sbírce zákonů č. 375 / 2010 Sb., částka 136.",
+21001,21,2012-11-26,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvalujeprogram zasedání:",
+21002,21,2012-11-26,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje zapisovatelkou a sestavením zápisu paní Ivu Komínkovou a p. Ing. Františka Schwarzera; ověřovateli zápisu p. Václava Šípka a p. Jiřího Hájka a pověřuje sestavením usnesení pana Pavla Vejmana a paní Mgr.Jitku Hrubou .,
+21003,21,2012-11-26,Řešení operativních úkolů zastupitelstva obce,2,"Zastupitelstvo obce po projednání návrhu schvaluje zrušení přijatého usnesení č.22-11/2012, pod bodem 5.12., ze dne19.11.2012 v plném rozsahu a určuje i nadále v souladu s § 84 odst. 2 písm. k) zákona o obcích, vykonávat funkci starosty obce jako neuvolněný člen zastupitelstva.",
+21004,21,2012-11-26,Řešení operativních úkolů zastupitelstva obce,2,"Zastupitelstvo obce po projednání návrhu schvaluje v souladu s § 85, písm. b), zákona č. 128/2000 Sb., o obcíchpeněžitý dar panu Ing. Františku Schwarzerovi, ve výši jeden a půl násobku měsíční odměny za mimořádné práce ve prospěch obce nad rámec zákonných povinností v období roku 2012.",
+22001,22,2012-12-28,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce1) konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) 2) schvaluje program zasedání:",
+22002,22,2012-12-28,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce1) určuje zapisovatelkou a sestavením zápisu paní Ivu Komínkovou a p. Ing. Františka Schwarzera; ověřovateli zápisu p. Václava Šípka a p. Jiřího Hájka 2) pověřuje sestavením usnesení pana Pavla Vejmana a paní Mgr. Jitku Hrubou .,
+22003,22,2012-12-28,Řešení operativních úkolů zastupitelstva obce.,2,"Zastupitelstvo obce 1) bere na vědomí informaci z jednání VH MAS NAD ORLICÍ 2) schvaluje roční územní příspěvek MAS NAD ORLICÍ ve výši 20,- Kč / obyvatele a to nejméně na tři následující roky. 3) Doporučuje starostovi obce podat informaci o schválení územního příspěvku ve výši 20,-Kč/obyvatele a současně předat dotaz zastupitelů obce týkající se příspěvku ve výši 3 % z požadované dotace.",
+22004,22,2012-12-28,Řešení operativních úkolů zastupitelstva obce.,2,"Zastupitelstvo obce1) bere na vědomí - informaci o zveřejnění MAS nad Orlicí 7. výzvy k předkládání žádostí o dotaci ze dne 17.12.2012 - propočet příjmů a výdajů k žádosti o dotaci „areál pro sport a volnočasové aktivity“ ve formě 1. Návrhu rozpočtu 2013, ve variantě „A“ 2) schvaluje zpracování a podání žádosti o dotaci (po konzultaci na MAS) na projekt „Areál pro sport a volnočasovéaktivity – dokončení“, ve stanoveném termínu pro příjem žádostí. 3) Ukládá starostovi obce - zpracovat a předat žádost o dotaci – termín od 2.1.2013 do 22.1.2013 – zpracovat nové oznámení o záměru v území k vydání územního souhlasu (pro hřiště na malou kopanou) – termín po předání prodloužení stanovisek – zpracovat nové ohlášení stavby (pro hřiště na malou kopanou) – termín po předání prodloužení stanovisek – zpracovat nové ohlášení stavby (pro vodovodní přípojku k zázemí sportoviště) – termín po předání prodloužení stanovisek – vyžádat prodloužení stanovisek (pro hřiště na malou kopanou a pro vodovodní přípojku k zázemí sportoviště) u dotčených orgánů ( ČEZ Distribuce a.s., Benešov; Královéhradecká provozní, HK; RWE Distribuční služby s.r.o., Brno) – termín do podání nového oznámení a nového ohlášení stavby 4) Doporučuje starostovi obce - zpracovat Žádost ve variantě „B“ - předat ke konzultaci na MAS variantu „A“ i variantu „B“ – termín 3.1.2013",
+22005,22,2012-12-28,Řešení operativních úkolů zastupitelstva obce.,2,"Zastupitelstvo obce1) schvaluje Přílohu č.2 k OZV č.1/2011 – poplatek za komunální odpad pro kalendářní rok 2013, která nabývá účinnosti následný den po schválení. 2) Ukládá místostarostovi obce - zveřejnění schválené přílohy č.2 na fyzické a elektronické úřední desce. - zajištění výběru poplatku a předání tomu odpovídající známky na svoz – termín od 16.1.2013 do 31.1.2013. 3) Doporučuje místostarostovi obce - zveřejnit Informaci o výběru veřejným rozhlasem v termínu od 2.1. do 16.1.2013. – zajistit doručení přihlášky k registraci všem fyzickým osobám, při jejíž činnosti vzniká komunální odpad a dosud nejsou zaregistrovány - v termínu od 2.1. do 16.1.2013",
+23001,23,2013-02-18,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvalujeprogram zasedání:",
+23002,23,2013-02-18,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Pavla Jurčíka; sestavením zápisu p. Ing. Františka Schwarzera a paní Ivu Komínkovou; sestavením návrhu usnesení paní Mgr. Jitku Hrubou a p. Pavla Vejmana.,
+23003,23,2013-02-18,Hospodaření obce,3,"Zastupitelstvo obce bere na vědomí informaci o provedených rozpočtových opatření v kompetenci starosty obce,vykonávající pravomoc rady obce a schvaluje rozpočtová opatření RO 29 ÷ RO 33",
+23004,23,2013-02-18,Hospodaření obce,3,Zastupitelstvo obce bere na vědomí zprávu předsedy inventarizační komise a schvaluje inventarizaci majetku a závazkůza rok 2012 s výrokem „nebyly zjištěny žádné inventarizační rozdíly“.,
+23005,23,2013-02-18,Hospodaření obce,3,Zastupitelstvo obce bere na vědomí a schvaluje roční účetní závěrku za rok 2012 bez připomínek v plném rozsahu (výkaz pro hodnocení plnění rozpočtu Fin 2-12; výkaz zisků a ztrát a přílohu k účetní závěrce; výkaz bilance). Výkazy v plném rozsahu jsou k nahlédnutí u účetní na obecním úřadu. Zpráva o účetní závěrce bude zařazena do Závěrečného účtu za rok 2012.,
+23006,23,2013-02-18,Hospodaření obce,3,Zastupitelstvo obce bere na vědomí a schvaluje „Výroční zprávu o poskytování informací za rok 2012“. Žádá p.Vejmana o zařazení „Výroční zprávy o poskytování informací za rok 2012“ na web „Dokumenty“ – termín do20.02.2013.,
+23007,23,2013-02-18,Hospodaření obce,3,Zastupitelstvo obce bere na vědomí a schvaluje „Roční zprávu o výsledcích finančních kontrol za rok 2012 včetněpřílohy“ Žádá p. Vejmana o zařazení „Roční zprávu o výsledcích finančních kontrol za rok 2012 včetně přílohy“ na web „Dokumenty“ – termín do 20.02.2013.,
+23008,23,2013-02-18,Hospodaření obce,3,"Zastupitelstvo obce schvaluje, podle ustanovení §84, odst. (2), písm. b), zákona o obcích, Rozpočet 2013 v závazných ukazatelích a rozpočtový výhled do roku 2014. Žádá p. Vejmana o zařazení rozpočtu 2013 v závazných ukazatelích a rozpočtového výhledu do roku 2014 na web „Hospodaření obce/Rozpočty/Rozpočet na kalendářní rok“ – termín do 20.02.2013.",
+23009,23,2013-02-18,Hospodaření obce,3,Zastupitelstvo obce schvaluje Rozpočet 2013 podle rozpočtové skladby.Žádá starostu obce o doplnění připomínek a předání rozpočtu 2013 podle rozpočtové skladby účetní obce k zařazení do výkazu Fin 2-12 a předsedkyni FV ke zpracování pro rozbory hospodaření – termín do 20.02.2013.,
+23010,23,2013-02-18,Organizační a další působnost zastupitelstva obce,5,"Zastupitelstvo obce schvaluje, odměny neuvolněným členům zastupitelstva, členům výborů z řad občanů, předsedům ačlenům komisí z řad občanů pro rok 2013 ve výši roku 2012. Zastupitelstvo si vyhrazuje právo změnit výši odměn za výkon funkce pro rok 2013, pokud dojde ke změně a vydání přílohy č. 1, k nařízení vlády č. 37/2003 Sb.Žádá starostu obce o předání předpisu pro odměny neuvolněným členům zastupitelstva, členům výborů z řad občanů, předsedům a členům komisí z řad občanů pro rok 2013 účetní obce – termín 20.2.2013",
+23011,23,2013-02-18,Organizační a další působnost zastupitelstva obce,5,"Zastupitelstvo obce po projednání bere na vědomí a schvaluje aktualizovaný „Souhrnný sazebník úhrad nákladů,poplatků a ceníku služeb“. Žádá starostu obce o zajištění vypuštění položky dle připomínky „Souhrnný sazebník úhrad nákladů, poplatků a ceníku služeb“ – termín 19.2.2013Žádá místostarostu obce o zveřejnění „Souhrnný sazebník úhrad nákladů, poplatků a ceníku služeb“ na webu obce „Právní a ostatní předpisy obce“ – termín 19.2.2013",
+24001,24,2013-04-15,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvalujeprogram zasedání:",
+24002,24,2013-04-15,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Jiřího Hájka; sestavením zápisu p. Ing. FrantiškaSchwarzera a paní Ivu Komínkovou; sestavením návrhu usnesení paní Mgr. Jitku Hrubou a p. Pavla Vejmana.,
+24003,24,2013-04-15,Hospodaření obce,3,"Zastupitelstvo obce bere na vědomí informaci o provedených rozpočtových opatření v kompetenci starosty obce, vykonávající pravomoc rady obce a schvaluje rozpočtová opatření RO 1 ÷ RO 8",
+24004,24,2013-04-15,Hospodaření obce,3,Zastupitelstvo obce na svém zasedání dne 15.4.2013 a usnesením č. 26-04/2013 schvaluje celoroční hospodaření obcea závěrečný účet obce za rok 2012 včetně zprávy o výsledku přezkoumání hospodaření obce za rok 2012 'bez výhrad'.Žádá p. Vejmana o zveřejnění na webu obce „Hospodaření obce / závěrečný účet“,
+24005,24,2013-04-15,Program rozvoje a obnovy venkova – obce Výravy,4,"Zastupitelstvo obce bere na vědomí informaci o námi podané žádosti na projekt „Stavba VII. etapy a IV. b) etapy zpevněných chodníků – dokončení“, která byla doporučena a schválena v celkové požadované výši 800 tis. Kč. Smlouva byla podepsána ze strany příjemce dotace dne 28.3.2013. Technickým dozorem investora byl jmenován zastupitelstvem obce pan Pavel Vejman. Zastupitelstvo obce schválilo - předložený návrh „Výběrového řízení“ na projekt „Stavba VII. etapy a IV. b) etapy zpevněných chodníků – dokončení“, - pěti člennou hodnotící komisi ve složení ze zástupců veřejného zadavatele a z členů s příslušnou odborností ve vztahu k předmětu veřejné zakázky, - postup jednání hodnotící komise. Žádá starostu obce, vykonávající funkci rady obce, - o podepsání a zveřejnění výběrového řízení na profilu zadavatele a zaslání nejméně 5 vybraným zájemcůmk podání nabídky a k prokázání splnění kvalifikace – termín 16.4.2013,- zajištění vyhodnocení výběrového řízení hodnotící komisí – termín 2. ÷ 3.5.2013- oznámení uchazečům o (výsledku) výběru nejvhodnější nabídky – termín 4.5.2013",
+24006,24,2013-04-15,Organizační a další působnost zastupitelstva obce,6,"Zastupitelstvo obce bere na vědomí informaci o Pracovní skupině pro rozvoj a obnovu obce Výravy a schvaluje Směrnicič.1/2013. Žádá starostu obce o zaslání Směrnice č.1/2013 členům pracovní skupiny, mimo členy zastupitelstva – termín do 20.4.2013. Žádá místostarostu obce o zveřejnění na web– termín do 20.4.2013.",
+24007,24,2013-04-15,Organizační a další působnost zastupitelstva obce,6,"Zastupitelstvo obce bere na vědomí informaci o dodávce a montáži plastových oken do místností knihovny, internetu, sociálního zařízení a přístavku pro zahradní techniku a schvaluje nabídkovou cenu včetně DPH ve výši 48 844 Kč.",
+24008,24,2013-04-15,Organizační a další působnost zastupitelstva obce,6,"Zastupitelstvo obce projednalo a schválilo podání žádosti včetně barevného provedení výtvarné podoby o změnu vlajky obce na základě §34a, odst.2, zákona č.128/2000 Sb., schválené předsedou Poslanecké sněmovny dne 14.1.2010, s uvedeným odůvodněním, navrhované výtvarné podobě vlajky a s doplňujícím popisem čtvercového emblému. Žádá starostu obce o připravení dopisu na změnu vlajky ve smyslu požadavků, které jsou Poslaneckou sněmovnou vyžadovány tak, jak jsou uvedeny na webu Poslanecké sněmovny, odeslat na Parlament České republiky Poslanecké sněmovny, Podvýbor pro heraldiku a vexilologii – termín nejpozději do 31.5.2013",
+24009,24,2013-04-15,Doplňující údaje k zápisu – diskuze – závěr,8,"Zastupitelstvo obce bere na vědomí informaci o zveřejnění vyhlášení záměru o prodeji pozemku st. 170 (podtransformátorem u Šípkových) a st.166 (pod transformátorem u Komínkových) a schvaluje prodej a uzavření kupní smlouvy s firmou ČEZ Distribuce, a.s. za cenu dle znaleckého posudku.",
+25001,25,2013-05-03,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvalujeprogram zasedání:",
+25002,25,2013-05-03,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje zapisovatelkou a sestavením zápisu p. Ing. Františka Schwarzera; ověřovateli zápisu p.Václava Šípka a p. Pavla Vejmana a pověřuje sestavením usnesení pana Pavla Vejmana a paní Mgr. Jitku Hrubou .,
+25003,25,2013-05-03,Řešení operativních úkolů zastupitelstva obce,2,"bere na vědomí, - předložený “Protokol o otevírání obálek, zprávu o posouzení a hodnocení nabídek a výběr nejvhodnější nabídky“ předsedou hodnotící komise, schvaluje, - výběr nejvhodnější nabídky, firmu Stavibet s.r.o., České Meziříčí ; - pořadí uchazečů upravené o vyloučené uchazeče, kteří nedoručili požadované vysvětlení ve stanovené lhůtě, pověřuje starostu obce - požádat uchazeče o písemné vysvětlení nabídky dle §76, odst.3, zákona č. 137/2006 Sb. – termín 4.5.2013, - zveřejnit „Protokol, zprávu o posouzení ...“ bez příloh – termín 4.5.2013 - projednat návrh smlouvy na „stavební dozor stavebníka“ jako dozorující osoba na stavbě – termín 13.5.2013 - upřesnit (upravit) pořadí uchazečů po obdržení písemného vysvětlení nabídky – termín 10.5.2013, - uveřejnění, oznámení o výběru nejvhodnější nabídky dle § 81, zákona č. 137/2006 Sb. na profilu zadavatele (www.vyrava.cz) – termín 13.5.2013, - po ukončení doručení námitek proti rozhodnutí o výběru nejvhodnější nabídky provést vyhodnocení námitek a předložit zastupitelstvu obce formou e-mailu – termín 24.5.2013, - podepsat smlouvu o dílo dle § 82, zákona č. 137/2006 Sb. s vybraným dodavatelem – termín po 23.5.2013, - zpracovat a zveřejnit na profilu zadavatele (www.vyrava.cz), po odsouhlasení zastupitelstvem obce formou e-mailu, písemnou zprávu zadavatele dle § 85, zákona č. 137/2006 Sb. – termín do 15.6.2013",
+26001,26,2013-05-27,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvalujeprogram zasedání:",
+26002,26,2013-05-27,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje zapisovatelkou a sestavením zápisu p. Ing. Františka Schwarzera; ověřovateli zápisu p.Václava Šípka a p. Jiřího Hájka a pověřuje sestavením usnesení pana Pavla Vejmana a paní Mgr. Jitku Hrubou .,
+26003,26,2013-05-27,Řešení operativních úkolů zastupitelstva obce,2,"Zastupitelstvo obce po projednání v pracovní skupině schvaluje: Program (PRO) bude zpracovávat obec vlastními silami v souladu s ustanoveními zákona č.128/2000 Sb., o obcích za pomoci osob ve vytvořené pracovní skupině, která má úlohu konzultační, zpracovatelskou a připomínkovací; bude projednán s veřejností a veřejnost bude informována v obecním zpravodaji, na webových stránkách obce aj. schvaluje: Zkrácenou metodiku zpracování programu rozvoje obce (PRO).",
+26004,26,2013-05-27,Řešení operativních úkolů zastupitelstva obce,2,Zastupitelstvo obce po projednání v pracovní skupině- schvaluje: 1.návrh „Programové koncepce“. - žádá místostarostu obce o zveřejnění 1. návrhu „Programové koncepce“ na webu obce v termínu vyvěšení 31.5.2013; svěšení 4.7.2013.,
+26005,26,2013-05-27,Řešení operativních úkolů zastupitelstva obce,2,"Zastupitelstvo obce po projednání v pracovní skupině- žádá starostu obce o doplnění připomínek a vznesených protinávrhů na dnešním zasedání, k „Anketě - dotazníku“- schvaluje: Anketu – dotazník; - žádá místostarostu obce o zveřejnění Ankety – dotazníku na webu obce v termínu vyvěšení 31.5.2013; svěšení 4.7.2013; - žádá místostarostu obce o vytištění Ankety – dotazníku v počtu cca 120 kusů a připravit k roznášce – termín do 5.6.2013; - schvaluje: sestavení skupin pro sběr prostřednictvím osobních kontaktů;",
+26006,26,2013-05-27,Řešení operativních úkolů zastupitelstva obce,2,"Zastupitelstvo obce po projednání v pracovní skupině- schvaluje: plnění komunikačního plánu - harmonogramu sestavování, projednávání a schvalování „programové koncepce a studie obce Výravy do roku 2020“ k 27.5.2013 a stanovení dalšího postupu;",
+27001,27,2013-07-15,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvalujeprogram zasedání:",
+27002,27,2013-07-15,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Pavel Vejman; sestavením zápisu p. Ing. FrantiškaSchwarzera a paní Mgr. Jitka Hrubá; sestavením návrhu usnesení paní Mgr. Jitku Hrubou a p. Pavla Vejmana.,
+27003,27,2013-07-15,Hospodaření obce,3,"Zastupitelstvo obce bere na vědomí informaci o provedených rozpočtových opatření v kompetenci starosty obce, vykonávající pravomoc rady obce a schvaluje rozpočtová opatření RO 9 ÷ RO 19",
+27004,27,2013-07-15,Organizační a další působnost zastupitelstva obce,8,Zastupitelstvo obce bere na vědomí informaci a schvaluje Statut pozemních komunikací v obci VýravaŽádá starostu obce o vydání ve formě Opatření – termín do 31.7.2013.,
+27005,27,2013-07-15,Organizační a další působnost zastupitelstva obce,8,Zastupitelstvo obce bere na vědomí informaci a schvaluje Statut kulturního dědictví obce Výrava Žádá starostu obce o vydání ve formě Opatření – termín do 31.7.2013.,
+27006,27,2013-07-15,Organizační a další působnost zastupitelstva obce,8,Zastupitelstvo obce bere na vědomí informaci a schvaluje Statut veřejného prostranství a péče o vzhled obceVýravaŽádá starostu obce o vydání ve formě Opatření – termín do 31.7.2013. Žádá starostu obce o zveřejnění poptávky na obsazení pracovního místa formou DoPP – termín do 31.7.2013.,
+28001,28,2013-10-21,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce schvaluje program zasedání a konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona)",
+28002,28,2013-10-21,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Jiří Hájek; sestavením zápisu p. Ing. FrantiškaSchwarzera a paní Ivu Komínkovou; sestavením návrhu usnesení paní Mgr. Jitku Hrubou a p. Pavla Vejmana.,
+28003,28,2013-10-21,Hospodaření obce,3,"Zastupitelstvo obce schvaluje rozpočtová opatření RO č. 23 (provedených rozpočtových opatření v kompetenci starostyobce, vykonávající pravomoc rady obce)",
+28004,28,2013-10-21,Komunitní plán 2014+,5,"Zastupitelstvo obce- bere na vědomí předloženou analýzu SWOT členy zastupitelstva obce paní Mgr. Jitkou Hrubou, pány Pavlem Vejmanem, Václavem Šípkem a Ing. Františkem Schwarzerem - schvaluje Komunitní (akční) plán 2013+ a pořadí projektů dle jejich priorit; založení do souhrnného „Dokumentu pro plánování rozvoje a obnovy obce Výravy“.",
+28005,28,2013-10-21,Příprava projektů (akcí) pro rozpočet 2014,6,"Zastupitelstvo obce schvaluje upuštění od nového výběrového řízení na zpracovatele projektové dokumentace a vzít v úvahu přijaté usnesení ze dne 14.3.2011, č. 5-3/2011, bod 4.2.4., písm. ab) a předat nabídku-objednávku zpracovateli, který splnil všechny podmínky a předal nejnižší nabídkovou cenu. (jednalo se o stavbu chodníků VII. etapy a dokončení IV. etapy). Žádá starostu obce o zaslání objednávky – poptávky na vybraného zpracovatele projektové dokumentace Ing. Ivana Pauluse, autorizovaný inženýr ČKAIT 0600729, bytem Kpt. Nálepky 652, Jaroměř, na zpracování projektové dokumentace pro územní a stavební řízení, zpracování výkazu výměr a položkového rozpočtu rozsahu a obsahu v předloženém investičním záměru. (navazuje na stavbu V. a VII. etapu) a zaslání objednávky na geodetické zaměření, výškopis a polohopis, Ing. Luděk Hlavatý, Geodézie VČ, s.r.o., Hradec Králové v termínu 09/2013",
+28006,28,2013-10-21,Příprava projektů (akcí) pro rozpočet 2015,6,"Zastupitelstvo obce schvaluje podání žádosti o příspěvek na SFDI na akci investičního charakteru pod názvem „Výstavba VIII. etapy zpevněných chodníků pro chodce podél silnice II. tř.“ v termínu do 7.1.2014. Žádá starostu obce o vypracování žádosti a pověřuje starostu obce její podepsáním a odesláním na SFDI, Sokolovská 278, 190 00 Praha 9.",
+28007,28,2013-10-21,Příprava projektů (akcí) pro rozpočet 2016,6,"Zastupitelstvo obce schvaluje upuštění od nového výběrového řízení na zpracovatele projektové dokumentace a vzít v úvahu přijaté usnesení ze dne 14.3.2011, č. 5-3/2011, bod 4.2.4., písm. ab) a předat nabídku-objednávku zpracovateli, který splnil všechny podmínky a předal nejnižší nabídkovou cenu. Žádá starostu obce o zaslání objednávky – poptávky na vybraného zpracovatele projektové dokumentace Ing. Ivana Pauluse, autorizovaný inženýr ČKAIT 0600729, bytem Kpt. Nálepky 652, Jaroměř, na zpracování projektové dokumentace pro územní a stavební řízení, zpracování výkazu výměr a položkového rozpočtu v rozsahu a obsahu v předloženém investičním záměru a zaslání objednávky na geodetické zaměření, výškopis a polohopis, Ing. Luděk Hlavatý, Geodézie VČ, s.r.o., Hradec Králové (v termínu 09/2013)",
+28008,28,2013-10-21,Příprava projektů (akcí) pro rozpočet 2017,6,"Zastupitelstvo obce schvaluje podání žádosti o poskytnutí finanční podpory z Programu obnovy venkovaKrálovéhradeckého kraje na akci komplexní úprava veřejných prostranství a místních komunikací, dotační titul 2 pod názvem „Rekonstrukce vodní nádrže s okolní zeleně a místních komunikací“ v termínu dle vyhlášení výzvy (12/2013). Žádá starostu obce o vypracování žádosti a pověřuje starostu obce její podepsáním a odesláním do stanoveného termínu KHK.",
+28009,28,2013-10-21,Příprava projektů (akcí) pro rozpočet 2018,6,"Zastupitelstvo obce schvaluje upuštění od nového výběrového řízení na zpracovatele projektové dokumentace, neboť se jedná o dokončení oprav, obnovy a staveb na obecním hřbitově a vzít v úvahu zpracovatele projektové dokumentace na opravu zdí, obnovu chodníků a stavby kolumbária, dle objednávky ze dne 15.3.2010 a předat nabídku-objednávku zpracovateli, který splnil všechny podmínky a předal odpovídající nabídkovou cenu. Žádá starostu obce o zaslání objednávky – poptávky na zpracovatele projektové dokumentace Ing. arch. Roberta Chládka, SUMA projekt, Jižní 870, 503 03 Hradec Králové, na zpracování projektové dokumentace pro územní souhlas, zpracování výkazu výměr a položkového rozpočtu v rozsahu a obsahu v předloženém investičním záměru v termínu 09/2013",
+28010,28,2013-10-21,Příprava projektů (akcí) pro rozpočet 2019,6,"Zastupitelstvo obce schvaluje podání žádosti o poskytnutí finanční podpory z Programu obnovy venkova Královéhradeckého kraje na akci obnova a údržba venkovské zástavby a občanské vybavenosti, dotační titul 1 pod názvem „Veřejné osvětlení obecního hřbitova, obnova budov a zřízení stálé expozice“ v termínu dle vyhlášení výzvy (12/2013). Žádá starostu obce o vypracování žádosti a pověřuje starostu obce její podepsáním a odesláním do stanoveného termínu KHK.",
+28011,28,2013-10-21,Financování investičních a neinvestičních akcí 2013+,7,Zastupitelstvo obce schvaluje financování investičních a neinvestičních akcí 2013+; založení do souhrnného„Dokumentu pro plánování rozvoje a obnovy obce Výravy“.,
+28012,28,2013-10-21,Programová koncepce a studie obce Výravy do roku 2020,8,Zastupitelstvo obce schvaluje konečný návrh Programové koncepce a studie obce Výravy do roku 2020 a žádá starostuobce o zveřejnění Programové koncepce a studie obce Výravy do roku 2020 na webových stránkách obce– termín do 11.11.2013,
+28013,28,2013-10-21,Volby do Poslanecké sněmovny Parlamentu ČR,9,Zastupitelstvo obce schvaluje jmenování zapisovatelky a členů okrskové volební komise pro volby do Poslaneckésněmovny.,
+28014,28,2013-10-21,Organizační a další působnost zastupitelstva obce,10,"Zastupitelstvo obce schvaluje zrušení žádosti o vyjmutí pozemních komunikací a zrušení veřejné vyhlášky – Oznámení o zahájení správního řízení č.j. 74/2013 týkající se pozemků p.č. 1936/2 (bývalá silnice u Koblásových); 2429 (hraniční cesta k Hornímu Černilovu) a podání žádosti obce, adresovaný obecnímu úřadu ve Výravě, jako příslušnému silničnímu správnímu úřadu o vydání rozhodnutí o zařazení části pozemku p.č. 1878/62, 150/6 a p.č. 1250/3 do kategorie místní komunikace.",
+28015,28,2013-10-21,Organizační a další působnost zastupitelstva obce,10,Zastupitelstvo obce schvaluje převod pozemku na základě žádosti obce Libníkovice ze dne 9.9.2013 formou smlouvy obezúplatném převodu obci Libníkovice (včetně údaje účetní hodnoty 53 235-Kč) to se všemi součástmi a příslušenstvím ke stavbě (povrchu komunikace). Souhlasí s předloženým návrhem smlouvy o bezúplatném převodu nemovitosti obci Libníkovice; podáním informace o přijatém usnesení obci Libníkovice; zveřejněním dle § 39 zákona o obcích záměr o převodu vlastnictví pozemku (s doplněním Platnost usnesení nabývá právní moci dnem 7.11.2013 za stanovených podmínek) – v termínu do 23.10.2013; Pověřuje starostu obce podepsáním smlouvy o bezúplatném převodu nemovitosti – v termínu do 30.11.2013;,
+28016,28,2013-10-21,Organizační a další působnost zastupitelstva obce,10,"Zastupitelstvo obce po projednání schvaluje Smlouvu o upsání akcií a Dohodu o započtení. Pověřuje starostu obce opodepsání Smlouvy a Dohody, odeslání na VaK HK včetně výpisu z usnesení–termín do 23.10.2013.",
+28017,28,2013-10-21,Organizační a další působnost zastupitelstva obce,10,"Zastupitelstvo obce schvaluje vypracováný dodatek k nájemní smlouvě na rybník „Ve Vrbičkách“ a „V Ráji“ s p. Ing.Pavlem Blažíčkem k článku VIII.; vypracovaný záměr o pronájmu rybníků dle § 39, zákona č. 128/2000 Sb. (s doplněním Platnost usnesení nabývá právní moci dnem 7.11.2013 za stanovených podmínek) a jeho zveřejnění na ÚD; vypracovanou Smlouvu o budoucí smlouvě vč. návrhu nájemních smluv na rybník „Ve Vrbičkách“ a „V Ráji“. Pověřujestarostu obce podepsáním dodatku č. 1 k nájemní smlouvě na rybník „Ve Vrbičkách“ a „V Ráji“ s p. Ing. Pavlem Blažíčkem k článku VIII a podepsáním Smlouvy o budoucí smlouvě vč. návrhu nájemních smluv na rybník „Ve Vrbičkách“ a „V Ráji“. s Karlem Dunasem, Rybářství Holohlavy v termínu do 30.11.2013;",
+29001,29,2013-12-30,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce schvaluje program 31. Zasedání zastupitelstva obce a konstatuje, že zastupitelstvo jeusnášeníschopné (§ 92 odst. 3 zákona o obcích).",
+29002,29,2013-12-30,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce schvaluje zapisovatelkou a sestavením zápisu p. Ing. Františka Schwarzera a pí Ivu Komínkovouověřovateli zápisu p. Václava Šípka a p. Jiřího Hájka a pověřuje sestavením usnesení pana Pavla Vejmana.,
+29003,29,2013-12-30,Hospodaření obce,2,"Zastupitelstvo obce schvaluje rozpočtová opatření RO č. 27÷33 (provedených rozpočtových opatření v kompetencistarosty obce, vykonávající pravomoc rady obce)",
 29004,29,2013-12-30,Hospodaření obce,2,"Zastupitelstvo obce schvaluje, Pravidla rozpočtového provizoria pro rok 2014.",
 29005,29,2013-12-30,Hospodaření obce,2,"Zastupitelstvo obce schvaluje, Rozpočtové provizorium pro rok 2014.",
-29006,29,2013-12-30,Řešení operativních úkolů zastupitelstva obce,3,"Zastupitelstvo obce schvaluje rozsah a obsah „Dodatku č.1 ke Smlouvě o nájmu nebytových prostor a pozemků“,
-dopracování a podepsání Dodatku. Termín dopracování do 15.1.2014.",
-29007,29,2013-12-30,Řešení operativních úkolů zastupitelstva obce,3,Zastupitelstvo obce schvaluje podanou informaci o cenové nabídce a dohodnutou cenou provedení drobných 
-stavebních prací „Úprava odvodnění z pozemku p.č.1997/2 a dokončení okapového chodníku okolo Obecního úřadu“. 
-Termín předání podkladů pro zpracování zakázky zhotoviteli STAVIBETu do 15.1.2014. 
-dopracování a podepsání Dodatku. Termín dopracování do 15.1.2014.,
-29008,29,2013-12-30,Další působnost zastupitelstva obce a obecního úřadu,4,"Zastupitelstvo obce schvaluje, poplatek za komunální odpad na rok 2014, ukládá panu Vejmanovi o zveřejnění na fyzické a
-elektronické ÚD dnem 30.12.2013 a sejmutí dne 31.1.2014.",
-29009,29,2013-12-30,Další působnost zastupitelstva obce a obecního úřadu,4,"Zastupitelstvo obce schvaluje v souladu s § 85, písm. b), zákona č. 128/2000 Sb., o obcích peněžitý dar panu Ing.
-Františku Schwarzerovi, ve výši jeden a půl násobku měsíční odměny za mimořádné práce ve prospěch obce nad rámec 
-zákonných povinností v období roku 2013.",
-29010,29,2013-12-30,Další působnost zastupitelstva obce a obecního úřadu,4,"Zastupitelstvo obce schvaluje odměňování starosty obce a ostatních členů zastupitelstva obce, členů výborů a komisí
-dle přiloženého rozpisu – tabulky „Odměny za výkon funkce neuvolněným členům zastupitelstva“ s platností a účinností 
-od 1.1.2014.",
-30001,30,2014-01-20,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce bere na vědomí a konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a 
-schvaluje program zasedání:",
-30002,30,2014-01-20,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce určuje sestavením zápisu p. Ing. Františka Schwarzera, zapisovatelkou paní Olgu Jágrovou;
-ověřovateli zápisu p. Václava Šípka a p. Jiřího Hájka a pověřuje sestavením usnesení pana Pavla Vejmana a pana Pavla 
-Jurčíka.",
+29006,29,2013-12-30,Řešení operativních úkolů zastupitelstva obce,3,"Zastupitelstvo obce schvaluje rozsah a obsah „Dodatku č.1 ke Smlouvě o nájmu nebytových prostor a pozemků“,dopracování a podepsání Dodatku. Termín dopracování do 15.1.2014.",
+29007,29,2013-12-30,Řešení operativních úkolů zastupitelstva obce,3,Zastupitelstvo obce schvaluje podanou informaci o cenové nabídce a dohodnutou cenou provedení drobných stavebních prací „Úprava odvodnění z pozemku p.č.1997/2 a dokončení okapového chodníku okolo Obecního úřadu“. Termín předání podkladů pro zpracování zakázky zhotoviteli STAVIBETu do 15.1.2014. dopracování a podepsání Dodatku. Termín dopracování do 15.1.2014.,
+29008,29,2013-12-30,Další působnost zastupitelstva obce a obecního úřadu,4,"Zastupitelstvo obce schvaluje, poplatek za komunální odpad na rok 2014, ukládá panu Vejmanovi o zveřejnění na fyzické aelektronické ÚD dnem 30.12.2013 a sejmutí dne 31.1.2014.",
+29009,29,2013-12-30,Další působnost zastupitelstva obce a obecního úřadu,4,"Zastupitelstvo obce schvaluje v souladu s § 85, písm. b), zákona č. 128/2000 Sb., o obcích peněžitý dar panu Ing.Františku Schwarzerovi, ve výši jeden a půl násobku měsíční odměny za mimořádné práce ve prospěch obce nad rámec zákonných povinností v období roku 2013.",
+29010,29,2013-12-30,Další působnost zastupitelstva obce a obecního úřadu,4,"Zastupitelstvo obce schvaluje odměňování starosty obce a ostatních členů zastupitelstva obce, členů výborů a komisídle přiloženého rozpisu – tabulky „Odměny za výkon funkce neuvolněným členům zastupitelstva“ s platností a účinností od 1.1.2014.",
+30001,30,2014-01-20,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce bere na vědomí a konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích) a schvaluje program zasedání:",
+30002,30,2014-01-20,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce určuje sestavením zápisu p. Ing. Františka Schwarzera, zapisovatelkou paní Olgu Jágrovou;ověřovateli zápisu p. Václava Šípka a p. Jiřího Hájka a pověřuje sestavením usnesení pana Pavla Vejmana a pana Pavla Jurčíka.",
 30003,30,2014-01-20,Řešení operativních úkolů zastupitelstva obce,2,Zastupitelstvo obce volí předsedou finančního výboru pana Pavla Vejmana,
-30004,30,2014-01-20,Řešení operativních úkolů zastupitelstva obce,2,Zastupitelstvo obce schvaluje odměnu za výkon funkce neuvolněného člena zastupitelstva obce. Žádá starostu obce o
-předání schválené odměny za výkon funkce paní účetní OÚ. Termín do 22.1.2014,
-30005,30,2014-01-20,Řešení operativních úkolů zastupitelstva obce,2,"Zastupitelstvo obce schvaluje provedená rozpočtová opatření v kompetenci starosty obce, vykonávající pravomoc rady 
-obce RO č.34 po konci roku 2013.",
-30006,30,2014-01-20,Řešení operativních úkolů zastupitelstva obce,2,Zastupitelstvo obce schvaluje úpravu žádosti o dotaci POV(KHK)-2013 Rekonstrukce vodní nádrže s okolní
-zelení a místních komunikací. Číslo programu: 14POV02. Změna názvu projektu: Původní název: Rekonstrukce vodní 
-nádrže s okolní zelení a místních komunikací. Nový název : Rekonstrukce místních komunikací. Žádá starostu obce o 
-zpracování a předání návrhu na úpravu Žádosti. Termín předání do 28.2.2014.,
-30007,30,2014-01-20,Řešení operativních úkolů zastupitelstva obce,2,Zastupitelstvo obce schvaluje Návrh na zpracování a podání žádosti o dotaci POV(KHK)-2014 Rekonstrukce vodní
-nádrže přírodní s okolní zelení. Číslo programu: 14ZPD02. Žádá starostu obce o zpracování Žádosti a pověřuje jej 
-podepsáním a předáním. Termín předání do 28.2.2014.,
-31001,31,2014-03-17,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce schvaluje program zasedání a konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona 
-o obcích):",
-31002,31,2014-03-17,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Pavla Jurčíka; sestavením zápisu p. Ing. Františka 
-Schwarzera; zapisovatelkou paní Olgu Jágrovou; sestavením návrhu usnesení paní Mgr. Jitku Hrubou a p. Pavla
-Vejmana.,
-31003,31,2014-03-17,Hospodaření obce,3,"Zastupitelstvo obce schvaluje rozpočtová opatření RO č.1 ÷ 7 provedených v kompetenci starosty obce, vykonávající
-pravomoc rady obce.",
-31004,31,2014-03-17,Hospodaření obce,3,Zastupitelstvo obce schvaluje inventarizaci majetku a závazků za rok 2013 s výrokem „nebyly zjištěny žádné
-inventarizační rozdíly“.,
-31005,31,2014-03-17,Hospodaření obce,3,Zastupitelstvo obce 
-
-- schvaluje „Výroční zprávu o poskytování informací za rok 2013“. 
-- a žádá p. Vejmana o zařazení „Výroční zprávy o poskytování informací za rok 2013“ na web 
-„Dokumenty“ – termín do 18.3.2014,
-31006,31,2014-03-17,Hospodaření obce,3,Zastupitelstvo obce
-
-- schvaluje „Roční zprávu o výsledcích finančních kontrol za rok 2013 včetně přílohy“. 
-
-- a žádá p. Vejmana o zařazení „Roční zprávu o výsledcích finančních kontrol za rok 2013 včetně 
-přílohy“ na web „Dokumenty“ – termín do 18.3.2014,
-31007,31,2014-03-17,Hospodaření obce,3,Zastupitelstvo obce 
-a)schvaluje celoroční hospodaření obce a závěrečný účet obce za rok 2013 včetně zprávy o výsledku
-přezkoumání hospodaření obce za rok 2013 "bez výhrad".,
-31008,31,2014-03-17,Hospodaření obce,3,b) schvaluje roční účetní závěrku obce za rok 2013 "bez připomínek" včetně inventarizace majetku a závazků za
-rok 2013 (k 31.12.2013) provedenou inventarizační komisí s výrokem "nebyly zjištěny žádné inventarizační rozdíly".
-
-- Žádá p. Vejmana o zveřejnění Závěrečného účtu obce a účetní závěrku obce za rok 2013 na webu /Veřejná 
-správa/Hospodaření obce/ .... v termínu do 31.3.2014.,
-31009,31,2014-03-17,Hospodaření obce,3,"Zastupitelstvo obce 
-
-- schvaluje, podle ustanovení §84, odst. (2), písm. b), zákona o obcích, Rozpočet 2014 v závazných 
-ukazatelích a rozpočtový výhled do roku 2017. 
-
-- Žádá p. Vejmana o zařazení rozpočtu 2014 v závazných ukazatelích a rozpočtového výhledu do roku 
-2017 na web „Hospodaření obce/Rozpočty/..............“ – termín do 31.3.2014.",
-31010,31,2014-03-17,Hospodaření obce,3,Zastupitelstvo obce
-
-- schvaluje Rozpočet 2014 podle rozpočtové skladby. 
-
-- Žádá starostu obce o předání rozpočtu 2014 podle rozpočtové skladby účetní obce k zařazení do 
-výkazu Fin 2-12 a předsedovi FV ke zpracování pro rozbory hospodaření – termín do 31.3.2014,
-31011,31,2014-03-17,Program rozvoje a obnovy venkova – obce Výravy v roce 2014.,4,"Zastupitelstvo obce 
-
-4) neschvaluje prodej části původních pozemků p. č. 2364 a 2365, nově označený pozemek p.č. 2669, zpevněná 
-panelová plocha s příslušným zdůvodněním; 
-
-5) bere na vědomí informaci o nově vypracovaném 2. návrhu Dodatku č.1 smlouvy o nájmu nemovitosti 
-(zpevněná panelová plocha). Termín oboustranného projednání a schválení do 25.3.2014. Postup zajištění 
-termínovaných změn bude předběžně projednán na zasedání zastupitelstva obce dne 16.6.2014. Pokud nebudou 
-plněny termíny stanovené v dodatku č. 1, nebo i v jeho návrhu, bude možnost dodatek č.1 anulovat a postupovat dle 
-smlouvy o nájmu nemovitosti ze dne 27.9.2010 a již nebude otázka smlouvy o nájmu panelové plochy do konce 
-volebního období projednáván v zastupitelstvu obce.
-
-6) žádá starostu obce o podání písemné informace ve znění uvedeného nesouhlasu v zápisu firmě STAVIBET s.r.o.
-a přijatého usnesení k dodatku č.1 k nájemní smlouvě nájemci – termín do 24.3.2014",
+30004,30,2014-01-20,Řešení operativních úkolů zastupitelstva obce,2,Zastupitelstvo obce schvaluje odměnu za výkon funkce neuvolněného člena zastupitelstva obce. Žádá starostu obce opředání schválené odměny za výkon funkce paní účetní OÚ. Termín do 22.1.2014,
+30005,30,2014-01-20,Řešení operativních úkolů zastupitelstva obce,2,"Zastupitelstvo obce schvaluje provedená rozpočtová opatření v kompetenci starosty obce, vykonávající pravomoc rady obce RO č.34 po konci roku 2013.",
+30006,30,2014-01-20,Řešení operativních úkolů zastupitelstva obce,2,Zastupitelstvo obce schvaluje úpravu žádosti o dotaci POV(KHK)-2013 Rekonstrukce vodní nádrže s okolnízelení a místních komunikací. Číslo programu: 14POV02. Změna názvu projektu: Původní název: Rekonstrukce vodní nádrže s okolní zelení a místních komunikací. Nový název : Rekonstrukce místních komunikací. Žádá starostu obce o zpracování a předání návrhu na úpravu Žádosti. Termín předání do 28.2.2014.,
+30007,30,2014-01-20,Řešení operativních úkolů zastupitelstva obce,2,Zastupitelstvo obce schvaluje Návrh na zpracování a podání žádosti o dotaci POV(KHK)-2014 Rekonstrukce vodnínádrže přírodní s okolní zelení. Číslo programu: 14ZPD02. Žádá starostu obce o zpracování Žádosti a pověřuje jej podepsáním a předáním. Termín předání do 28.2.2014.,
+31001,31,2014-03-17,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce schvaluje program zasedání a konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona o obcích):",
+31002,31,2014-03-17,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Pavla Jurčíka; sestavením zápisu p. Ing. Františka Schwarzera; zapisovatelkou paní Olgu Jágrovou; sestavením návrhu usnesení paní Mgr. Jitku Hrubou a p. PavlaVejmana.,
+31003,31,2014-03-17,Hospodaření obce,3,"Zastupitelstvo obce schvaluje rozpočtová opatření RO č.1 ÷ 7 provedených v kompetenci starosty obce, vykonávajícípravomoc rady obce.",
+31004,31,2014-03-17,Hospodaření obce,3,Zastupitelstvo obce schvaluje inventarizaci majetku a závazků za rok 2013 s výrokem „nebyly zjištěny žádnéinventarizační rozdíly“.,
+31005,31,2014-03-17,Hospodaření obce,3,Zastupitelstvo obce - schvaluje „Výroční zprávu o poskytování informací za rok 2013“. - a žádá p. Vejmana o zařazení „Výroční zprávy o poskytování informací za rok 2013“ na web „Dokumenty“ – termín do 18.3.2014,
+31006,31,2014-03-17,Hospodaření obce,3,Zastupitelstvo obce- schvaluje „Roční zprávu o výsledcích finančních kontrol za rok 2013 včetně přílohy“. - a žádá p. Vejmana o zařazení „Roční zprávu o výsledcích finančních kontrol za rok 2013 včetně přílohy“ na web „Dokumenty“ – termín do 18.3.2014,
+31007,31,2014-03-17,Hospodaření obce,3,Zastupitelstvo obce a)schvaluje celoroční hospodaření obce a závěrečný účet obce za rok 2013 včetně zprávy o výsledkupřezkoumání hospodaření obce za rok 2013 'bez výhrad'.,
+31008,31,2014-03-17,Hospodaření obce,3,b) schvaluje roční účetní závěrku obce za rok 2013 'bez připomínek' včetně inventarizace majetku a závazků zarok 2013 (k 31.12.2013) provedenou inventarizační komisí s výrokem 'nebyly zjištěny žádné inventarizační rozdíly'.- Žádá p. Vejmana o zveřejnění Závěrečného účtu obce a účetní závěrku obce za rok 2013 na webu /Veřejná správa/Hospodaření obce/ .... v termínu do 31.3.2014.,
+31009,31,2014-03-17,Hospodaření obce,3,"Zastupitelstvo obce - schvaluje, podle ustanovení §84, odst. (2), písm. b), zákona o obcích, Rozpočet 2014 v závazných ukazatelích a rozpočtový výhled do roku 2017. - Žádá p. Vejmana o zařazení rozpočtu 2014 v závazných ukazatelích a rozpočtového výhledu do roku 2017 na web „Hospodaření obce/Rozpočty/..............“ – termín do 31.3.2014.",
+31010,31,2014-03-17,Hospodaření obce,3,Zastupitelstvo obce- schvaluje Rozpočet 2014 podle rozpočtové skladby. - Žádá starostu obce o předání rozpočtu 2014 podle rozpočtové skladby účetní obce k zařazení do výkazu Fin 2-12 a předsedovi FV ke zpracování pro rozbory hospodaření – termín do 31.3.2014,
+31011,31,2014-03-17,Program rozvoje a obnovy venkova – obce Výravy v roce 2014.,4,"Zastupitelstvo obce 4) neschvaluje prodej části původních pozemků p. č. 2364 a 2365, nově označený pozemek p.č. 2669, zpevněná panelová plocha s příslušným zdůvodněním; 5) bere na vědomí informaci o nově vypracovaném 2. návrhu Dodatku č.1 smlouvy o nájmu nemovitosti (zpevněná panelová plocha). Termín oboustranného projednání a schválení do 25.3.2014. Postup zajištění termínovaných změn bude předběžně projednán na zasedání zastupitelstva obce dne 16.6.2014. Pokud nebudou plněny termíny stanovené v dodatku č. 1, nebo i v jeho návrhu, bude možnost dodatek č.1 anulovat a postupovat dle smlouvy o nájmu nemovitosti ze dne 27.9.2010 a již nebude otázka smlouvy o nájmu panelové plochy do konce volebního období projednáván v zastupitelstvu obce.6) žádá starostu obce o podání písemné informace ve znění uvedeného nesouhlasu v zápisu firmě STAVIBET s.r.o.a přijatého usnesení k dodatku č.1 k nájemní smlouvě nájemci – termín do 24.3.2014",
 31012,31,2014-03-17,Program rozvoje a obnovy venkova – obce Výravy v roce 2014.,4,Zastupitelstvo obce rozhodlo a schválilo provést výpověď z nájmu bez uvedení důvodu.,
-31013,31,2014-03-17,Program rozvoje a obnovy venkova – obce Výravy v roce 2014.,4,"Zastupitelstvo obce 
-
-- bere na vědomí informaci o nově vypracovaném 3. návrhu Dodatku č.1 smlouvy o nájmu nemovitosti 
-nebytových prostor. Na základě stanoviska nájemce ze dne 17.3.2014, že nemůžeme akceptovat 3.návrh dodatku č.1 
-zastupitelstvo obce anuluje dodatek č.1 v plném rozsahu a dále se bude postupovat dle smlouvy o nájmu nemovitosti 
-ze dne 15.6.2010 a již nebude otázka smlouvy o nájmu nemovitosti nebytových prostor do konce volebního období 
-projednáván v zastupitelstvu obce. 
-- žádá starostu obce o podání písemné informace ve znění přijatého usnesení k dodatku č.1 k nájemní smlouvě
-nájemci – termín do 24.3.2014",
-31014,31,2014-03-17,Organizační a další působnost zastupitelstva obce,5,Zastupitelstvo obce 
-
-e) schvaluje pro volby do Evropského parlamentu konané 23. a 24.5.2014 OVK ve složení: zapisovatelkou OVK 
-Janu Vejmanovou 9; členy OVK Josefa Treksu 93; Jiřího Hájka 107; Lucii Janečkovou 165; Janu Hojnou 21 a Marcelu 
-Halmichovou 152; náhradníky OVK Václava Treksu 62 a Filipa Krejču 15 a ostatní údaje stanovené z harmonogramu 
-úkolů a lhůt. 
-
-f) Žádá pana Vejmana o provedení předběžného oznámení uvedených členů OVK před jejich jmenováním 
-starostou obce,
-31015,31,2014-03-17,Organizační a další působnost zastupitelstva obce,5,"Zastupitelstvo obce 
-
-- souhlasí, na návrh starosty obce, s ponecháním Regulativu zástavby ve stádiu 2a. Návrhu a to jako 
-doporučený pro stavebníky a projektanty a informativní pro stavební úřad. Doporučení je platné do doby vypracování a 
-schválení Územní studie. 
-
-- rozhodlo o pořízení Územní studie pro území obce Výrava a pro území místní části Dolní Černilov. 
-
-- schvaluje podat žádost o pořízení Územní studie, podle § 6, odst. 1, písm. c) zákona 183/2006 Sb. o 
-Územním plánování a stavebním řádu, ve znění pozdějších předpisů (stavebního zákona) Magistrátem 
-města Hradce Králové, odborem hlavního architekta. V žádosti uvést pro zpracování zadání, jako základ pro 
-obsah a rozsah zpracovaný 2a. návrh Regulativu zástavby. 
-
-- doporučuje o zpracování Územní studie požádat zpracovatele Územního plánu obce Výrava pana 
-Ing. arch. Karla Novotného, bytem Brožíkova 1684, Hradec Králové, jako autorizovaného architekta. 
-
-- pověřuje zpracováním a podáním žádosti pana Ing. Františka Schwarzera. 
-
-- určuje termín podání žádosti do 31.3.2014.",
-31016,31,2014-03-17,Organizační a další působnost zastupitelstva obce,5,"Zastupitelstvo obce schvaluje sobotu dne 31.5.2014 jako den úředně určený k uzavření manželství a schvaluje aby 
-místem pro konání slavnostního obřadu byl Letní parket u Hrubých v obci Výrava, v určenou dobu 12:00 hod.",
-31017,31,2014-03-17,Organizační a další působnost zastupitelstva obce,5,"Zastupitelstvo obce 
-
-- bere na vědomí, VaK HK a.s. předpokládají, že řádná valná hromada se bude konat dne 4.6.2014 v Eliščině 
-sále Kongresového centra Aldis, a.s. Eliščino nábřeží 375, Hradec Králové 
-
-- rozhodlo delegovat, ve smyslu § 84, odst. 2, písm. g) zákona č. 128/2000 Sb. o obcích, na valnou hromadu VaK
-HK a.s., členku zastupitelstva obce, paní Mgr. Jitku Hrubou, bytem Výrava 83",
-31018,31,2014-03-17,Organizační a další působnost zastupitelstva obce,5,"Zastupitelstvo obce
-
-- nesouhlasí s předloženou smlouvou o poskytnutí dotace na nákup knih do výměnných fondů pro rok 
-2014 v rámci regionálních knihovnických služeb z důvodu absolutní nevýhodnosti pro obec, není uvedena 
-žádná reciproká hodnota proti výši požadované dotace a dotaci nebude poskytovat. Smlouva o poskytnutí 
-regionálních knihovnických služeb ze dne 10.2.2003 v rámci regionálních funkcí zůstává v platnosti s tím, že 
-výměnné soubory místo knihovny Černilov zajišťuje Knihovna města Hradce Králové, která tuto činnost za
-zmíněnou knihovnu převzala. Ve zmíněné smlouvě se mj. uvádí v článku 2. písm. ad d), knihy budou 
-obměňovány nejméně 2 x ročně, v rozsahu cca 100 knihovních jednotek v jednom souboru, což nebylo v roce 
-2013 dodrženo. 
-
-- Žádá starostu obce o provedení informace Knihovně města Hradce Králové v souladu s přijatým 
-usnesením – termín do 31.3.2014.",
-31019,31,2014-03-17,Doplňující údaje k zápisu – diskuze – závěr,7,Zastupitelstvo obce
-
-- rozhodlo nevyužít nabízených služeb na čištění a monitoring dešťové kanalizace v obci Výrava. 
-Čištění dešťovékanalizace v obci Výrava zajistí podle potřeby Jednotka požární ochrany Výrava. 
-
-- Žádá starostu obce o provedení informace firmě SEZAKO Prostějov s.r.o. v souladu s přijatým 
-usnesením – termín do 31.3.2014.,
-32001,32,2014-06-16,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce schvaluje program zasedání a konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona
-o obcích):",
-32002,32,2014-06-16,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Pavla Jurčíka; sestavením zápisu p. Ing. Františka 
-Schwarzera; zapisovatelkou paní Olgu Jágrovou; sestavením návrhu usnesení paní Mgr. Jitku Hrubou a p. Pavla 
-Vejmana.,
-32003,32,2014-06-16,Hospodaření obce,3,"Zastupitelstvo obce schvaluje rozpočtová opatření RO č. 8÷13 provedených v kompetenci starosty obce, vykonávající 
-pravomoc rady obce.",
-32004,32,2014-06-16,Program rozvoje a obnovy venkova – obce Výravy v roce 2014.,4,"Zastupitelstvo obce schvaluje výběr zhotovitele a uzavření smlouvy o dílo na „Veřejné osvětlení hřbitova“ s
-dodavatelem ERMO spol. s r.o., HK.",
-32005,32,2014-06-16,Program rozvoje a obnovy venkova – obce Výravy v roce 2014.,4,"Zastupitelstvo obce
-
-- bere na vědomí informaci o zpracovaném návrhu Investičního záměru na „Rozvoj obytného území podél jižní 
-strany obce Výrava“, 
-
-- schvaluje zastavit pokračování prací na investičním záměru především z důvodů vysoká nákladovosti ve
-vztahu k neefektivnosti osídlení území; 
-
-- ponechat „Záhumenní cestu“ ve stávajícím stavu a k určenému užití určené kolaudačním
-rozhodnutím.",
-32006,32,2014-06-16,Program rozvoje a obnovy venkova – obce Výravy v roce 2014.,4,"Zastupitelstvo obce 
-
-- bere na vědomí informaci o lesním biocentru „Na Bělkách“ uvedenou v tomto zápise, 
-
-- schvaluje protokolární převzetí díla SO 04 Ozelenění BC Na Bělkách v k.ú. Výrava obcí Výrava od SPÚ, Pobočka 
-Hradec Králové, 
-
-- pověřuje starostu obce pana Ing. Františka Schwarzera podepsáním protokolu o převzetí díla,",
-32007,32,2014-06-16,Organizační a další působnost zastupitelstva obce,5,"Zastupitelstvo obce
-schvaluje zadání Územní studie Výrava, předaná Magistrátem města Hradce Králové, odborem hlavního 
-architekta, která stanoví plošnou a prostorovou regulaci zástavby v zastavěném území a v zastavitelných 
-plochách vymezených v Územním plánu a bude sloužit jako územně plánovací podklad pro rozhodování 
-v daném území.",
-32008,32,2014-06-16,Organizační a další působnost zastupitelstva obce,5,Zastupitelstvo obce
-schvaluje Dodatek č. 1 k Veřejnoprávní smlouvě uzavřené se Statutárním městem HK dne 29.1.2004.,
-32009,32,2014-06-16,Organizační a další působnost zastupitelstva obce,5,"Zastupitelstvo obce
-schvaluje Smlouvu o zajištění zpětného odběru a využití odpadů z obalů předloženou smluvní stranou EKO-KOM, a.s..",
-32010,32,2014-06-16,Organizační a další působnost zastupitelstva obce,5,"Zastupitelstvo obce
-- schvaluje „Poděkování“, jako morální ocenění občanů a skupin, kteří se zasloužili o osvětu, rozvoj, prezentaci a 
-správu obce, 
-
-- s uveřejněním na webových stránkách obce",
-32011,32,2014-06-16,Organizační a další působnost zastupitelstva obce,5,"Zastupitelstvo obce schvaluje v souladu s § 85, písm. b), zákona č. 128/2000 Sb., o obcích peněžitý dar panu Ing.
-Františku Schwarzerovi, ve výši jeden a půl násobku měsíční odměny (odměna platná k 31.12.2012) za mimořádné 
-práce ve prospěch obce nad rámec zákonných povinností v období roku 2014 splatné v termínu výplat za měsíc srpen 
-2014.",
-33001,33,2014-09-15,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce schvaluje program zasedání a konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákona
-o obcích);",
-33002,33,2014-09-15,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Pavla Jurčíka; sestavením zápisu p. Ing. Františka 
-Schwarzera; zapisovatelkou paní Olgu Jágrovou; sestavením návrhu usnesení paní Mgr. Jitku Hrubou a p. Pavla
-Vejmana.,
-33003,33,2014-09-15,Hospodaření obce,3,"Zastupitelstvo obce schvaluje rozpočtová opatření RO č. 14÷22 provedených v kompetenci starosty obce, vykonávající 
-pravomoc rady obce.",
-33004,33,2014-09-15,Hospodaření obce,3,Zastupitelstvo obce schvaluje vydání pokynu starostou obce k provedení mimořádné inventarizace majetku a závazků 
-obce Výrava k 30.9.2014 a postup pro schválení inventarizace.,
-33005,33,2014-09-15,Program rozvoje a obnovy venkova – obce Výravy.,4,"Zastupitelstvo obce schvaluje záměr obce provést převod vlastnictví nemovitého majetku v katastru obce Výrava,
-provedením směny pozemků p. č. 2144/1 a 2144/9 za pozemek p.č. 1936/2 a zplnomocňuje starostu obce podepsáním 
-smlouvy o smlouvě budoucí jako Oprávněný se Závazným",
-33006,33,2014-09-15,Program rozvoje a obnovy venkova – obce Výravy.,4,"Zastupitelstvo obce schvaluje Smlouvu o bezúplatném převodu majetku č.j. UZSVM/H/13581/2014-HMSU pozemku
-pozemková parcela č. 2144/12 a pozemková parcela č. 2144/13, které vznikly oddělením z pozemku pozemková 
-parcela č.2144/10 dle geometrického plánu č. 313-258/2013, v k.ú. Výrava do vlastnictví obce Výrava a zplnomocňuje 
-starostu obce podepsáním této smlouvy.",
+31013,31,2014-03-17,Program rozvoje a obnovy venkova – obce Výravy v roce 2014.,4,"Zastupitelstvo obce - bere na vědomí informaci o nově vypracovaném 3. návrhu Dodatku č.1 smlouvy o nájmu nemovitosti nebytových prostor. Na základě stanoviska nájemce ze dne 17.3.2014, že nemůžeme akceptovat 3.návrh dodatku č.1 zastupitelstvo obce anuluje dodatek č.1 v plném rozsahu a dále se bude postupovat dle smlouvy o nájmu nemovitosti ze dne 15.6.2010 a již nebude otázka smlouvy o nájmu nemovitosti nebytových prostor do konce volebního období projednáván v zastupitelstvu obce. - žádá starostu obce o podání písemné informace ve znění přijatého usnesení k dodatku č.1 k nájemní smlouvěnájemci – termín do 24.3.2014",
+31014,31,2014-03-17,Organizační a další působnost zastupitelstva obce,5,Zastupitelstvo obce e) schvaluje pro volby do Evropského parlamentu konané 23. a 24.5.2014 OVK ve složení: zapisovatelkou OVK Janu Vejmanovou 9; členy OVK Josefa Treksu 93; Jiřího Hájka 107; Lucii Janečkovou 165; Janu Hojnou 21 a Marcelu Halmichovou 152; náhradníky OVK Václava Treksu 62 a Filipa Krejču 15 a ostatní údaje stanovené z harmonogramu úkolů a lhůt. f) Žádá pana Vejmana o provedení předběžného oznámení uvedených členů OVK před jejich jmenováním starostou obce,
+31015,31,2014-03-17,Organizační a další působnost zastupitelstva obce,5,"Zastupitelstvo obce - souhlasí, na návrh starosty obce, s ponecháním Regulativu zástavby ve stádiu 2a. Návrhu a to jako doporučený pro stavebníky a projektanty a informativní pro stavební úřad. Doporučení je platné do doby vypracování a schválení Územní studie. - rozhodlo o pořízení Územní studie pro území obce Výrava a pro území místní části Dolní Černilov. - schvaluje podat žádost o pořízení Územní studie, podle § 6, odst. 1, písm. c) zákona 183/2006 Sb. o Územním plánování a stavebním řádu, ve znění pozdějších předpisů (stavebního zákona) Magistrátem města Hradce Králové, odborem hlavního architekta. V žádosti uvést pro zpracování zadání, jako základ pro obsah a rozsah zpracovaný 2a. návrh Regulativu zástavby. - doporučuje o zpracování Územní studie požádat zpracovatele Územního plánu obce Výrava pana Ing. arch. Karla Novotného, bytem Brožíkova 1684, Hradec Králové, jako autorizovaného architekta. - pověřuje zpracováním a podáním žádosti pana Ing. Františka Schwarzera. - určuje termín podání žádosti do 31.3.2014.",
+31016,31,2014-03-17,Organizační a další působnost zastupitelstva obce,5,"Zastupitelstvo obce schvaluje sobotu dne 31.5.2014 jako den úředně určený k uzavření manželství a schvaluje aby místem pro konání slavnostního obřadu byl Letní parket u Hrubých v obci Výrava, v určenou dobu 12:00 hod.",
+31017,31,2014-03-17,Organizační a další působnost zastupitelstva obce,5,"Zastupitelstvo obce - bere na vědomí, VaK HK a.s. předpokládají, že řádná valná hromada se bude konat dne 4.6.2014 v Eliščině sále Kongresového centra Aldis, a.s. Eliščino nábřeží 375, Hradec Králové - rozhodlo delegovat, ve smyslu § 84, odst. 2, písm. g) zákona č. 128/2000 Sb. o obcích, na valnou hromadu VaKHK a.s., členku zastupitelstva obce, paní Mgr. Jitku Hrubou, bytem Výrava 83",
+31018,31,2014-03-17,Organizační a další působnost zastupitelstva obce,5,"Zastupitelstvo obce- nesouhlasí s předloženou smlouvou o poskytnutí dotace na nákup knih do výměnných fondů pro rok 2014 v rámci regionálních knihovnických služeb z důvodu absolutní nevýhodnosti pro obec, není uvedena žádná reciproká hodnota proti výši požadované dotace a dotaci nebude poskytovat. Smlouva o poskytnutí regionálních knihovnických služeb ze dne 10.2.2003 v rámci regionálních funkcí zůstává v platnosti s tím, že výměnné soubory místo knihovny Černilov zajišťuje Knihovna města Hradce Králové, která tuto činnost zazmíněnou knihovnu převzala. Ve zmíněné smlouvě se mj. uvádí v článku 2. písm. ad d), knihy budou obměňovány nejméně 2 x ročně, v rozsahu cca 100 knihovních jednotek v jednom souboru, což nebylo v roce 2013 dodrženo. - Žádá starostu obce o provedení informace Knihovně města Hradce Králové v souladu s přijatým usnesením – termín do 31.3.2014.",
+31019,31,2014-03-17,Doplňující údaje k zápisu – diskuze – závěr,7,Zastupitelstvo obce- rozhodlo nevyužít nabízených služeb na čištění a monitoring dešťové kanalizace v obci Výrava. Čištění dešťovékanalizace v obci Výrava zajistí podle potřeby Jednotka požární ochrany Výrava. - Žádá starostu obce o provedení informace firmě SEZAKO Prostějov s.r.o. v souladu s přijatým usnesením – termín do 31.3.2014.,
+32001,32,2014-06-16,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce schvaluje program zasedání a konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákonao obcích):",
+32002,32,2014-06-16,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Pavla Jurčíka; sestavením zápisu p. Ing. Františka Schwarzera; zapisovatelkou paní Olgu Jágrovou; sestavením návrhu usnesení paní Mgr. Jitku Hrubou a p. Pavla Vejmana.,
+32003,32,2014-06-16,Hospodaření obce,3,"Zastupitelstvo obce schvaluje rozpočtová opatření RO č. 8÷13 provedených v kompetenci starosty obce, vykonávající pravomoc rady obce.",
+32004,32,2014-06-16,Program rozvoje a obnovy venkova – obce Výravy v roce 2014.,4,"Zastupitelstvo obce schvaluje výběr zhotovitele a uzavření smlouvy o dílo na „Veřejné osvětlení hřbitova“ sdodavatelem ERMO spol. s r.o., HK.",
+32005,32,2014-06-16,Program rozvoje a obnovy venkova – obce Výravy v roce 2014.,4,"Zastupitelstvo obce- bere na vědomí informaci o zpracovaném návrhu Investičního záměru na „Rozvoj obytného území podél jižní strany obce Výrava“, - schvaluje zastavit pokračování prací na investičním záměru především z důvodů vysoká nákladovosti vevztahu k neefektivnosti osídlení území; - ponechat „Záhumenní cestu“ ve stávajícím stavu a k určenému užití určené kolaudačnímrozhodnutím.",
+32006,32,2014-06-16,Program rozvoje a obnovy venkova – obce Výravy v roce 2014.,4,"Zastupitelstvo obce - bere na vědomí informaci o lesním biocentru „Na Bělkách“ uvedenou v tomto zápise, - schvaluje protokolární převzetí díla SO 04 Ozelenění BC Na Bělkách v k.ú. Výrava obcí Výrava od SPÚ, Pobočka Hradec Králové, - pověřuje starostu obce pana Ing. Františka Schwarzera podepsáním protokolu o převzetí díla,",
+32007,32,2014-06-16,Organizační a další působnost zastupitelstva obce,5,"Zastupitelstvo obceschvaluje zadání Územní studie Výrava, předaná Magistrátem města Hradce Králové, odborem hlavního architekta, která stanoví plošnou a prostorovou regulaci zástavby v zastavěném území a v zastavitelných plochách vymezených v Územním plánu a bude sloužit jako územně plánovací podklad pro rozhodování v daném území.",
+32008,32,2014-06-16,Organizační a další působnost zastupitelstva obce,5,Zastupitelstvo obceschvaluje Dodatek č. 1 k Veřejnoprávní smlouvě uzavřené se Statutárním městem HK dne 29.1.2004.,
+32009,32,2014-06-16,Organizační a další působnost zastupitelstva obce,5,"Zastupitelstvo obceschvaluje Smlouvu o zajištění zpětného odběru a využití odpadů z obalů předloženou smluvní stranou EKO-KOM, a.s..",
+32010,32,2014-06-16,Organizační a další působnost zastupitelstva obce,5,"Zastupitelstvo obce- schvaluje „Poděkování“, jako morální ocenění občanů a skupin, kteří se zasloužili o osvětu, rozvoj, prezentaci a správu obce, - s uveřejněním na webových stránkách obce",
+32011,32,2014-06-16,Organizační a další působnost zastupitelstva obce,5,"Zastupitelstvo obce schvaluje v souladu s § 85, písm. b), zákona č. 128/2000 Sb., o obcích peněžitý dar panu Ing.Františku Schwarzerovi, ve výši jeden a půl násobku měsíční odměny (odměna platná k 31.12.2012) za mimořádné práce ve prospěch obce nad rámec zákonných povinností v období roku 2014 splatné v termínu výplat za měsíc srpen 2014.",
+33001,33,2014-09-15,Zahájení zasedání zastupitelstva obce a schválení programu,1,"Zastupitelstvo obce schvaluje program zasedání a konstatuje, že zastupitelstvo je usnášeníschopné (§ 92 odst. 3 zákonao obcích);",
+33002,33,2014-09-15,Zahájení zasedání zastupitelstva obce a schválení programu,1,Zastupitelstvo obce určuje ověřovateli zápisu p. Václava Šípka a p. Pavla Jurčíka; sestavením zápisu p. Ing. Františka Schwarzera; zapisovatelkou paní Olgu Jágrovou; sestavením návrhu usnesení paní Mgr. Jitku Hrubou a p. PavlaVejmana.,
+33003,33,2014-09-15,Hospodaření obce,3,"Zastupitelstvo obce schvaluje rozpočtová opatření RO č. 14÷22 provedených v kompetenci starosty obce, vykonávající pravomoc rady obce.",
+33004,33,2014-09-15,Hospodaření obce,3,Zastupitelstvo obce schvaluje vydání pokynu starostou obce k provedení mimořádné inventarizace majetku a závazků obce Výrava k 30.9.2014 a postup pro schválení inventarizace.,
+33005,33,2014-09-15,Program rozvoje a obnovy venkova – obce Výravy.,4,"Zastupitelstvo obce schvaluje záměr obce provést převod vlastnictví nemovitého majetku v katastru obce Výrava,provedením směny pozemků p. č. 2144/1 a 2144/9 za pozemek p.č. 1936/2 a zplnomocňuje starostu obce podepsáním smlouvy o smlouvě budoucí jako Oprávněný se Závazným",
+33006,33,2014-09-15,Program rozvoje a obnovy venkova – obce Výravy.,4,"Zastupitelstvo obce schvaluje Smlouvu o bezúplatném převodu majetku č.j. UZSVM/H/13581/2014-HMSU pozemkupozemková parcela č. 2144/12 a pozemková parcela č. 2144/13, které vznikly oddělením z pozemku pozemková parcela č.2144/10 dle geometrického plánu č. 313-258/2013, v k.ú. Výrava do vlastnictví obce Výrava a zplnomocňuje starostu obce podepsáním této smlouvy.",

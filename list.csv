@@ -1,114 +1,114 @@
-code,name,
-"metylovice_CZ0802_512184_2014","Metylovice (okres Frýdek-Místek), 2014-2018",
-"prehvozdi_CZ0204_513369_2014","Přehvozdí (okres Kolín), 2014-2018",
-"podoli_CZ0714_516864_2010","Podolí (okres Přerov), 2010-2014",
-"podoli_CZ0714_516864_2014","Podolí (okres Přerov), 2014-2018",
-"rohozec_CZ0205_526622_2010","Rohozec (okres Kutná Hora), 2010-2014",
-"rohozec_CZ0205_526622_2014","Rohozec (okres Kutná Hora), 2014-2018",
-"suchomasty_CZ0202_531782_2014","Suchomasty (okres Beroun), 2014-2018",
-"braskov_CZ0203_532126_2010","Braškov (okres Kladno), 2010-2014",
-"braskov_CZ0203_532126_2014","Braškov (okres Kladno), 2014-2018",
-"bustehrad_CZ0203_532169_2010","Buštěhrad (okres Kladno), 2010-2014",
-"hostoun_CZ0203_532347_2010","Hostouň (okres Kladno), 2010-2014",
-"hostoun_CZ0203_532347_2014","Hostouň (okres Kladno), 2014-2018",
-"uhonice_CZ020A_532991_2010","Úhonice (okres Praha-západ), 2010-2014",
-"uhonice_CZ020A_532991_2014","Úhonice (okres Praha-západ), 2014-2018",
-"velke_pritocno_CZ0203_533033_2014","Velké Přítočno (okres Kladno), 2014-2018",
-"trebovle_CZ0204_533751_2010","Třebovle (okres Kolín), 2010-2014",
-"trebovle_CZ0204_533751_2014","Třebovle (okres Kolín), 2014-2018",
-"luzec_nad_vltavou_CZ0206_535028_2010","Lužec nad Vltavou (okres Mělník), 2010-2014",
-"luzec_nad_vltavou_CZ0206_535028_2014","Lužec nad Vltavou (okres Mělník), 2014-2018",
-"mydlovary_CZ0311_535281_2014","Mydlovary (okres České Budějovice), 2014-2018",
-"podebrady_CZ0208_537683_2010","Poděbrady (okres Nymburk), 2010-2014",
-"podebrady_CZ0208_537683_2014","Poděbrady (okres Nymburk), 2014-2018",
-"mukarov_CZ0209_538523_2010","Mukařov (okres Praha-východ), 2010-2014",
-"mukarov_CZ0209_538523_2014","Mukařov (okres Praha-východ), 2014-2018",
-"cernolice_CZ020A_539121_2014","Černolice (okres Praha-západ), 2014-2018",
-"slapy_CZ020A_539660_2014","Slapy (okres Praha-západ), 2014-2018",
-"drhovy_CZ020B_540188_2010","Drhovy (okres Příbram), 2010-2014",
-"drhovy_CZ020B_540188_2014","Drhovy (okres Příbram), 2014-2018",
-"hlubos_CZ020B_540242_2010","Hluboš (okres Příbram), 2010-2014",
-"hlubos_CZ020B_540242_2014","Hluboš (okres Příbram), 2014-2018",
-"mala_morava_CZ0715_540331_2010","Malá Morava (okres Šumperk), 2010-2014",
-"mala_morava_CZ0715_540331_2014","Malá Morava (okres Šumperk), 2014-2018",
-"svate_pole_CZ020B_541389_2014","Svaté Pole (okres Příbram), 2014-2018",
-"obora_CZ0327_541443_2014","Obora (okres Tachov), 2014-2018",
-"luzna_CZ020C_542041_2010","Lužná (okres Rakovník), 2010-2014",
-"luzna_CZ020C_542041_2014","Lužná (okres Rakovník), 2014-2018",
-"modrava_CZ0322_542148_2010","Modrava (okres Klatovy), 2010-2014",
-"modrava_CZ0322_542148_2014","Modrava (okres Klatovy), 2014-2018",
-"srbec_CZ020C_542431_2014","Srbeč (okres Rakovník), 2014-2018",
-"citoliby_CZ0424_542571_2010","Cítoliby (okres Louny), 2010-2014",
-"citoliby_CZ0424_542571_2014","Cítoliby (okres Louny), 2014-2018",
-"strazkovice_CZ0311_545082_2014","Strážkovice (okres České Budějovice), 2014-2018",
-"veselicko_CZ0314_549975_2014","Veselíčko (okres Písek), 2014-2018",
-"nova_pec_CZ0315_550451_2014","Nová Pec (okres Prachatice), 2014-2018",
-"stachy_CZ0315_550515_2014","Stachy (okres Prachatice), 2014-2018",
-"turovec_CZ0317_551601_2010","Turovec (okres Tábor), 2010-2014",
-"turovec_CZ0317_551601_2014","Turovec (okres Tábor), 2014-2018",
-"koprivna_CZ0715_553247_2010","Kopřivná (okres Šumperk), 2010-2014",
-"koprivna_CZ0715_553247_2014","Kopřivná (okres Šumperk), 2014-2018",
-"krenovy_CZ0321_553832_2010","Křenovy (okres Domažlice), 2010-2014",
-"liba_CZ0411_554618_2010","Libá (okres Cheb), 2010-2014",
-"liba_CZ0411_554618_2014","Libá (okres Cheb), 2014-2018",
-"suchohrdly_CZ0647_555231_2014","Suchohrdly (okres Znojmo), 2014-2018",
-"sadov_CZ0412_555533_2010","Sadov (okres Karlovy Vary), 2010-2014",
-"sadov_CZ0412_555533_2014","Sadov (okres Karlovy Vary), 2014-2018",
-"velichov_CZ0412_555703_2010","Velichov (okres Karlovy Vary), 2010-2014",
-"velichov_CZ0412_555703_2014","Velichov (okres Karlovy Vary), 2014-2018",
-"utusice_CZ0324_558486_2014","Útušice (okres Plzeň-jih), 2014-2018",
-"utusice_CZ0324_558486_2010","Útušice (okres Plzeň-jih), 2010-2014",
-"rochlov_CZ0325_559423_2010","Rochlov (okres Plzeň-sever), 2010-2014",
-"rochlov_CZ0325_559423_2014","Rochlov (okres Plzeň-sever), 2014-2018",
-"hlasivo_CZ0317_560481_2010","Hlasivo (okres Tábor), 2010-2014",
-"hlasivo_CZ0317_560481_2014","Hlasivo (okres Tábor), 2014-2018",
-"techobuz_CZ0633_561355_2010","Těchobuz (okres Pelhřimov), 2010-2014",
-"techobuz_CZ0633_561355_2014","Těchobuz (okres Pelhřimov), 2014-2018",
-"cvikov_CZ0511_561479_2010","Cvikov (okres Česká Lípa), 2010-2014",
-"cvikov_CZ0511_561479_2014","Cvikov (okres Česká Lípa), 2014-2018",
-"mimon_CZ0511_561835_2010","Mimoň (okres Česká Lípa), 2010-2014",
-"ralsko_CZ0511_562017_2014","Ralsko (okres Česká Lípa), 2014-2018",
-"drhovice_CZ0317_563307_2010","Drhovice (okres Tábor), 2010-2014",
-"krystofovo_udoli_CZ0513_564176_2010","Kryštofovo Údolí (okres Liberec), 2010-2014",
-"krabcice_CZ0423_565067_2010","Krabčice (okres Litoměřice), 2010-2014",
-"krabcice_CZ0423_565067_2014","Krabčice (okres Litoměřice), 2014-2018",
-"sirejovice_CZ0423_565598_2014","Siřejovice (okres Litoměřice), 2014-2018",
-"kosatky_CZ0207_566047_2010","Košátky (okres Mladá Boleslav), 2010-2014",
-"vlkanov_CZ0321_566250_2010","Vlkanov (okres Domažlice), 2010-2014",
-"vrbno_nad_lesy_CZ0424_566926_2014","Vrbno nad Lesy (okres Louny), 2014-2018",
-"vroutek_CZ0424_566934_2010","Vroutek (okres Louny), 2010-2014",
-"vroutek_CZ0424_566934_2014","Vroutek (okres Louny), 2014-2018",
-"kosmonosy_CZ0207_570826_2010","Kosmonosy (okres Mladá Boleslav), 2010-2014",
-"vyrava_CZ0521_571105_2010","Výrava (okres Hradec Králové), 2010-2014",
-"vyrava_CZ0521_571105_2014","Výrava (okres Hradec Králové), 2014-2018",
-"vysoka_nad_labem_CZ0521_571113_2010","Vysoká nad Labem (okres Hradec Králové), 2010-2014",
-"vysoka_nad_labem_CZ0521_571113_2014","Vysoká nad Labem (okres Hradec Králové), 2014-2018",
-"libkov_CZ0531_571725_2014","Libkov (okres Chrudim), 2014-2018",
-"holin_CZ0522_572900_2010","Holín (okres Jičín), 2010-2014",
-"holin_CZ0522_572900_2014","Holín (okres Jičín), 2014-2018",
-"cepi_CZ0532_574864_2010","Čepí (okres Pardubice), 2010-2014",
-"cepi_CZ0532_574864_2014","Čepí (okres Pardubice), 2014-2018",
-"mikulovice_CZ0532_575372_2010","Mikulovice (okres Pardubice), 2010-2014",
-"mikulovice_CZ0532_575372_2014","Mikulovice (okres Pardubice), 2014-2018",
-"opatovice_nad_labem_CZ0532_575429_2014","Opatovice nad Labem (okres Pardubice), 2014-2018",
-"opocno_CZ0524_576590_2014","Opočno (okres Rychnov nad Kněžnou), 2014-2018",
-"libstat_CZ0514_577294_2014","Libštát (okres Semily), 2014-2018",
-"radimer_CZ0533_578657_2014","Radiměř (okres Svitavy), 2014-2018",
-"kohoutov_CZ0525_579408_2010","Kohoutov (okres Trutnov), 2010-2014",
-"cerna_hora_CZ0641_581496_2010","Černá Hora (okres Blansko), 2010-2014",
-"cerna_hora_CZ0641_581496_2014","Černá Hora (okres Blansko), 2014-2018",
-"jinacovice_CZ0643_583171_2014","Jinačovice (okres Brno-venkov), 2014-2018",
-"strelice_CZ0643_583910_2014","Střelice (okres Brno-venkov), 2014-2018",
-"moravska_nova_ves_CZ0644_584665_2010","Moravská Nová Ves (okres Břeclav), 2010-2014",
-"moravska_nova_ves_CZ0644_584665_2014","Moravská Nová Ves (okres Břeclav), 2014-2018",
-"morkovice-slizany_CZ0721_588768_2010","Morkovice-Slížany (okres Kroměříž), 2010-2014",
-"morkovice-slizany_CZ0721_588768_2014","Morkovice-Slížany (okres Kroměříž), 2014-2018",
-"vazany_nad_litavou_CZ0646_593664_2014","Vážany nad Litavou (okres Vyškov), 2014-2018",
-"tesetice_CZ0647_594946_2010","Těšetice (okres Znojmo), 2010-2014",
-"tesetice_CZ0647_594946_2014","Těšetice (okres Znojmo), 2014-2018",
-"horni_benesov_CZ0801_597350_2010","Horní Benešov (okres Bruntál), 2010-2014",
-"jindrichov_CZ0801_597449_2014","Jindřichov (okres Bruntál), 2014-2018",
-"popovicky_CZ0209_599221_2010","Popovičky (okres Praha-východ), 2010-2014",
-"popovicky_CZ0209_599221_2014","Popovičky (okres Praha-východ), 2014-2018",
-"karlik_CZ020A_599727_2010","Karlík (okres Praha-západ), 2010-2014",
-"karlik_CZ020A_599727_2014","Karlík (okres Praha-západ), 2014-2018",
+"code","name"
+"metylovice_CZ0802_512184_2014","Metylovice (okres Frydek-Mistek), 2014-2018"
+"prehvozdi_CZ0204_513369_2014","Prehvozdi (okres Kolin), 2014-2018"
+"podoli_CZ0714_516864_2010","Podoli (okres Prerov), 2010-2014"
+"podoli_CZ0714_516864_2014","Podoli (okres Prerov), 2014-2018"
+"rohozec_CZ0205_526622_2010","Rohozec (okres Kutna Hora), 2010-2014"
+"rohozec_CZ0205_526622_2014","Rohozec (okres Kutna Hora), 2014-2018"
+"suchomasty_CZ0202_531782_2014","Suchomasty (okres Beroun), 2014-2018"
+"braskov_CZ0203_532126_2010","Braskov (okres Kladno), 2010-2014"
+"braskov_CZ0203_532126_2014","Braskov (okres Kladno), 2014-2018"
+"bustehrad_CZ0203_532169_2010","Bustehrad (okres Kladno), 2010-2014"
+"hostoun_CZ0203_532347_2010","Hostoun (okres Kladno), 2010-2014"
+"hostoun_CZ0203_532347_2014","Hostoun (okres Kladno), 2014-2018"
+"uhonice_CZ020A_532991_2010","Uhonice (okres Praha-zapad), 2010-2014"
+"uhonice_CZ020A_532991_2014","Uhonice (okres Praha-zapad), 2014-2018"
+"velke_pritocno_CZ0203_533033_2014","Velke Pritocno (okres Kladno), 2014-2018"
+"trebovle_CZ0204_533751_2010","Trebovle (okres Kolin), 2010-2014"
+"trebovle_CZ0204_533751_2014","Trebovle (okres Kolin), 2014-2018"
+"luzec_nad_vltavou_CZ0206_535028_2010","Luzec nad Vltavou (okres Melnik), 2010-2014"
+"luzec_nad_vltavou_CZ0206_535028_2014","Luzec nad Vltavou (okres Melnik), 2014-2018"
+"mydlovary_CZ0311_535281_2014","Mydlovary (okres Ceske Budejovice), 2014-2018"
+"podebrady_CZ0208_537683_2010","Podebrady (okres Nymburk), 2010-2014"
+"podebrady_CZ0208_537683_2014","Podebrady (okres Nymburk), 2014-2018"
+"mukarov_CZ0209_538523_2010","Mukarov (okres Praha-vychod), 2010-2014"
+"mukarov_CZ0209_538523_2014","Mukarov (okres Praha-vychod), 2014-2018"
+"cernolice_CZ020A_539121_2014","Cernolice (okres Praha-zapad), 2014-2018"
+"slapy_CZ020A_539660_2014","Slapy (okres Praha-zapad), 2014-2018"
+"drhovy_CZ020B_540188_2010","Drhovy (okres Pribram), 2010-2014"
+"drhovy_CZ020B_540188_2014","Drhovy (okres Pribram), 2014-2018"
+"hlubos_CZ020B_540242_2010","Hlubos (okres Pribram), 2010-2014"
+"hlubos_CZ020B_540242_2014","Hlubos (okres Pribram), 2014-2018"
+"mala_morava_CZ0715_540331_2010","Mala Morava (okres Sumperk), 2010-2014"
+"mala_morava_CZ0715_540331_2014","Mala Morava (okres Sumperk), 2014-2018"
+"svate_pole_CZ020B_541389_2014","Svate Pole (okres Pribram), 2014-2018"
+"obora_CZ0327_541443_2014","Obora (okres Tachov), 2014-2018"
+"luzna_CZ020C_542041_2010","Luzna (okres Rakovnik), 2010-2014"
+"luzna_CZ020C_542041_2014","Luzna (okres Rakovnik), 2014-2018"
+"modrava_CZ0322_542148_2010","Modrava (okres Klatovy), 2010-2014"
+"modrava_CZ0322_542148_2014","Modrava (okres Klatovy), 2014-2018"
+"srbec_CZ020C_542431_2014","Srbec (okres Rakovnik), 2014-2018"
+"citoliby_CZ0424_542571_2010","Citoliby (okres Louny), 2010-2014"
+"citoliby_CZ0424_542571_2014","Citoliby (okres Louny), 2014-2018"
+"strazkovice_CZ0311_545082_2014","Strazkovice (okres Ceske Budejovice), 2014-2018"
+"veselicko_CZ0314_549975_2014","Veselicko (okres Pisek), 2014-2018"
+"nova_pec_CZ0315_550451_2014","Nova Pec (okres Prachatice), 2014-2018"
+"stachy_CZ0315_550515_2014","Stachy (okres Prachatice), 2014-2018"
+"turovec_CZ0317_551601_2010","Turovec (okres Tabor), 2010-2014"
+"turovec_CZ0317_551601_2014","Turovec (okres Tabor), 2014-2018"
+"koprivna_CZ0715_553247_2010","Koprivna (okres Sumperk), 2010-2014"
+"koprivna_CZ0715_553247_2014","Koprivna (okres Sumperk), 2014-2018"
+"krenovy_CZ0321_553832_2010","Krenovy (okres Domazlice), 2010-2014"
+"liba_CZ0411_554618_2010","Liba (okres Cheb), 2010-2014"
+"liba_CZ0411_554618_2014","Liba (okres Cheb), 2014-2018"
+"suchohrdly_CZ0647_555231_2014","Suchohrdly (okres Znojmo), 2014-2018"
+"sadov_CZ0412_555533_2010","Sadov (okres Karlovy Vary), 2010-2014"
+"sadov_CZ0412_555533_2014","Sadov (okres Karlovy Vary), 2014-2018"
+"velichov_CZ0412_555703_2010","Velichov (okres Karlovy Vary), 2010-2014"
+"velichov_CZ0412_555703_2014","Velichov (okres Karlovy Vary), 2014-2018"
+"utusice_CZ0324_558486_2014","Utusice (okres Plzen-jih), 2014-2018"
+"utusice_CZ0324_558486_2010","Utusice (okres Plzen-jih), 2010-2014"
+"rochlov_CZ0325_559423_2010","Rochlov (okres Plzen-sever), 2010-2014"
+"rochlov_CZ0325_559423_2014","Rochlov (okres Plzen-sever), 2014-2018"
+"hlasivo_CZ0317_560481_2010","Hlasivo (okres Tabor), 2010-2014"
+"hlasivo_CZ0317_560481_2014","Hlasivo (okres Tabor), 2014-2018"
+"techobuz_CZ0633_561355_2010","Techobuz (okres Pelhrimov), 2010-2014"
+"techobuz_CZ0633_561355_2014","Techobuz (okres Pelhrimov), 2014-2018"
+"cvikov_CZ0511_561479_2010","Cvikov (okres Ceska Lipa), 2010-2014"
+"cvikov_CZ0511_561479_2014","Cvikov (okres Ceska Lipa), 2014-2018"
+"mimon_CZ0511_561835_2010","Mimon (okres Ceska Lipa), 2010-2014"
+"ralsko_CZ0511_562017_2014","Ralsko (okres Ceska Lipa), 2014-2018"
+"drhovice_CZ0317_563307_2010","Drhovice (okres Tabor), 2010-2014"
+"krystofovo_udoli_CZ0513_564176_2010","Krystofovo Udoli (okres Liberec), 2010-2014"
+"krabcice_CZ0423_565067_2010","Krabcice (okres Litomerice), 2010-2014"
+"krabcice_CZ0423_565067_2014","Krabcice (okres Litomerice), 2014-2018"
+"sirejovice_CZ0423_565598_2014","Sirejovice (okres Litomerice), 2014-2018"
+"kosatky_CZ0207_566047_2010","Kosatky (okres Mlada Boleslav), 2010-2014"
+"vlkanov_CZ0321_566250_2010","Vlkanov (okres Domazlice), 2010-2014"
+"vrbno_nad_lesy_CZ0424_566926_2014","Vrbno nad Lesy (okres Louny), 2014-2018"
+"vroutek_CZ0424_566934_2010","Vroutek (okres Louny), 2010-2014"
+"vroutek_CZ0424_566934_2014","Vroutek (okres Louny), 2014-2018"
+"kosmonosy_CZ0207_570826_2010","Kosmonosy (okres Mlada Boleslav), 2010-2014"
+"vyrava_CZ0521_571105_2010","Vyrava (okres Hradec Kralove), 2010-2014"
+"vyrava_CZ0521_571105_2014","Vyrava (okres Hradec Kralove), 2014-2018"
+"vysoka_nad_labem_CZ0521_571113_2010","Vysoka nad Labem (okres Hradec Kralove), 2010-2014"
+"vysoka_nad_labem_CZ0521_571113_2014","Vysoka nad Labem (okres Hradec Kralove), 2014-2018"
+"libkov_CZ0531_571725_2014","Libkov (okres Chrudim), 2014-2018"
+"holin_CZ0522_572900_2010","Holin (okres Jicin), 2010-2014"
+"holin_CZ0522_572900_2014","Holin (okres Jicin), 2014-2018"
+"cepi_CZ0532_574864_2010","Cepi (okres Pardubice), 2010-2014"
+"cepi_CZ0532_574864_2014","Cepi (okres Pardubice), 2014-2018"
+"mikulovice_CZ0532_575372_2010","Mikulovice (okres Pardubice), 2010-2014"
+"mikulovice_CZ0532_575372_2014","Mikulovice (okres Pardubice), 2014-2018"
+"opatovice_nad_labem_CZ0532_575429_2014","Opatovice nad Labem (okres Pardubice), 2014-2018"
+"opocno_CZ0524_576590_2014","Opocno (okres Rychnov nad Kneznou), 2014-2018"
+"libstat_CZ0514_577294_2014","Libstat (okres Semily), 2014-2018"
+"radimer_CZ0533_578657_2014","Radimer (okres Svitavy), 2014-2018"
+"kohoutov_CZ0525_579408_2010","Kohoutov (okres Trutnov), 2010-2014"
+"cerna_hora_CZ0641_581496_2010","Cerna Hora (okres Blansko), 2010-2014"
+"cerna_hora_CZ0641_581496_2014","Cerna Hora (okres Blansko), 2014-2018"
+"jinacovice_CZ0643_583171_2014","Jinacovice (okres Brno-venkov), 2014-2018"
+"strelice_CZ0643_583910_2014","Strelice (okres Brno-venkov), 2014-2018"
+"moravska_nova_ves_CZ0644_584665_2010","Moravska Nova Ves (okres Breclav), 2010-2014"
+"moravska_nova_ves_CZ0644_584665_2014","Moravska Nova Ves (okres Breclav), 2014-2018"
+"morkovice-slizany_CZ0721_588768_2010","Morkovice-Slizany (okres Kromeriz), 2010-2014"
+"morkovice-slizany_CZ0721_588768_2014","Morkovice-Slizany (okres Kromeriz), 2014-2018"
+"vazany_nad_litavou_CZ0646_593664_2014","Vazany nad Litavou (okres Vyskov), 2014-2018"
+"tesetice_CZ0647_594946_2010","Tesetice (okres Znojmo), 2010-2014"
+"tesetice_CZ0647_594946_2014","Tesetice (okres Znojmo), 2014-2018"
+"horni_benesov_CZ0801_597350_2010","Horni Benesov (okres Bruntal), 2010-2014"
+"jindrichov_CZ0801_597449_2014","Jindrichov (okres Bruntal), 2014-2018"
+"popovicky_CZ0209_599221_2010","Popovicky (okres Praha-vychod), 2010-2014"
+"popovicky_CZ0209_599221_2014","Popovicky (okres Praha-vychod), 2014-2018"
+"karlik_CZ020A_599727_2010","Karlik (okres Praha-zapad), 2010-2014"
+"karlik_CZ020A_599727_2014","Karlik (okres Praha-zapad), 2014-2018"
